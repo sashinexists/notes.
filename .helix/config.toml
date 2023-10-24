@@ -1,0 +1,12 @@
+theme = "gruvbox"
+
+[editor.soft-wrap]
+enable = true
+max-wrap = 25 # increase value to reduce forced mid-word wrapping
+max-indent-retain = 0
+wrap-indicator = ""  # set wrap-indicator to "" to hide it
+
+[keys.normal."+"]
+t = ":insert-output timestamp"
+d = ":insert-output datetimestamp"
+D = [":sh daily", ":o scratch/daily/today.md"]
