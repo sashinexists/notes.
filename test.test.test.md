@@ -1,1 +1,0 @@
-do I want to invite dots in my note names? Or should I use folders?
