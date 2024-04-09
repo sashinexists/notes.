@@ -21,11 +21,20 @@ SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details)
  WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
 ```
 ```sql
-SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
-     patient
-     LEFT JOIN medical_history
-     ON patient.patient_id = medical_history.patient_id
- WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
+SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) 
+    AS "medical_history_details",
+    jsonb_pretty(assessment_submission.assessment_submission_details) 
+    AS "assessment_submission_details",
+    jsonb_pretty(consent_submission.consent_submission_details) 
+    AS "consent_submission_details"
+    FROM patient
+        LEFT JOIN medical_history
+        ON patient.patient_id = medical_history.patient_id
+        LEFT JOIN assessment_submission
+        ON assessment_submission.patient_id = patient.patient_id
+        LEFT JOIN consent_submission
+        ON consent_submission.patient_id = patient.patient_id
+     WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
 ```
 
 ## (2024/04/05 8:19午前)
