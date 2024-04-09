@@ -9,6 +9,10 @@
     - one of the bugs is blocking release, this one is... the time one, you want to change the toHtml5DateString to what it was before
     - replace with the following
 
+## (2024/04/10 8:09午前)
+- my mind is a bit hazy from last week, let's try to figure out where we are at with the submit to doctor button
+
+
 ## (2024/04/05 8:19午前)
 - okay the first major task is to make it so it fetches saved bdd assessments (the latest one)
 - it looks like consents are disappearing again and you'll need to look into why
