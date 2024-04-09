@@ -11,7 +11,8 @@ SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details)
  WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
 ```
 ```sql
-SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) 
+SELECT patient.patient_id, 
+    jsonb_pretty(medical_history.medical_history_details) 
     AS "medical_history_details",
     jsonb_pretty(assessment_submission.assessment_submission_details) 
     AS "assessment_submission_details",
