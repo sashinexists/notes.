@@ -4,7 +4,7 @@
 - [] cerakeys
   - Not possible to get a special set yet
 - [] henson shaving razor
-- [] more life is strange games
+- [x] more life is strange games
   - waiting on more japanese versions of these games to come to linux
   - should you email them?
 - [] More japanese lessons
@@ -18,3 +18,5 @@
 - [] An electric bike
 - [] The cell very short introductions on kindle
 - [] A paper bin
+- [] everything need to build the cosmos keyboard
+- [] braille keycaps
