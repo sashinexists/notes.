@@ -1,13 +1,3 @@
-### Nice things to do
-- a command line workflow for interfacing with the postgres database
-    - (2024/02/16 4:00午後) Okay you've made progress, now just a script to start it
-- maybe a script that opens three terminals and goes into the dev
-- there is a bug at the moment with concerns raised
-    - bring this up with Ben -> they don't get added to the table until you hit next, we should make a new ticket
-- can a prescription request only have one nurse?
-- okay you need to fix two bugs now
-    - one of the bugs is blocking release, this one is... the time one, you want to change the toHtml5DateString to what it was before
-    - replace with the following
 
 ## (2024/04/10 8:09午前)
 - my mind is a bit hazy from last week, let's try to figure out where we are at with the submit to doctor button
@@ -905,3 +895,13 @@ you need to replace the month and the year
 - you need to run `pip install requirements.txt` in the python-flask folder whenever you start a new ticket
 ### Vite + Elm
 
+### Nice things to do (archived/outdated)
+- a command line workflow for interfacing with the postgres database
+    - (2024/02/16 4:00午後) Okay you've made progress, now just a script to start it
+- maybe a script that opens three terminals and goes into the dev
+- there is a bug at the moment with concerns raised
+    - bring this up with Ben -> they don't get added to the table until you hit next, we should make a new ticket
+- can a prescription request only have one nurse?
+- okay you need to fix two bugs now
+    - one of the bugs is blocking release, this one is... the time one, you want to change the toHtml5DateString to what it was before
+    - replace with the following
