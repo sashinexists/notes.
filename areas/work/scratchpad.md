@@ -13,6 +13,21 @@
 - my mind is a bit hazy from last week, let's try to figure out where we are at with the submit to doctor button
 
 
+```sql
+SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
+     patient
+     LEFT JOIN medical_history
+     ON patient.patient_id = medical_history.patient_id
+ WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
+```
+```sql
+SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
+     patient
+     LEFT JOIN medical_history
+     ON patient.patient_id = medical_history.patient_id
+ WHERE patient.patient_id = 'ba639dd7-477f-4335-8cc3-3aa2743be44b';    
+```
+
 ## (2024/04/05 8:19午前)
 - okay the first major task is to make it so it fetches saved bdd assessments (the latest one)
 - it looks like consents are disappearing again and you'll need to look into why
