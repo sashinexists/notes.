@@ -4,6 +4,10 @@
 - sorted out the submit button with ben
 - currently in type hell
 - signatures are done in different ways
+- list of things in this ticket that need doing
+    - consents reorder as soon as you tick anything
+    - when loading existing consents, all the other consents disappear
+    - you can't reenter information in medical history and possibly bdd assessment
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
