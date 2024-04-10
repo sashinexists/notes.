@@ -1,3 +1,9 @@
+## (2024/04/11 8:25午前)
+- okay, now you have a few things that you need to work on
+    - the first is that when you load existing consents, the display is changed such that only the already signed consents appear, you have to fix this
+- unticking anything seems to fix a lot of problems
+
+
 
 ## (2024/04/10 8:09午前)
 - my mind is a bit hazy from last week, let's try to figure out where we are at with the submit to doctor button
