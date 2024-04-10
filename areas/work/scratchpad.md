@@ -3,6 +3,7 @@
 - my mind is a bit hazy from last week, let's try to figure out where we are at with the submit to doctor button
 - sorted out the submit button with ben
 - currently in type hell
+- signatures are done in different ways
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
