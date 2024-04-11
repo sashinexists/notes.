@@ -8,6 +8,7 @@
     - this goes into the submit form cmd
 - implement functionality for return clients, starting with the sent patient form
 - fix the display issues in the pretreatment form
+    - medical history checkboxes
 - add a meaningful preview to the submit form
 
 
