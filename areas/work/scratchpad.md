@@ -11,6 +11,7 @@
     - medical history checkboxes
 - add a meaningful preview to the submit form
 - the date picker seems to gravitate towards 2024
+- make it so there are no default values and that placeholders show in month and day
 
 
 ## (2024/04/10 8:09午前)
