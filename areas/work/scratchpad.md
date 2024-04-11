@@ -18,7 +18,7 @@
 - getconsents seems to have fixed it
 - next up fix the order
 - generate an expiry date (this would be in python)
-- need a treatment date in the office use section
+- need a treatment date in the office use section (send patient form)
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
