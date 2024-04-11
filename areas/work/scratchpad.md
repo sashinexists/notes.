@@ -10,6 +10,7 @@
 - fix the display issues in the pretreatment form
     - medical history checkboxes
 - add a meaningful preview to the submit form
+- the date picker seems to gravitate towards 2024
 
 
 ## (2024/04/10 8:09午前)
