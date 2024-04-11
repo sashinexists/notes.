@@ -2,6 +2,7 @@
 - okay, now you have a few things that you need to work on
     - the first is that when you load existing consents, the display is changed such that only the already signed consents appear, you have to fix this
 - unticking anything seems to fix a lot of problems
+- maybe when I convert types, I should be making a new things and sticking things in
 
 
 
@@ -14,6 +15,8 @@
     - consents reorder as soon as you tick anything
     - when loading existing consents, all the other consents disappear
     - you can't reenter information in medical history and possibly bdd assessment
+- getconsents seems to have fixed it
+- next up fix the order
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
