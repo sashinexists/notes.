@@ -22,7 +22,7 @@
     - this goes into the submit form cmd
 - implement functionality for return clients, starting with the sent patient form
 - fix the display issues in the pretreatment form
-- add a meaning full preview to the submit form
+- add a meaningful preview to the submit form
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
