@@ -3,7 +3,12 @@
     - the first is that when you load existing consents, the display is changed such that only the already signed consents appear, you have to fix this
 - unticking anything seems to fix a lot of problems
 - maybe when I convert types, I should be making a new things and sticking things in
-
+- generate an expiry date (this would be in python)
+- need a treatment date in the office use section (send patient form)
+    - this goes into the submit form cmd
+- implement functionality for return clients, starting with the sent patient form
+- fix the display issues in the pretreatment form
+- add a meaningful preview to the submit form
 
 
 ## (2024/04/10 8:09午前)
@@ -17,12 +22,6 @@
     - you can't reenter information in medical history and possibly bdd assessment
 - getconsents seems to have fixed it
 - next up fix the order
-- generate an expiry date (this would be in python)
-- need a treatment date in the office use section (send patient form)
-    - this goes into the submit form cmd
-- implement functionality for return clients, starting with the sent patient form
-- fix the display issues in the pretreatment form
-- add a meaningful preview to the submit form
 
 ```sql
 SELECT patient.patient_id, jsonb_pretty(medical_history.medical_history_details) AS "medical_history_details" FROM
