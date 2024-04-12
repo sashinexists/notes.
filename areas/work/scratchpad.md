@@ -9,7 +9,8 @@
 - ask ben about getting a list of patients given a nurse
 - you were able to get all the patients in a clinic in the model, now you have to make a dropdown component for them and put it in the tabs model
     - after that make the tabs look nice
-    - after that hand the send form to patient interface to handle everything
+    - after that change the send form to patient interface to handle everything (you made an EnterPatient variable)
+    - after that make sure that the pretreatment form can get the data given that the patient id should be passing through
 
 ### Meeting with Ben and Toni
 - thinking about the future
