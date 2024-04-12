@@ -3,7 +3,9 @@
 - just need to validate it
 - Next up you need to implement functionality for returning patients
     - this means you want to, in the send patient from, allow the nurse to either create a new patient or send to an existing patient
-- git pull
+- git pull in the create treatment ticket and merge into current one
+- you need a list of patients somehow
+    - after you sort out the patient dropdown, then make the tabs component super nice
 
 ### Meeting with Ben and Toni
 - thinking about the future
