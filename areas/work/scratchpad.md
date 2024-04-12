@@ -6,6 +6,7 @@
 - git pull in the create treatment ticket and merge into current one
 - you need a list of patients somehow
     - after you sort out the patient dropdown, then make the tabs component super nice
+- ask ben about getting a list of patients given a nurse
 
 ### Meeting with Ben and Toni
 - thinking about the future
