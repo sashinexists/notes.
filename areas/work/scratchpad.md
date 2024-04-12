@@ -3,6 +3,7 @@
 - just need to validate it
 - Next up you need to implement functionality for returning patients
     - this means you want to, in the send patient from, allow the nurse to either create a new patient or send to an existing patient
+- git pull
 
 ### Meeting with Ben and Toni
 - thinking about the future
