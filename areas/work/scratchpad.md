@@ -9,6 +9,10 @@
     - priority shifting away from the video conferencing towards the ios app
 - Toni was saying we have our MVP and now we have to start getting polished
 - there's also a problem of the doctors getting too many texts
+- toni says it looks good
+    - have it so that you can text it to the patient (this would need the patient's email)
+    - a realtime up date would be good (so if the patient hasn't signed the form)
+    - alerts when the patient has finished
  
 
 ## (2024/04/11 8:25午前)
