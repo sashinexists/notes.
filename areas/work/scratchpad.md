@@ -7,6 +7,9 @@
 - you need a list of patients somehow
     - after you sort out the patient dropdown, then make the tabs component super nice
 - ask ben about getting a list of patients given a nurse
+- you were able to get all the patients in a clinic in the model, now you have to make a dropdown component for them and put it in the tabs model
+    - after that make the tabs look nice
+    - after that hand the send form to patient interface to handle everything
 
 ### Meeting with Ben and Toni
 - thinking about the future
