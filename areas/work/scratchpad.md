@@ -1,9 +1,10 @@
 ## (2024/04/12 8:10午前)
 - Date entry looks like it is working fine now
 - just need to validate it
+- Next up you need to implement functionality for returning patients
+    - this means you want to, in the send patient from, allow the nurse to either create a new patient or send to an existing patient
 
-
-- ### Meeting with Ben and Toni
+### Meeting with Ben and Toni
 - 
 
 
