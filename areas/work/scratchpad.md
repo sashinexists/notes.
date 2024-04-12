@@ -8,7 +8,8 @@
 - thinking about the future
     - priority shifting away from the video conferencing towards the ios app
 - Toni was saying we have our MVP and now we have to start getting polished
-
+- there's also a problem of the doctors getting too many texts
+ 
 
 ## (2024/04/11 8:25午前)
 - okay, now you have a few things that you need to work on
