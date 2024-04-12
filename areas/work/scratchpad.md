@@ -5,7 +5,9 @@
     - this means you want to, in the send patient from, allow the nurse to either create a new patient or send to an existing patient
 
 ### Meeting with Ben and Toni
-- 
+- thinking about the future
+    - priority shifting away from the video conferencing towards the ios app
+- Toni was saying we have our MVP and now we have to start getting polished
 
 
 ## (2024/04/11 8:25午前)
