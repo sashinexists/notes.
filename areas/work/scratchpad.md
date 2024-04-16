@@ -1,6 +1,10 @@
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
 - ProductsNew will be SelectPrescriptionItems
+    - Doctor's screen
+    - Back Office Prescriptions
+    - Nurse form (prescription form)
+    - Send to patient form
 
 ## (2024/04/12 8:10午前)
 - Date entry looks like it is working fine now
