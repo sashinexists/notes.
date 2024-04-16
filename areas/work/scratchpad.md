@@ -1,3 +1,7 @@
+## (2024/04/17 9:08午前)
+- currently working on getting this working for existing patients
+- ProductsNew will be SelectPrescriptionItems
+
 ## (2024/04/12 8:10午前)
 - Date entry looks like it is working fine now
 - just need to validate it
