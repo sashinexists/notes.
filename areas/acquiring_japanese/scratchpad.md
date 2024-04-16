@@ -72,17 +72,16 @@
   - Another Code
 
 #### Currently Watching
-- あの花
 #### Watch List
 - 日常
 - Orange days
 - Midnight Diner
-
 #### Already Watched (you can rewatch these)
 - 月がきれい
 - 青春豚野郎
-
+- あの花
 #### Games you are playing
+- Life is strange
 - Buddy Mission Bond
 
 #### Already Played (you can replay these at some point)
