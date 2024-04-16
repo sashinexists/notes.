@@ -76,10 +76,17 @@
 - 日常
 - Orange days
 - Midnight Diner
+- Bocchi the rock
 #### Already Watched (you can rewatch these)
 - 月がきれい
 - 青春豚野郎
 - あの花
+
+#### Games to play
+- Life is strange before the storm
+- Life is strange true colours
+  - maybe the deluxe version
+
 #### Games you are playing
 - Life is strange
 - Buddy Mission Bond
