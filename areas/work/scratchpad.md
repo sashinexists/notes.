@@ -12,6 +12,7 @@
 - so far it looks like when you fix Domain.productCategoryTable and decoder in it will work nicely
     - need to figure out how to get the server working here
         - lets do it all manually, it's probably a good thing
+- right now I'm getting errors getting favourites
 
 ## (2024/04/12 8:10午前)
 - Date entry looks like it is working fine now
