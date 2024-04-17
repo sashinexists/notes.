@@ -5,7 +5,9 @@
     - *you need to add a dropdown product selector!!!!*
 - ProductsNew will be SelectPrescriptionItems
     - Doctor's screen
+        - it's in DoctorPortal.elm, in the model, in the products field
     - Back Office Prescriptions
+        - it's in OfficePrescriptions.elm, in the model, in the products field
         - admin user -> office prescriptions
     - Prescription form
         - found in PrescriptionForm.elm, ProductRouterModel type
