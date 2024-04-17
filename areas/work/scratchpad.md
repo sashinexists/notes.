@@ -1,6 +1,8 @@
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
     - maybe you should get this to a working state
+- (10:18午前) okay, the state this ticket is in:
+    - *you need to add a dropdown product selector!!!!*
 - ProductsNew will be SelectPrescriptionItems
     - Doctor's screen
     - Back Office Prescriptions
