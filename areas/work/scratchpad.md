@@ -1,3 +1,8 @@
+## (2024/04/18 8:17午前)
+- okay nothing is showing with the component, that's because it's a maybe
+    - you have to make it so that when a nurse is selected it shows
+
+
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
     - maybe you should get this to a working state
