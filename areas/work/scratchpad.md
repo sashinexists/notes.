@@ -6,7 +6,11 @@
 - ProductsNew will be SelectPrescriptionItems
     - Doctor's screen
     - Back Office Prescriptions
+        - admin user -> office prescriptions
     - Prescription form
+        - found in PrescriptionForm.elm, ProductRouterModel type
+        - ProductsWithAccess.elm if you choose a nurse that has a treatment access group
+        - otherwise Products.elm
     - Send to patient form
 - thinking carefully about this task, I will pull another folder with main-onion and set a different theme and see what happens
 - so far it looks like when you fix Domain.productCategoryTable and decoder in it will work nicely
