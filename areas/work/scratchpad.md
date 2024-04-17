@@ -1,6 +1,7 @@
 ## (2024/04/18 8:17午前)
 - okay nothing is showing with the component, that's because it's a maybe
     - you have to make it so that when a nurse is selected it shows
+- current problem is that it doesn't work if the nurse is not a part of any access group (chancey)
 
 
 ## (2024/04/17 9:08午前)
