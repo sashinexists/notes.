@@ -20,6 +20,8 @@
         - lets do it all manually, it's probably a good thing
 - right now I'm getting errors getting favourites
 - okay, just now you were trying to get an sms and it wasn't working
+    - okay tomorrow problem, fix shared with your email and everything
+    - after that you need to sort out how the access works
 
 ## (2024/04/12 8:10午前)
 - Date entry looks like it is working fine now
