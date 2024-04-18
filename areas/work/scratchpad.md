@@ -9,7 +9,7 @@
     - this can either happen on clicking next or adding an item
         - I feel that having it happen when adding an item would be better
         - at the moment they can only be inserted as a nurse or patient
-- handle the the secret
+- handle the the secret nurse, look at the existing thing
 
 
 ## (2024/04/17 9:08午前)
