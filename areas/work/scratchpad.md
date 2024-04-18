@@ -7,7 +7,8 @@
     - current plan is to go to the python itself and make it return every product
 - thinking through this, you want to put stuff into the database
     - this can either happen on clicking next or adding an item
-        - I feel that adding an item should be better
+        - I feel that having it happen when adding an item would be better
+        - at the moment they can only be inserted as a nurse or patient
 
 
 ## (2024/04/17 9:08午前)
