@@ -6,6 +6,8 @@
 - need to make it get all the products if the nurse isn't a part of any treatment access group
     - current plan is to go to the python itself and make it return every product
 - thinking through this, you want to put stuff into the database
+    - this can either happen on clicking next or adding an item
+        - I feel that adding an item should be better
 
 
 ## (2024/04/17 9:08午前)
