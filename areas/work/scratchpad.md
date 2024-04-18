@@ -5,6 +5,9 @@
     - after that you have to push it through into the prescription state
 - need to make it get all the products if the nurse isn't a part of any treatment access group
     - current plan is to go to the python itself and make it return every product
+- thinking through this, you want to put stuff into the database
+
+
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
     - maybe you should get this to a working state
