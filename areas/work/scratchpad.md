@@ -19,6 +19,7 @@
     - get rid of the domain thing
     - get rid of the update things in domain
 - okay thinking out loud, test to see if you can still it still works 
+    - after that change the other thing
 
 
 ## (2024/04/17 9:08午前)
