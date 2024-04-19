@@ -14,6 +14,7 @@
 - going to do a pr 
 - **Important** the back office prescriptions interface needs to be tested, does the doctor get the information?
 - next up, doctor portal
+- actually let's process Ben's comments
 
 
 ## (2024/04/17 9:08午前)
