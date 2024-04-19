@@ -15,6 +15,9 @@
 - **Important** the back office prescriptions interface needs to be tested, does the doctor get the information?
 - next up, doctor portal
 - actually let's process Ben's comments
+    - remove diff from shared
+    - get rid of the domain thing
+    - get rid of the update things in domain
 
 
 ## (2024/04/17 9:08午前)
