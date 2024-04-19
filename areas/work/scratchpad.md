@@ -16,8 +16,8 @@
 - next up, doctor portal
 - actually let's process Ben's comments
     - remove diff from shared (actually do this last)
-    - get rid of the domain thing
-    - get rid of the update things in domain
+    - get rid of the domain thing (done)
+    - get rid of the update things in domain (done)
 - okay thinking out loud, test to see if you can still it still works 
     - after that change the other thing
 
