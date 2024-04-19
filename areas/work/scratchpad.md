@@ -13,6 +13,7 @@
     - you want to think of a smart way to deal with the table that it is expecting
 - going to do a pr 
 - **Important** the back office prescriptions interface needs to be tested, does the doctor get the information?
+- next up, doctor portal
 
 
 ## (2024/04/17 9:08午前)
