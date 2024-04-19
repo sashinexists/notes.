@@ -20,7 +20,8 @@
     - get rid of the update things in domain (done)
 - okay thinking out loud, test to see if you can still it still works 
     - after that change the other thing
-
+- I don't understand the checkprescriptionstate
+- You are up to the doctor portal
 
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
