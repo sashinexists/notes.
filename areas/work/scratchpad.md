@@ -22,6 +22,7 @@
     - after that change the other thing
 - I don't understand the checkprescriptionstate
 - You are up to the doctor portal
+    - you need to add the New SelectPrescriptionItems items to the doctorPortal, you left a nice comment
 
 ## (2024/04/17 9:08午前)
 - currently working on getting this working for existing patients
