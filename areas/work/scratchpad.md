@@ -1,3 +1,8 @@
+## (2024/04/24 8:06午前)
+
+
+
+
 ## (2024/04/18 8:17午前)
 - okay nothing is showing with the component, that's because it's a maybe
     - you have to make it so that when a nurse is selected it shows
