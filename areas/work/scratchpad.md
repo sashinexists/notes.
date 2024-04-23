@@ -1,5 +1,8 @@
 ## (2024/04/24 8:06午前)
-
+- restricting products
+    - later, ask Ben about this
+- bookmarks
+- 
 
 
 
