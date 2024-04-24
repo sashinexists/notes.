@@ -7,6 +7,7 @@
 - you've also made the dropdowns smaller
 - if this worked then you don't need the part there that inserts office messages
 - how do I tell if the prescription has been requested?
+- it's when it's empty
 
 
 
