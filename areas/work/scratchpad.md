@@ -9,6 +9,7 @@
 - how do I tell if the prescription has been requested?
 - it's when it's empty, what it's been requested, come back to this and start again
 - there was a kind of deep reason that I was sending a message early, it's because to submit in the first place you need a prescription id
+- trying to insert prescription items
 
 
 
