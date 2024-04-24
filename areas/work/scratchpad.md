@@ -3,7 +3,6 @@
     - later, ask Ben about this
 - bookmarks
 - first up figure out how to get this out of hiding
-- buttondown is AN option for a newsletter
 
 
 
