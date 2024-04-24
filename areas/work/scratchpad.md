@@ -2,7 +2,7 @@
 - restricting products
     - later, ask Ben about this
 - bookmarks
-- 
+- first up figure out how to get this out of hiding
 
 
 
