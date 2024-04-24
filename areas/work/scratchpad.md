@@ -8,6 +8,7 @@
 - if this worked then you don't need the part there that inserts office messages
 - how do I tell if the prescription has been requested?
 - it's when it's empty, what it's been requested, come back to this and start again
+- there was a kind of deep reason that I was sending a message early, it's because to submit in the first place you need a prescription id
 
 
 
