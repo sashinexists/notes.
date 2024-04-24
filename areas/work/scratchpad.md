@@ -10,6 +10,9 @@
 - it's when it's empty, what it's been requested, come back to this and start again
 - there was a kind of deep reason that I was sending a message early, it's because to submit in the first place you need a prescription id
 - trying to insert prescription items
+- need to figure out stuff with office prescriptions
+    - right now the button does something else but you need to make it also request the prescription
+- after this you should pull in Ben's changes
 
 
 
