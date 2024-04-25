@@ -1,5 +1,6 @@
 ## (2024/04/26 8:23午前)
 - yesterday was ANZAC day
+    - need to know these public holidays in advance, it was a serendipitous day
 
 
 ## (2024/04/24 8:06午前)
