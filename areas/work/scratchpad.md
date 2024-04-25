@@ -3,6 +3,7 @@
     - need to know these public holidays in advance, it was a serendipitous day
 - there was something that when it was empty it was requested
 - okay it's not if the list it populated but if anything is there that isn't NoPrescriptionRequested
+- make it only insert prescription items the first time, and update later
 
 ## (2024/04/24 8:06午前)
 - restricting products
