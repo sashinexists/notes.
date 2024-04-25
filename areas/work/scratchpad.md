@@ -1,3 +1,7 @@
+## (2024/04/26 8:23午前)
+- yesterday was ANZAC day
+
+
 ## (2024/04/24 8:06午前)
 - restricting products
     - later, ask Ben about this
@@ -13,7 +17,7 @@
 - need to figure out stuff with office prescriptions
     - right now the button does something else but you need to make it also request the prescription
 - after this you should pull in Ben's changes
-    - actually before this
+    - actually before this merge it in
 
 
 
