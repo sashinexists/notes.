@@ -4,6 +4,8 @@
 - there was something that when it was empty it was requested
 - okay it's not if the list it populated but if anything is there that isn't NoPrescriptionRequested
 - make it only insert prescription items the first time, and update later
+- make repeats default to 6 and capped at 6
+    - bug fix then high priority
 
 ## (2024/04/24 8:06午前)
 - restricting products
