@@ -14,6 +14,8 @@
         - it looks like the changes go into the PrescriptionState
     - have a look at what the default PrescrptionState.prescriptionItems are
         - okay it's Nothing
+    - now you have to make an update route and have it access that route on subsequent times
+    - should also check if there's any changes
 
 
 ## (2024/04/24 8:06午前)
