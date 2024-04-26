@@ -6,6 +6,7 @@
 - make it only insert prescription items the first time, and update later
 - make repeats default to 6 and capped at 6
     - bug fix then high priority
+- this is super novel, I don't know anything about this bug
 
 
 ### fixing bugs
