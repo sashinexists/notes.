@@ -13,6 +13,7 @@
     - first check what happens on insert, and see if you can tell if something is already inserted
         - it looks like the changes go into the PrescriptionState
     - have a look at what the default PrescrptionState.prescriptionItems are
+        - okay it's Nothing
 
 
 ## (2024/04/24 8:06午前)
