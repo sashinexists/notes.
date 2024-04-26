@@ -16,6 +16,7 @@
         - okay it's Nothing
     - now you have to make an update route and have it access that route on subsequent times
     - should also check if there's any changes and only do it with changes
+    - also make sure that there is at least one prescription item added in the view model
 
 
 ## (2024/04/24 8:06午前)
