@@ -7,6 +7,12 @@
 - make repeats default to 6 and capped at 6
     - bug fix then high priority
 
+
+### fixing bugs
+- make it only insert once and after that update
+    - first check what happens on insert, and see if you can tell if something is already inserted
+
+
 ## (2024/04/24 8:06午前)
 - restricting products
     - later, ask Ben about this
