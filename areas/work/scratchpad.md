@@ -11,6 +11,8 @@
 ### fixing bugs
 - make it only insert once and after that update
     - first check what happens on insert, and see if you can tell if something is already inserted
+        - it looks like the changes go into the PrescriptionState
+    - have a look at what the default PrescrptionState.prescriptionItems are
 
 
 ## (2024/04/24 8:06午前)
