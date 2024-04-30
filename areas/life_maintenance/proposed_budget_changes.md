@@ -4,6 +4,7 @@
 - + $50 more to everyday expenses
 - + $100 rainy day fund
 - + $100 savings
-- if left over you can put things toward pool and gym
+- if left over you can put things toward swimming pool and gym
 - if *more* left over then savings
 - the rule will be current month + 6 months
+this adds up to $400
