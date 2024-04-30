@@ -1,3 +1,9 @@
+(2024/05/01 4:52午前)
+- I think you should go through all of 青春豚 and make sure you understand *everything* you can consult miho sensei about everything
+- after that you should listen to the entirety of trees of happiness and maybe the mouse story on satori reader, I think it's cool to do it on the laptop
+  - after this you can finish beyond the storm and even buy true colours before switching to playing through persona 4
+
+
 (2024/04/05 5:37午前)
 - Okay, after you finish anohana, the next big thing you'll do is go through the persona 4 deck
   - you'll finish this by the end of winter and be in a very good position ot play the game
