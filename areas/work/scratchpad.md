@@ -1,3 +1,8 @@
+## (2024/05/01 9:38午前)
+- okay now products aren't loading for some reason
+
+
+
 ## (2024/04/26 8:23午前)
 - yesterday was ANZAC day
     - need to know these public holidays in advance, it was a serendipitous day
@@ -8,7 +13,7 @@
     - bug fix then high priority
 - this is super novel, I don't know anything about this bug
 - products don't load after you select a new patient, you are branching off the branch `backup-21-aftermerge`
-
+- 
 
 ### fixing bugs
 - make it only insert once and after that update
