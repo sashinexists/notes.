@@ -1,6 +1,8 @@
 ## (2024/05/02 8:32午前)
 - thinking about how to make it so that you can enter a point
 - now you can think about how to handle this kind of feedback
+    - only five from the IV category and only 6 cosmetics
+- you will use the error
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
