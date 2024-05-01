@@ -4,6 +4,7 @@
 - Justine's number, questions about the ticket 0409426955
 - you need to fix the decimal points after you've worked on this error
 - you need to make these error messages stop displaying when they are not neeeded and you full width
+- also make them look nice
 
 
 ## (2024/04/26 8:23午前)
