@@ -1,5 +1,6 @@
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
+- okay need to figure out how to get the product category from the product
 
 
 
