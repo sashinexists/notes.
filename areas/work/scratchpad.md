@@ -2,6 +2,7 @@
 - okay now products aren't loading for some reason
 - okay need to figure out how to get the product category from the product
 - Justine's number, questions about the ticket 0409426955
+- you need to fix the decimal points after you've worked on this error
 
 
 ## (2024/04/26 8:23午前)
