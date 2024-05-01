@@ -1,3 +1,7 @@
+## (2024/05/02 8:32午前)
+- thinking about how to make it so that you can enter a point
+- now you can think about how to handle this kind of feedback
+
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
 - okay need to figure out how to get the product category from the product
@@ -5,6 +9,7 @@
 - you need to fix the decimal points after you've worked on this error
 - you need to make these error messages stop displaying when they are not neeeded and you full width
 - also make them look nice
+
 
 
 ## (2024/04/26 8:23午前)
