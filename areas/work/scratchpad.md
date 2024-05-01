@@ -3,6 +3,8 @@
 - now you can think about how to handle this kind of feedback
     - only five from the IV category and only 6 cosmetics
 - you will use the error
+    - specifically an input error
+- you probably want a boolean to check if there are input errors and hide add and add to favourites if that's the case
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
