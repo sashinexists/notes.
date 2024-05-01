@@ -20,3 +20,5 @@
 - [] A paper bin
 - [] everything need to build the cosmos keyboard
 - [] braille keycaps
+- [] ultrahuman ring, save on the oura subscription?
+
