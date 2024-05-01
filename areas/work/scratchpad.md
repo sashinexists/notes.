@@ -1,7 +1,7 @@
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
 - okay need to figure out how to get the product category from the product
-
+- Justine's number, questions about the ticket 0409426955
 
 
 ## (2024/04/26 8:23午前)
