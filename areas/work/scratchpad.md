@@ -12,6 +12,8 @@
 - set up might need to happen twice...
     - actually!!!
 - okay now you can test to see if everything works
+- get existing products plugged in to this
+- some kind of custom init thing
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
