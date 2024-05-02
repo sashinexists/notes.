@@ -14,3 +14,4 @@ deduplicate-links = false
 t = ":insert-output timestamp"
 d = ":insert-output datetimestamp"
 D = [":sh daily", ":o scratch/daily/today.md"]
+
