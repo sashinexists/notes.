@@ -11,6 +11,7 @@
 - alright, you are now upto the doctors portal
 - set up might need to happen twice...
     - actually!!!
+- okay now you can test to see if everything works
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
