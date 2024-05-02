@@ -7,6 +7,7 @@
 - you probably want a boolean to check if there are input errors and hide add and add to favourites if that's the case
 - every time a prescription item is added you want to do a count and reject it and add the error if applicable
 - does it only go to 1.0
+- you need to update the errors on edit or remove
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
