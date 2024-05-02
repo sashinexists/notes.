@@ -8,6 +8,9 @@
 - every time a prescription item is added you want to do a count and reject it and add the error if applicable
 - does it only go to 1.0
 - you need to update the errors on edit or remove
+- alright, you are now upto the doctors portal
+- set up might need to happen twice...
+    - actually!!!
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
