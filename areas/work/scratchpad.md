@@ -14,6 +14,7 @@
 - okay now you can test to see if everything works
 - get existing products plugged in to this
 - some kind of custom init thing
+- seems to be working, find out where it gets the prescription items from and figure out a way to updated them
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
