@@ -16,6 +16,7 @@
 - some kind of custom init thing
 - seems to be working, find out where it gets the prescription items from and figure out a way to updated them
     - do you want a button that confirms the changes or not?
+- you want to change the prescription items with the id in DoctorPortal
 
 ## (2024/05/01 9:38午前)
 - okay now products aren't loading for some reason
