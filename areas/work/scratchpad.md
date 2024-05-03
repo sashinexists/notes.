@@ -1,6 +1,8 @@
 ## (2024/05/03 10:10午前)
 - drop the event sourcing stuff now and just let changes be made
     - it won't work very nicely on the mobile phone interface
+-  okay you are going to need an api thing
+- need to think about where to get the prescription_items_id
 
 ## (2024/05/02 8:32午前)
 - thinking about how to make it so that you can enter a point
