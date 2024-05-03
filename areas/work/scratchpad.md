@@ -1,3 +1,6 @@
+## (2024/05/03 10:10午前)
+- drop the event sourcing stuff now and just let changes be made
+
 ## (2024/05/02 8:32午前)
 - thinking about how to make it so that you can enter a point
 - now you can think about how to handle this kind of feedback
