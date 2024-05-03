@@ -8,6 +8,8 @@
     - also finish the pull request
 - thinking through going back in time
 - can have an int representing the offset, in increases as you go back, decreases as you go forward, if you get to negative it sets it back to 0 (also the button for next doesn't show)
+- you should display the day
+    - you definitely want to display this
 
 
 ## (2024/05/02 8:32午前)
