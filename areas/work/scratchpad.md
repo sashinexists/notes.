@@ -10,6 +10,7 @@
 - can have an int representing the offset, in increases as you go back, decreases as you go forward, if you get to negative it sets it back to 0 (also the button for next doesn't show)
 - you should display the day
     - you definitely want to display this
+- you have the buttons and a number of days ago displaying but it's not working
 
 
 ## (2024/05/02 8:32午前)
