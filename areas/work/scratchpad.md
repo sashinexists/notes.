@@ -4,6 +4,8 @@
 -  okay you are going to need an api thing
 - need to think about where to get the prescription_items_id
 - you need to make an event too
+- ask ben if he tested the add_select_items to the doctors portal
+    - also finish the pull request
 
 ## (2024/05/02 8:32午前)
 - thinking about how to make it so that you can enter a point
