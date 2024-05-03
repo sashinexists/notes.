@@ -6,6 +6,9 @@
 - you need to make an event too
 - ask ben if he tested the add_select_items to the doctors portal
     - also finish the pull request
+- thinking through going back in time
+- can have an int representing the offset, in increases as you go back, decreases as you go forward, if you get to negative it sets it back to 0 (also the button for next doesn't show)
+
 
 ## (2024/05/02 8:32午前)
 - thinking about how to make it so that you can enter a point
