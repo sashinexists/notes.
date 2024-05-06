@@ -3,6 +3,8 @@
   - solved this by replacing some keys
 - [] cerakeys
   - Not possible to get a special set yet
+  - I just want a bunch of blanks
+  - actually think deeply about the braille idea
 - [] henson shaving razor
 - [x] more life is strange games
   - waiting on more japanese versions of these games to come to linux
