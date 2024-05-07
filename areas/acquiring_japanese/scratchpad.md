@@ -1,3 +1,6 @@
+(2024/05/08 8:34午前)
+- After learning all the words of persona 3, move on to orange days
+
 (2024/05/01 4:52午前)
 - I think you should go through all of 青春豚 and make sure you understand *everything* you can consult miho sensei about everything
 - after that you should listen to the entirety of trees of happiness and maybe the mouse story on satori reader, I think it's cool to do it on the laptop

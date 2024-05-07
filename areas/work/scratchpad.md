@@ -1,5 +1,5 @@
 ## (2024/05/08 8:15午前)
-- 
+- okay, I've increated the cosmetic items to 12
 
 
 ## (2024/05/03 10:10午前)
