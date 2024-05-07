@@ -1,3 +1,7 @@
+## (2024/05/08 8:15午前)
+- 
+
+
 ## (2024/05/03 10:10午前)
 - drop the event sourcing stuff now and just let changes be made
     - it won't work very nicely on the mobile phone interface
