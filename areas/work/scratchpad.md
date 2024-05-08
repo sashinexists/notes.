@@ -9,6 +9,7 @@
 - next up you can make the edit button say edit
 - next step is to make it only for nurse
 - I should have taken screenshots for those tickets
+- tomorrow you will finish merging in the add+remove favourites button
 
 
 - make a new file for the following
