@@ -3,6 +3,8 @@
 - I think the best thing to do would be to make it so the keyboard pops up
 - need to make the remove from favourites easier to see (on the card makes sense)
 - make it so that edit is more obvious
+- going to make it distinct items
+
 
 
 ## (2024/05/03 10:10午前)
