@@ -4,6 +4,7 @@
 - need to make the remove from favourites easier to see (on the card makes sense)
 - make it so that edit is more obvious
 - going to make it distinct items
+- next up distinct items
 
 
 - make a new file for the following
