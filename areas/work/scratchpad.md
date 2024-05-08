@@ -5,6 +5,7 @@
 - make it so that edit is more obvious
 - going to make it distinct items
 - next up distinct items
+- you want to take a list, for each item in the list you want to count how many in that list have that items product id, return true if over a specific amount
 
 
 - make a new file for the following
