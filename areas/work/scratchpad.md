@@ -1,5 +1,5 @@
 ## (2024/05/09 8:16午前)
-
+- going to try one more thing, getting rid of read only
 
 
 ## (2024/05/08 8:15午前)
