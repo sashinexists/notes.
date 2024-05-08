@@ -7,6 +7,7 @@
 - next up distinct items
 - you want to take a list, for each item in the list you want to count how many in that list have that items product id, return true if over a specific amount
 - next up you can make the edit button say edit
+- next step is to make it only for nurse
 
 
 - make a new file for the following
