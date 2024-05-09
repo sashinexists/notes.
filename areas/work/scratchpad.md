@@ -7,6 +7,7 @@
 - remember to do this on mobile as well
 - also need to make sure that product categories work
 - maybe the selectedFavourite field is no longer necessary
+- up to adding got categories to the new thing
 
 
 ## (2024/05/08 8:15午前)
