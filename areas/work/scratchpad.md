@@ -1,5 +1,8 @@
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
+- what to do now
+    - when you get the products, put them in the search model
+    - handle the searchbox message
 
 
 ## (2024/05/08 8:15午前)
