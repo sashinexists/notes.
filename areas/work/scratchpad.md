@@ -8,7 +8,7 @@
 - also need to make sure that product categories work
 - maybe the selectedFavourite field is no longer necessary
 - up to adding got categories to the new thing
-- right now clearing the box doesn't do anything
+- right now clearing the category box doesn't do anything
 
 ## (2024/05/08 8:15午前)
 - okay, I've increated the cosmetic items to 12
