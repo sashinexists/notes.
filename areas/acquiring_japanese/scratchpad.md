@@ -1,5 +1,6 @@
 (2024/05/10 7:58午前)
-- right now you want to go through dogen's pronunciation course and you want to go through all the words in aomi
+- right now you want to go through dogen's pronunciation course and you want to go through all the words in Aomi
+  - after this maybe you'll want to go through the training in aomi
 
 
 (2024/05/08 8:34午前)
