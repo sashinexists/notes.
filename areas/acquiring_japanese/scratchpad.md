@@ -1,3 +1,7 @@
+(2024/05/10 7:58午前)
+- right now you want to go through dogen's pronunciation course and you want to go through all the words in aomi
+
+
 (2024/05/08 8:34午前)
 - After learning all the words of persona 3, move on to orange days
 
