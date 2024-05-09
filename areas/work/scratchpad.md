@@ -6,6 +6,7 @@
 - now I just need to handle the messages and then work with the view
 - remember to do this on mobile as well
 - also need to make sure that product categories work
+- maybe the selectedFavourite field is no longer necessary
 
 
 ## (2024/05/08 8:15午前)
