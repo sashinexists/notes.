@@ -3,6 +3,8 @@
 - what to do now
     - when you get the products, put them in the search model
     - handle the searchbox message
+- now I just need to handle the messages and then work with the view
+- remember to do this on mobile as well
 
 
 ## (2024/05/08 8:15午前)
