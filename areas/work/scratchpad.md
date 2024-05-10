@@ -12,6 +12,7 @@
 - let's keep going and see if everything is still working
     - indication and treatment area next
 - next up quick select favourites, this will be a little harder
+- now you want to clear the boxes when you add a product
 
 ## (2024/05/08 8:15午前)
 - okay, I've increated the cosmetic items to 12
