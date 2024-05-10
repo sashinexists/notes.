@@ -21,6 +21,8 @@
 - you can definitely do some code reuse here
     - one this is resetting the states of everything
 - (4:00午後) categories didn't seem to be pulled on the office prescription side
+    - also, the new search dropdowns stretch the phone screen
+
 ## (2024/05/08 8:15午前)
 - okay, I've increated the cosmetic items to 12
 - I think the best thing to do would be to make it so the keyboard pops up
