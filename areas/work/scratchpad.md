@@ -14,6 +14,7 @@
 - next up quick select favourites, this will be a little harder
 - now you want to clear the boxes when you add a product
 - I wanna rename the view products
+- next up you want to inline the package
 
 ## (2024/05/08 8:15午前)
 - okay, I've increated the cosmetic items to 12
