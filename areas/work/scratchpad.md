@@ -18,6 +18,8 @@
 - okay next up you want to make things bigger when the product name is bigger
 - you should make it so that the favourites don't show unless there are favourites
 - make it so adding a favourite clears the prescription item
+- you can definitely do some code reuse here
+    - one this is resetting the states of everything
 
 ## (2024/05/08 8:15午前)
 - okay, I've increated the cosmetic items to 12
