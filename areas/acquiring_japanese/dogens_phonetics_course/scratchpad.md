@@ -7,3 +7,4 @@
 - what was palatization again?
   - it's when a voice following a consonant changes the initial position of the tongue to the palate
   - かけこく all block hair at the back of the mouth, but き the tongue blocks hair in the middle of the mouth
+- this is lessons 33 - 57, meaning there are 24 videos of pronunciation
