@@ -4,3 +4,4 @@
 - the 'n' in な,ぬ,ね,の is very similar to the english 'n' but with the tongue slightly more forward (touching the teeth)
   - the hatsuon can be articulated in many different ways
 - し is completely different to the english "shi", for one the lips are completely neutral, and secondly the tongue position is different, the tip is on the bottom teeth and the tongue reaches toward the roof of the mouth
+- what was palatization again?
