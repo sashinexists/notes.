@@ -5,3 +5,5 @@
   - the hatsuon can be articulated in many different ways
 - し is completely different to the english "shi", for one the lips are completely neutral, and secondly the tongue position is different, the tip is on the bottom teeth and the tongue reaches toward the roof of the mouth
 - what was palatization again?
+  - it's when a voice following a consonant changes the initial position of the tongue to the palate
+  - かけこく all block hair at the back of the mouth, but き the tongue blocks hair in the middle of the mouth
