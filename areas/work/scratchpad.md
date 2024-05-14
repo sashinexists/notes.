@@ -4,7 +4,7 @@
     - ask Ben to test it, possibly in front of you, with data that he is familar with
     - fix the behaviour so that products don't show if there are no treatment areas for the product that the nurse has permissions to use
         - unless there is something higher priority
-- 
+- okay it's good, do a pull request and then switch to autoselect indications
 
 
 ## (2024/05/09 8:16午前)
