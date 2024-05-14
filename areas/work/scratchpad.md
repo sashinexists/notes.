@@ -1,5 +1,10 @@
 ## (2024/05/15 8:44午前)
 - if a product has no treatment areas that the nurse has permissions to show, it shouldn't show
+    - ask if indication has anything to do with it
+    - ask Ben to test it, possibly in front of you, with data that he is familar with
+    - fix the behaviour so that products don't show if there are no treatment areas for the product that the nurse has permissions to use
+        - unless there is something higher priority
+- 
 
 
 ## (2024/05/09 8:16午前)
