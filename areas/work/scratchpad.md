@@ -1,3 +1,7 @@
+## (2024/05/15 8:44午前)
+- if a product has no treatment areas that the nurse has permissions to show, it shouldn't show
+
+
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
 - what to do now
