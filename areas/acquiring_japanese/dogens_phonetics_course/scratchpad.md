@@ -8,4 +8,6 @@
   - it's when a voice following a consonant changes the initial position of the tongue to the palate
   - かけこく all block hair at the back of the mouth, but き the tongue blocks hair in the middle of the mouth
 - this is lessons 33 - 57, meaning there are 24 videos of pronunciation
-- じ seems to have two pronunciations depending on whether it is the first mora of a word. If it is then it's an affricate (dz) if not then it's just the voiced し
+- じ seems to have two pronunciations depending on whether it is the first mora of a word. If it is then it's an affricate (dz) if not then it's just the voiced し (a fricative)
+  - it's only a fricative (or the voiced し) after vowels
+- something similar is with z, at the beginning of a word it's an affricate (dza) and in the middle it's just a voiced s
