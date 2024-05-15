@@ -148,7 +148,7 @@ VALUES
     (1, '{}'),
     
 ```
-
+(1, 'Autoselect \"Cosmetic\" indication', 'Autoselect \"Cosmetic\" indication')
 
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
