@@ -14,8 +14,17 @@
 - (2:56午後) when do you get the rules? I am guessing it a left join?
 - (3:18午後) how and when do we get the rules?
 - (3:23午後) okay you should just get the rules and implement the rules, with a "got_rules" kind of thing
+    - you can do it when you've got the products and the categories respectively
+- (3:27午後) you need to add python to get the rules given the product ids and given the products
 
-
+```
+        select * from product_rule
+            left join product on product.product_id = product_rules.product_category_id
+            left join rules on rules.rules_id = product_rules.rules_id
+            left join rule_type on rules.rules_type_id = rule_type.rule_type_id
+            where product.entry_state = 1
+            order by product.product_id desc;
+```
 
 
 
