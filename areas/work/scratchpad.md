@@ -143,7 +143,7 @@ VALUES
 
 
     
-INSERT INTO rule (rule_type_name)
+INSERT INTO rule (rule_type_id, data, name, description)
 VALUES
     ('MAX_VOLUME'),
     ('AUTOSELECT'),
