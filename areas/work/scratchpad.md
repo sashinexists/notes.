@@ -143,12 +143,19 @@ VALUES
 
 
     
-INSERT INTO rule (rule_type_id,  name, description, data)
-VALUES
-    (1, '{}'),
+
+
+
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    1,
+    'Autoselect "Cosmetic Use" indication',
+    'Autoselect "Cosmetic Use" indication when specified product or product category is selected',
+    '{"indication_id": 7}'
+);
     
 ```
-(1, 'Autoselect \"Cosmetic\" indication', 'Autoselect \"Cosmetic\" indication')
+(1, 'Autoselect \"Cosmetic Use\" indication', 'Autoselect \"Cosmetic Use\" indication when specified product or product category is selected', '{indication_id: 7}')
 
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
