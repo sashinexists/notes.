@@ -19,11 +19,17 @@
 
 ```
         select * from product_rule
-            left join product on product.product_id = product_rules.product_category_id
-            left join rules on rules.rules_id = product_rules.rules_id
-            left join rule_type on rules.rules_type_id = rule_type.rule_type_id
+            left join product on product.product_id = product_rule.product_id
+            left join rule on rule.rule_id = product_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
             where product.entry_state = 1
             order by product.product_id desc;
+
+        select * from product_category_rule
+            left join product_category on product_category.product_category_id = product_category_rule.product_category_id
+            left join rule on rule.rule_id = product_category_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
+            order by product_category.product_category_id desc;
 ```
 
 
