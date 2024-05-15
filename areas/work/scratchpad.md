@@ -16,6 +16,9 @@
 - (3:23午後) okay you should just get the rules and implement the rules, with a "got_rules" kind of thing
     - you can do it when you've got the products and the categories respectively
 - (3:27午後) you need to add python to get the rules given the product ids and given the products
+- (3:56午後) next up you have to access the python with elm (and therefore test the python)
+    - you pass in a list of product or product category ids and expect something that can be Decodes into a rule
+
 
 ```
         select * from product_rule
