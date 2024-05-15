@@ -91,16 +91,16 @@ CREATE TABLE rule_type (
     updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP 
 )
 
-CREATE TABLE [IF NOT EXISTS] rule (
+CREATE TABLE rule (
     rule_id SERIAL PRIMARY KEY,
     rule_type_id INT NOT NULL,
     data JSONB NOT NULL,
     name VARCHAR (50) UNIQUE NOT NULL,
     description VARCHAR (200) UNIQUE NOT NULL,
-    created_at TIMESTAMP NOT NULL ON UPDATE CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fk_rule_type
-        FOREIGN KEY rule_type_id
+        FOREIGN KEY (rule_type_id)
         REFERENCES rule_type(rule_type_id)
 )
 
@@ -131,6 +131,15 @@ CREATE TABLE [IF NOT EXISTS] product_category_rule (
 )
     
 ```
+```sql
+
+INSERT INTO rule_type (rule_type_name)
+VALUES
+    ('MAX_VOLUME'),
+    ('AUTOSELECT'),
+    ('MAX_PRESCRIPTION_ITEMS');    
+```
+
 
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
