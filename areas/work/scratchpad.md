@@ -34,11 +34,11 @@
 
 
 ```sql
-CREATE TABLE [IF NOT EXISTS] rule_type (
+CREATE TABLE rule_type (
     rule_type_id SERIAL PRIMARY KEY,
     rule_type_name VARCHAR (50) UNIQUE NOT NULL,
     created_at TIMESTAMP NOT NULL,
-    updated_at TIMESTAMP NOT NULL
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 )
 
 CREATE TABLE [IF NOT EXISTS] rule (
@@ -48,6 +48,57 @@ CREATE TABLE [IF NOT EXISTS] rule (
     name VARCHAR (50) UNIQUE NOT NULL,
     description VARCHAR (200) UNIQUE NOT NULL,
     created_at TIMESTAMP NOT NULL
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+    CONSTRAINT fk_rule_type
+        FOREIGN KEY rule_type_id
+        REFERENCES rule_type(rule_type_id)
+)
+
+CREATE TABLE [IF NOT EXISTS] product_rule (
+    product_rule_id SERIAL PRIMARY KEY,
+    product_id INT NOT NULL,
+    rule_id INT NOT NULL,
+    CONSTRAINT fk_product_id
+    FOREIGN KEY product_id
+        REFERENCES product(product_id)
+    CONSTRAINT fk_rule_id
+    FOREIGN KEY rule_id
+            REFERENCES rule(rule_id)
+    CONSTRAINT unique_product_rule UNIQUE (product_id, rule_id)
+)
+
+CREATE TABLE [IF NOT EXISTS] product_category_rule (
+    product_category_rule_id SERIAL PRIMARY KEY,
+    product_category_id INT NOT NULL,
+    rule_id INT NOT NULL,
+    CONSTRAINT fk_product_category_id
+    FOREIGN KEY product_category_id
+        REFERENCES product_category(product_category_id)
+    CONSTRAINT fk_rule_id
+    FOREIGN KEY rule_id
+        REFERENCES rule(rule_id)
+    CONSTRAINT unique_product_category_rule UNIQUE (product_category_id, rule_id)
+)
+    
+```
+
+### attempt 2
+```sql
+CREATE TABLE rule_type (
+    rule_type_id SERIAL PRIMARY KEY,
+    rule_type_name VARCHAR (50) UNIQUE NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP 
+)
+
+CREATE TABLE [IF NOT EXISTS] rule (
+    rule_id SERIAL PRIMARY KEY,
+    rule_type_id INT NOT NULL,
+    data JSONB NOT NULL,
+    name VARCHAR (50) UNIQUE NOT NULL,
+    description VARCHAR (200) UNIQUE NOT NULL,
+    created_at TIMESTAMP NOT NULL ON UPDATE CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
     CONSTRAINT fk_rule_type
         FOREIGN KEY rule_type_id
         REFERENCES rule_type(rule_type_id)
