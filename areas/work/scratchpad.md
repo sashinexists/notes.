@@ -47,13 +47,29 @@ CREATE TABLE [IF NOT EXISTS] rule (
     CONSTRAINT fk_rule_type
         FOREIGN KEY rule_type_id
             REFERENCES rule_type(rule_type_id)
-            
 )
 
 CREATE TABLE [IF NOT EXISTS] product_rule (
     product_rule_id SERIAL PRIMARY KEY,
-        
-    
+    product_id INT NOT NULL,
+    rule_id INT NOT NULL,
+    CONSTRAINT fk_product_id
+    FOREIGN KEY product_id
+        REFERENCES product(product_id)
+    CONSTRAINT fk_rule_id
+    FOREIGN KEY rule_id
+        REFERENCES rule(rule_id)
+)
+CREATE TABLE [IF NOT EXISTS] product_category_rule (
+    product_category_rule_id SERIAL PRIMARY KEY,
+    product_category_id INT NOT NULL,
+    rule_id INT NOT NULL,
+    CONSTRAINT fk_product_category_id
+    FOREIGN KEY product_category_id
+        REFERENCES product_category(product_category_id)
+    CONSTRAINT fk_rule_id
+    FOREIGN KEY rule_id
+        REFERENCES rule(rule_id)
 )
     
 ```
