@@ -11,6 +11,7 @@
 
 ### thining out loud about rules
 - there's one where you select a product or product category and the indication is autoselected
+- there's max number of prescription items
 
 
 ## (2024/05/09 8:16午前)
