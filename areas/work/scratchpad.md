@@ -133,6 +133,17 @@ CREATE TABLE product_category_rule (
 )
     
 ```
+
+
+```postrgesql
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    2,
+    'Autoselect "Cosmetic Use" indication',
+    'Autoselect "Cosmetic Use" indication when specified product or product category is selected',
+    '{"indication_id": 7}'
+);
+```
 ```sql
 
 INSERT INTO rule_type (rule_type_name)
@@ -159,7 +170,28 @@ VALUES (
     2,
     'Autoselect "Nutrient Therapy" indication',
     'Autoselect "Nutrient Therapy" indication when specified product or product category is selected',
-    '{"indication_id": 7}'
+    '{"indication_id": 8}'
+);
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    2,
+    'Autoselect "Nausea / Vomiting" indication',
+    'Autoselect "Nausea / Vomiting" indication when specified product or product category is selected',
+    '{"indication_id": 11}'
+);
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    2,
+    'Autoselect "Obesity" indication',
+    'Autoselect "Obesity" indication when specified product or product category is selected',
+    '{"indication_id": 9}'
+);
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    2,
+    'Autoselect "Ptosis" indication',
+    'Autoselect "Ptosis" indication when specified product or product category is selected',
+    '{"indication_id": 10}'
 );
 
     
