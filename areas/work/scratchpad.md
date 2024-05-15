@@ -1,3 +1,6 @@
+## (2024/05/16 7:59午前)
+- I want to make the first part of the selected prescription item line longer and the repeats and volume shorter
+
 ## (2024/05/15 8:44午前)
 - if a product has no treatment areas that the nurse has permissions to show, it shouldn't show
     - ask if indication has anything to do with it
