@@ -12,6 +12,8 @@
 - now I'll add the rules in the database right away
 - (2:56午後) okay now to a slightly more fun part, the python and the elm
 - (2:56午後) when do you get the rules? I am guessing it a left join?
+- (3:18午後) how and when do we get the rules?
+
 
 
 
