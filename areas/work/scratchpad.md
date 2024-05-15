@@ -45,8 +45,8 @@ CREATE TABLE [IF NOT EXISTS] rule (
     rule_type_id INT NOT NULL,
     data JSONB NOT NULL,
     CONSTRAINT fk_rule_type
-        FOREIGN KEY rule_type_id
-            REFERENCES rule_type(rule_type_id)
+    FOREIGN KEY rule_type_id
+        REFERENCES rule_type(rule_type_id)
 )
 
 CREATE TABLE [IF NOT EXISTS] product_rule (
@@ -58,8 +58,10 @@ CREATE TABLE [IF NOT EXISTS] product_rule (
         REFERENCES product(product_id)
     CONSTRAINT fk_rule_id
     FOREIGN KEY rule_id
-        REFERENCES rule(rule_id)
+            REFERENCES rule(rule_id)
+    CONSTRAINT unique_product_rule UNIQUE (product_id, rule_id)
 )
+
 CREATE TABLE [IF NOT EXISTS] product_category_rule (
     product_category_rule_id SERIAL PRIMARY KEY,
     product_category_id INT NOT NULL,
@@ -70,6 +72,7 @@ CREATE TABLE [IF NOT EXISTS] product_category_rule (
     CONSTRAINT fk_rule_id
     FOREIGN KEY rule_id
         REFERENCES rule(rule_id)
+    CONSTRAINT unique_product_category_rule UNIQUE (product_category_id, rule_id)
 )
     
 ```
