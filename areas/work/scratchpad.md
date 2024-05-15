@@ -23,14 +23,22 @@
     - pk rule_id
     - RuleType
     - Data
+
 - ProductRule
-    - Fk product_id
-    - rule_id
+    - fk product_id
+    - fk rule_id
 
 - ProductCategoryRule
-    - Fk product_category_id
-    - rule_id
+    - fk product_category_id
+    - fk rule_id
 
+
+```sql
+CREATE TABLE [IF NOT EXISTS] rule_type (
+    rule_type_name VARCHAR (50) UNIQUE NOT NULL
+)
+    
+```
 
 ## (2024/05/09 8:16午前)
 - going to try one more thing, getting rid of read only
