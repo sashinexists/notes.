@@ -136,12 +136,17 @@ CREATE TABLE product_category_rule (
 
 
 ```postrgesql
-INSERT INTO rule (rule_type_id, name, description, data)
+INSERT INTO product_category_rule (product_category_id, rule_id)
 VALUES (
-    2,
-    'Autoselect "Cosmetic Use" indication',
-    'Autoselect "Cosmetic Use" indication when specified product or product category is selected',
-    '{"indication_id": 7}'
+    10,
+    3
+    
+);
+INSERT INTO product_category_rule (product_category_id, rule_id)
+VALUES (
+    6,
+    3
+    
 );
 ```
 ```sql
