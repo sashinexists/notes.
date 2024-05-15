@@ -1,3 +1,8 @@
+### (2024/05/16 7:50午前)
+- aspiration is the amount of air that comes out when you say something
+
+
+
 ### (2024/05/13 3:10午後)
 - The japanese vowels are not identical to the english ones and you should probably practice them
 - devoicing is a thing, う and い between two unvoiced sounds, or just at the end after an unvoiced sound like です is unvoiced, the voice is not voiced (your vocal chords don't move)
@@ -12,3 +17,4 @@
   - it's only a fricative (or the voiced し) after vowels
 - something similar is with z, at the beginning of a word it's an affricate (dza) and after vowels it's just a voiced s
   - after the small っ (促音) it's an affricate
+
