@@ -6,7 +6,11 @@
         - unless there is something higher priority
 - okay it's good, do a pull request and then switch to autoselect indications
 - thinking about adding a way of adding rules
-    - there are maxVolumes, autoselect
+    - there are max volumes, autoselect
+        - presumably these are for categories and products
+
+### thining out loud about rules
+- there's one where you select a product or product category and the indication is autoselected
 
 
 ## (2024/05/09 8:16午前)
