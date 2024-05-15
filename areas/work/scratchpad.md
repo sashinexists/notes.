@@ -42,12 +42,18 @@ CREATE TABLE [IF NOT EXISTS] rule_type (
 
 CREATE TABLE [IF NOT EXISTS] rule (
     rule_id SERIAL PRIMARY KEY,
-    rule_type_id INT,
-    data JSONB,
+    rule_type_id INT NOT NULL,
+    data JSONB NOT NULL,
     CONSTRAINT fk_rule_type
         FOREIGN KEY rule_type_id
             REFERENCES rule_type(rule_type_id)
             
+)
+
+CREATE TABLE [IF NOT EXISTS] product_rule (
+    product_rule_id SERIAL PRIMARY KEY,
+        
+    
 )
     
 ```
