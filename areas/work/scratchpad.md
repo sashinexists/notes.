@@ -18,6 +18,7 @@
 - (3:27午後) you need to add python to get the rules given the product ids and given the products
 - (3:56午後) next up you have to access the python with elm (and therefore test the python)
     - you pass in a list of product or product category ids and expect something that can be Decodes into a rule
+- (4:00午後) maybe move the working for this ticket into a new document (the sql code blocks seem to be intense on the cpu)
 
 
 ```
