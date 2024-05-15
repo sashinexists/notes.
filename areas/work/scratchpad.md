@@ -13,6 +13,23 @@
 - there's one where you select a product or product category and the indication is autoselected
 - there's max number of prescription items
 - maxVolume
+- we'll start with it not being strict and we'll make it strict (the json that is)
+
+### plan for database
+- RuleType
+    - pk name
+        - (max_volume, autoselect, max_prescription_items)
+- Rule
+    - pk rule_id
+    - RuleType
+    - Data
+- ProductRule
+    - Fk product_id
+    - rule_id
+
+- ProductCategoryRule
+    - Fk product_category_id
+    - rule_id
 
 
 ## (2024/05/09 8:16午前)
