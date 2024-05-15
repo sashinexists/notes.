@@ -1,6 +1,93 @@
 ## (2024/05/16 7:59午前)
 - I want to make the first part of the selected prescription item line longer and the repeats and volume shorter
 
+
+
+
+        select * from product_rule
+            left join product on product.product_id = product_rule.product_id
+            left join rule on rule.rule_id = product_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
+            where product.entry_state = 1
+            order by product.product_id desc
+
+
+
+        select 
+        DISTINCT
+            product_rule.product_rule_id,
+            product.product_id,
+            product.product_name,
+            product.product_category_id,
+            product.unit_of_measure_id,
+            product.entry_state,
+            rule.rule_id,
+            rule.data,
+            rule.name,
+            rule.description,
+            rule.created_at AS rule_created_at,
+            rule.updated_at AS rule_updated_at,
+            rule_type.rule_type_id,
+            rule_type.rule_type_name,
+            rule_type.created_at AS rule_type_created_at,
+            rule_type.updated_at AS rule_type_updated_at
+            from product_rule
+            left join product on product.product_id = product_rule.product_id
+            left join rule on rule.rule_id = product_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
+            where product.entry_state = 1
+            order by product.product_id desc
+
+
+        select distinct
+            product_category_rule.product_category_rule_id,
+            product.product_category_id,
+            product.product_category_name,
+            product.product_category_category_id,
+            product.unit_of_measure_id,
+            product.entry_state,
+            rule.rule_id,
+            rule.data,
+            rule.name,
+            rule.description,
+            rule.created_at AS rule_created_at,
+            rule.updated_at AS rule_updated_at,
+            rule_type.rule_type_id,
+            rule_type.rule_type_name,
+            rule_type.created_at AS rule_type_created_at,
+            rule_type.updated_at AS rule_type_updated_at
+            from product_category_rule
+            left join product_category on product_category.product_category_id = product_category_rule.product_category_id
+            left join rule on rule.rule_id = product_category_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
+            order by product_category.product_category_id desc
+
+
+
+
+        select distinct
+            product_category_rule.product_category_rule_id,
+            product_category.product_category_id,
+            product_category.product_category_name,
+            product_category.product_category_id,
+            product_category.unit_of_measure_id,
+            product_category.entry_state,
+            rule.rule_id,
+            rule.data,
+            rule.name,
+            rule.description,
+            rule.created_at AS rule_created_at,
+            rule.updated_at AS rule_updated_at,
+            rule_type.rule_type_id,
+            rule_type.rule_type_name,
+            rule_type.created_at AS rule_type_created_at,
+            rule_type.updated_at AS rule_type_updated_at
+            from product_category_rule
+            left join product_category on product_category.product_category_id = product_category_rule.product_category_id
+            left join rule on rule.rule_id = product_category_rule.rule_id
+            left join rule_type on rule.rule_type_id = rule_type.rule_type_id
+            order by product_category.product_category_id desc
+    
 ## (2024/05/15 8:44午前)
 - if a product has no treatment areas that the nurse has permissions to show, it shouldn't show
     - ask if indication has anything to do with it
