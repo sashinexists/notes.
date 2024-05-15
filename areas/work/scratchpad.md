@@ -9,7 +9,7 @@
     - there are max volumes, autoselect
         - presumably these are for categories and products
 
-### thining out loud about rules
+### thinking out loud about rules
 - there's one where you select a product or product category and the indication is autoselected
 - there's max number of prescription items
 - maxVolume
@@ -104,29 +104,29 @@ CREATE TABLE rule (
         REFERENCES rule_type(rule_type_id)
 )
 
-CREATE TABLE [IF NOT EXISTS] product_rule (
+CREATE TABLE product_rule (
     product_rule_id SERIAL PRIMARY KEY,
     product_id INT NOT NULL,
     rule_id INT NOT NULL,
     CONSTRAINT fk_product_id
-    FOREIGN KEY product_id
-        REFERENCES product(product_id)
+    FOREIGN KEY (product_id)
+        REFERENCES product(product_id),
     CONSTRAINT fk_rule_id
-    FOREIGN KEY rule_id
-            REFERENCES rule(rule_id)
+    FOREIGN KEY (rule_id)
+            REFERENCES rule(rule_id),
     CONSTRAINT unique_product_rule UNIQUE (product_id, rule_id)
 )
 
-CREATE TABLE [IF NOT EXISTS] product_category_rule (
+CREATE TABLE product_category_rule (
     product_category_rule_id SERIAL PRIMARY KEY,
     product_category_id INT NOT NULL,
     rule_id INT NOT NULL,
     CONSTRAINT fk_product_category_id
-    FOREIGN KEY product_category_id
-        REFERENCES product_category(product_category_id)
+    FOREIGN KEY (product_category_id)
+        REFERENCES product_category(product_category_id),
     CONSTRAINT fk_rule_id
-    FOREIGN KEY rule_id
-        REFERENCES rule(rule_id)
+    FOREIGN KEY (rule_id)
+        REFERENCES rule(rule_id),
     CONSTRAINT unique_product_category_rule UNIQUE (product_category_id, rule_id)
 )
     
