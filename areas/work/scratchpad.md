@@ -35,7 +35,19 @@
 
 ```sql
 CREATE TABLE [IF NOT EXISTS] rule_type (
-    rule_type_name VARCHAR (50) UNIQUE NOT NULL
+    rule_type_id SERIAL PRIMARY KEY,
+    rule_type_name VARCHAR (50) UNIQUE NOT NULL,
+    created_at TIMESTAMP NOT NULL
+)
+
+CREATE TABLE [IF NOT EXISTS] rule (
+    rule_id SERIAL PRIMARY KEY,
+    rule_type_id INT,
+    data JSONB,
+    CONSTRAINT fk_rule_type
+        FOREIGN KEY rule_type_id
+            REFERENCES rule_type(rule_type_id)
+            
 )
     
 ```
