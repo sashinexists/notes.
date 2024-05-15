@@ -148,11 +148,20 @@ VALUES
 
 INSERT INTO rule (rule_type_id, name, description, data)
 VALUES (
-    1,
+    2,
     'Autoselect "Cosmetic Use" indication',
     'Autoselect "Cosmetic Use" indication when specified product or product category is selected',
     '{"indication_id": 7}'
 );
+
+INSERT INTO rule (rule_type_id, name, description, data)
+VALUES (
+    2,
+    'Autoselect "Nutrient Therapy" indication',
+    'Autoselect "Nutrient Therapy" indication when specified product or product category is selected',
+    '{"indication_id": 7}'
+);
+
     
 ```
 (1, 'Autoselect \"Cosmetic Use\" indication', 'Autoselect \"Cosmetic Use\" indication when specified product or product category is selected', '{indication_id: 7}')
