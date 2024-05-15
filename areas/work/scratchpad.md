@@ -70,7 +70,6 @@
             product_category.product_category_id,
             product_category.product_category_name,
             product_category.product_category_id,
-            product_category.unit_of_measure_id,
             product_category.entry_state,
             rule.rule_id,
             rule.data,
