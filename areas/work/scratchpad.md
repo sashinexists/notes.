@@ -10,6 +10,8 @@
         - presumably these are for categories and products
 - thinking about rules
 - now I'll add the rules in the database right away
+- (2:56午後) okay now to a slightly more fun part, the python and the elm
+
 
 ### thinking out loud about rules
 - there's one where you select a product or product category and the indication is autoselected
@@ -145,6 +147,30 @@ VALUES (
 INSERT INTO product_category_rule (product_category_id, rule_id)
 VALUES (
     6,
+    3
+    
+);
+INSERT INTO product_category_rule (product_category_id, rule_id)
+VALUES (
+    8,
+    3
+    
+);
+INSERT INTO product_category_rule (product_category_id, rule_id)
+VALUES (
+    7,
+    3
+    
+);
+INSERT INTO product_category_rule (product_category_id, rule_id)
+VALUES (
+    13,
+    3
+    
+);
+INSERT INTO product_category_rule (product_category_id, rule_id)
+VALUES (
+    20,
     3
     
 );
