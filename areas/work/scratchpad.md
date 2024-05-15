@@ -8,6 +8,8 @@
 - thinking about adding a way of adding rules
     - there are max volumes, autoselect
         - presumably these are for categories and products
+- thinking about rules
+- now I'll add the rules in the database right away
 
 ### thinking out loud about rules
 - there's one where you select a product or product category and the indication is autoselected
@@ -134,6 +136,14 @@ CREATE TABLE product_category_rule (
 ```sql
 
 INSERT INTO rule_type (rule_type_name)
+VALUES
+    ('MAX_VOLUME'),
+    ('AUTOSELECT'),
+    ('MAX_PRESCRIPTION_ITEMS');    
+
+
+    
+INSERT INTO rule (rule_type_name)
 VALUES
     ('MAX_VOLUME'),
     ('AUTOSELECT'),
