@@ -4,8 +4,25 @@
 - maybe you should have product category rules separate
 - now process the rules when you select a product or category
 - you also need to make it so that a product
+- now you are implementing the rest of the rules
+- you are going to need a new rule or edit the existing maxVolume rule to apply for treatment areas
+```
+type VolumeValidationError
+    = LessThanZero
+    | Over4mlFillerUsedOnCheeks
+    | Over4mlFillerUsedOnChin
+    | Over4mlFillerUsedOnJawline
+    | Over1mlFillerUsedOnTearTrough
+    | ContainsInvalidCharacters
+    | UnknownVolumeValidationError
 
 
+
+type SelectedPrescriptionItemsValidationError
+    = UnknownSelectedPrescriptionItemsError
+    | MoreThanTwelveCosmeticsItemsSelected
+    | MoreThanFiveIVItemsSelected
+```
 
 
     
