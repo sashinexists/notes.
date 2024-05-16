@@ -7,6 +7,10 @@
 - now you are implementing the rest of the rules
 - you are going to need a new rule or edit the existing maxVolume rule to apply for treatment areas
 - rules you will need, MoreThan
+- max volume will become max volume for a treatment area
+
+- UPDATE rule_type SET rule_type_name = 'MAX_VOLUME_FOR_TREATMENT_AREA' WHERE rule_type_name = 'MAX_VOLUME';
+
 ```
 type VolumeValidationError
     = LessThanZero
