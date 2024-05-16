@@ -1,5 +1,5 @@
 ## (2024/05/17 8:07午前)
-
+- Okay, now do you have to create the rules?
 
 
 ## (2024/05/16 7:59午前)
