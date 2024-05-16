@@ -1,5 +1,7 @@
 ## (2024/05/17 8:07午前)
 - Okay, now do you have to create the rules?
+    - I guess you do, you also need to put them in the system
+- This time the rule type will be 1 (max volume for treatment area) and you will need a treatment_area_id and a max volume in the json
 
 
 ## (2024/05/16 7:59午前)
