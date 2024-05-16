@@ -4,6 +4,15 @@
 - This time the rule type will be 1 (max volume for treatment area) and you will need a treatment_area_id and a max volume in the json
 
 
+
+        INSERT INTO rule (rule_type_id, name, description, data)
+        VALUES (
+            1,
+            'Max Volume of 4ml for "Cheeks" treatment area',
+            'Ensures a maximum volume of 4ml on the "Cheeks" treatment area when specified product or product category is selected',
+            '{"max_volume": 4, "treatment_area_id": 2}'
+        );
+
 ## (2024/05/16 7:59午前)
 - I want to make the first part of the selected prescription item line longer and the repeats and volume shorter
 - you can get the rules after you've gotten the indications, products and product categories provided you have all of them and don't already have rules
