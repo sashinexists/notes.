@@ -9,7 +9,12 @@
 - rules you will need, MoreThan
 - max volume will become max volume for a treatment area
 
-- UPDATE rule_type SET rule_type_name = 'MAX_VOLUME_FOR_TREATMENT_AREA' WHERE rule_type_name = 'MAX_VOLUME';
+- 
+UPDATE rule_type SET rule_type_name = 'MAX_VOLUME_FOR_TREATMENT_AREA' WHERE rule_type_name = 'MAX_VOLUME';
+
+- (4:01午後) you are up to the Rules.elm file, you are changing max_volume to maxVolumeForTreatmentArea
+    - need to figure out how to get the treatment area from the id (probably just pass something in)
+
 
 ```
 type VolumeValidationError
