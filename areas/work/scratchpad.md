@@ -3,6 +3,7 @@
 - you can get the rules after you've gotten the indications, products and product categories provided you have all of them and don't already have rules
 - maybe you should have product category rules separate
 - now process the rules when you select a product or category
+- you also need to make it so that a product
 
 
 
