@@ -1,3 +1,7 @@
+## (2024/05/17 8:07午前)
+
+
+
 ## (2024/05/16 7:59午前)
 - I want to make the first part of the selected prescription item line longer and the repeats and volume shorter
 - you can get the rules after you've gotten the indications, products and product categories provided you have all of them and don't already have rules
