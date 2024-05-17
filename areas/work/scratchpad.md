@@ -11,6 +11,10 @@
 - looks like the rules are
     - up to five different IV products
     - up to six different "cosmetic use" products
+- What I think I am up to is figuring out the max prescription items rule
+    - you could implement it for IV products
+        - try to explain the problem with "cosmetic use" products
+    - then work on an interface to create rules
 
 
         INSERT INTO rule (rule_type_id, name, description, data)
