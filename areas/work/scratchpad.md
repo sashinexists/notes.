@@ -8,6 +8,9 @@
 - I see autoselect indication doesn't actually add it
 - need to test the below volume validation rules (under 2024/06/16)
 - at the moment, you can add more than six different types of products
+- looks like the rules are
+    - up to five different IV products
+    - up to six different "cosmetic use" products
 
 
         INSERT INTO rule (rule_type_id, name, description, data)
