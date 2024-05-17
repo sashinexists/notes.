@@ -3,6 +3,7 @@
     - I guess you do, you also need to put them in the system
 - This time the rule type will be 1 (max volume for treatment area) and you will need a treatment_area_id and a max volume in the json
 - connect rules 11, 12, 14,15 with the filler type
+- we gotta enforce this being done AFTER the treatment areas are loaded
 
 
         INSERT INTO rule (rule_type_id, name, description, data)
