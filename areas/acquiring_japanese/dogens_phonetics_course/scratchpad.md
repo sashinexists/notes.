@@ -1,5 +1,7 @@
 ### (2024/05/18 6:44午前)
+- Japanese has little to no lip rounding
 - 
+
 
 
 ### (2024/05/16 7:50午前)
