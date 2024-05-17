@@ -5,6 +5,7 @@
 - connect rules 11, 12, 14,15 with the filler type
 - we gotta enforce this being done AFTER the treatment areas are loaded
 - now we need to run the rules, it's the same place where the volume validation happens
+- I see autoselect indication doesn't actually add it
 
 
         INSERT INTO rule (rule_type_id, name, description, data)
