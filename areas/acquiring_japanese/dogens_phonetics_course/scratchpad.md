@@ -1,6 +1,6 @@
 ### (2024/05/18 6:44午前)
 - Japanese has little to no lip rounding
-- 
+- much less airflow in the japanese speaking style (orderly)
 
 
 
