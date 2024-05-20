@@ -1,3 +1,7 @@
+### (2024/05/21 8:21午前)
+- in phonetics an affricate is a stop immediately followed by a fricative
+
+
 ### (2024/05/18 6:44午前)
 - Japanese has little to no lip rounding
 - much less airflow in the japanese speaking style (orderly)
