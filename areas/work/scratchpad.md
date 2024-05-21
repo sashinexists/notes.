@@ -1,5 +1,8 @@
 ## (2024/05/22 8:26午前)
 - ask ben about these two different pull requests
+ - one has a backwards merge and the other doesn't
+- after this maybe you can start working on the interface to add new rules
+    - also ask if you can add him as a refence on your tenancy form and about next week
 
 
 ## (2024/05/17 8:07午前)
