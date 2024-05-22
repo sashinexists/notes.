@@ -46,6 +46,7 @@
 - To be able to more or less *perfectly* understand slice of life anime
 - To clearly be able to hear pitch accent
 - To be able to correctly and confidently pronounce し、ひ、ち、じ
+  - to eventually integrate this correct pronunciation in your speech
 
 ## Aspects of Learning
 
