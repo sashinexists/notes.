@@ -47,6 +47,8 @@
 - To clearly be able to hear pitch accent
 - To be able to correctly and confidently pronounce し、ひ、ち、じ
   - to eventually integrate this correct pronunciation in your speech
+    (to achieve this you might simply have to reference the dogen videos a lot and shadow)
+
 
 ## Aspects of Learning
 
@@ -60,6 +62,7 @@
 - [Kotu](https://kotu.io)
 - [Migaku](https://pitch.migaku.io/)
 - [Yudai Sensei's Channel](https://www.youtube.com/@yudaisensei2020)
+
 
 ### Pronunciation
 - [Dogen's course]
