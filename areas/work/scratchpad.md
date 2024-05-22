@@ -1,3 +1,7 @@
+## (2024/05/23 9:59午前)
+- move everything to a new module called ManagePrescriptionItems.elm
+
+
 ## (2024/05/22 8:26午前)
 - ask ben about these two different pull requests
  - one has a backwards merge and the other doesn't
@@ -12,6 +16,7 @@
 - you are in the midst of activity
     - in PrescriptionActivityByClinic, see if you can implement the new components that you made
     - up to line 106 in this file
+
 ```
 type Tab
     = GlobalPatientLookupTab GlobalPatientLookup.Model
