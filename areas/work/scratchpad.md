@@ -12,7 +12,7 @@
 - you are in the midst of activity
     - in PrescriptionActivityByClinic, see if you can implement the new components that you made
     - up to line 106 in this file
-- you need $405 for a package with Natsumi sensei
+- you need $405 for a package with Natsumi sensei -> that's over a hundred per lesson
 ```
 type Tab
     = GlobalPatientLookupTab GlobalPatientLookup.Model
