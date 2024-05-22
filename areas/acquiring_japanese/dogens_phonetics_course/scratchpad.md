@@ -1,3 +1,8 @@
+### (2024/05/23 7:23午前)
+## Dogen's Pitch accent course notes
+- 70% of one mora nouns are atamadaka
+
+
 ### (2024/05/21 8:21午前)
 - in phonetics an affricate is a stop immediately followed by a fricative
 
