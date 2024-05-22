@@ -45,6 +45,7 @@
 ## Current Learning Goals
 - To be able to more or less *perfectly* understand slice of life anime
 - To clearly be able to hear pitch accent
+- To be able to correctly and confidently pronounce し、ひ、ち、じ
 
 ## Aspects of Learning
 
