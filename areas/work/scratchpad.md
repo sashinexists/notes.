@@ -9,6 +9,8 @@
 - I'm going to need help from ben as to where in the interface and where in the code to put this
 - okay now you just need to do it, you need to get the rules, hmm...
 - make documents for each of these
+- you are in the midst of activity
+    - in PrescriptionActivityByClinic, see if you can implement the new components that you made
 ```
 type Tab
     = GlobalPatientLookupTab GlobalPatientLookup.Model
