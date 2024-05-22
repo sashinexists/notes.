@@ -8,7 +8,16 @@
 - so both those bugs are done now, next up is for me to work on the crud
 - I'm going to need help from ben as to where in the interface and where in the code to put this
 - okay now you just need to do it, you need to get the rules, hmm...
-
+- make documents for each of these
+```
+type Tab
+    = GlobalPatientLookupTab GlobalPatientLookup.Model
+    | PrescriptionsByClinic
+    | ManageDoctor
+    | PrescriptionActivityByClinic
+    | ManageClinics
+    | ManageRules
+```
 ## (2024/05/17 8:07午前)
 - Okay, now do you have to create the rules?
     - I guess you do, you also need to put them in the system
