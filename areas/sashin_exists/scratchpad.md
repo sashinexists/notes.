@@ -25,6 +25,7 @@
   - 'Reality is not what it seems' Carlo Rovelli
 - Remake your website using headless ghost and elm pages v3
   - you will want to revamp your books/recommendations page as well as rethink your quotes page and now page
+- Read through the tyranny of strucurelessness again, followed by the tyranny of tyranny
 
 
 ## Thinking out loud
