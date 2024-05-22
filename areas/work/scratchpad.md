@@ -4,6 +4,7 @@
 - after this maybe you can start working on the interface to add new rules
     - also ask if you can add him as a refence on your tenancy form and about next week
 - first up work on two bugs after that make an interface
+- move the error messages to the top on mobile and change it to a wrappedRow
 
 ## (2024/05/17 8:07午前)
 - Okay, now do you have to create the rules?
