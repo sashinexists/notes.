@@ -1,6 +1,15 @@
 ### (2024/05/23 7:23午前)
 ## Dogen's Pitch accent course notes
 - 70% of one mora nouns are atamadaka
+  - these tend to be chinese origin words, and they also tend to express abstract concepts rather than be every day nouns
+- the remaining 30% are heiban tend to be everyday nouns
+- most common single mora nouns are heiban while most single mora nouns full stop are atamadaka
+- 目、手、歯 are atamadaka
+- 胃 is heiban
+- 火 is atamadaka
+- 日 is heiban
+- 木　is atamadark
+- 気 is heiban
 
 
 ### (2024/05/21 8:21午前)
