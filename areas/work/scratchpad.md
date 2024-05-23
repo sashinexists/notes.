@@ -1,6 +1,8 @@
 ## (2024/05/23 9:59午前)
 - move everything for this ticket to a new module called ManagePrescriptionItems.elm
-
+- figure out how to use tasks to make things go in order
+    - if it works you can replicate this for SelectPrescriptionItems.elm
+- think of a nice english way to describe
 
 ## (2024/05/22 8:26午前)
 - ask ben about these two different pull requests
