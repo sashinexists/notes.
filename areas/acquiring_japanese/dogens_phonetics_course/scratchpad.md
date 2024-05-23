@@ -38,8 +38,9 @@
 - common exceptions, four mora, nakadaka (type 1) nouns
  - 先生(せんせい)、コーヒー、弁当(べんとう)、残念(ざんねん)、半分(はんぶん)、案内(あんない)、
 - common exceptions, four mora, nakadaka (type 2) nouns
-  - 土曜日(どようび)、火曜日(かようび)、
-
+  - 土曜日(どようび)、火曜日(かようび)、皆さん(みなさん)、アパート、失礼(しつれい)、飲み物(のみもの)、
+- common exceptions, four mora, odaka nouns
+  - 妹(いもうと)、弟(おとうと)、
 ### (2024/05/21 8:21午前)
 - in phonetics an affricate is a stop immediately followed by a fricative
 
