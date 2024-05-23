@@ -21,7 +21,10 @@
  - 肩(かた)、喉(のど)
 - two mora question words are atamadaka
   - どこ、どれ、どうか、なに、なぜ、だれ、
-
+- Nakadaka and Odaka three mora nouns each make up less than 10% of all three mora nouns
+- the vast majority are heiban or atamadaka
+- common nakadata three mora nouns
+  - 日本(にほん)、卵(たまご)、心(こころ)、お箸(おはし)、 お菓子(おかし)、
 
 
 ### (2024/05/21 8:21午前)
