@@ -4,6 +4,8 @@
     - if it works you can replicate this for SelectPrescriptionItems.elm
 - think of a nice english way to describe the rules
     - at the moment there's really two rule types max volume for a product or product category on a treatment area
+    - and autoselect
+- up to making the rules look all nice, next you will have to add the ability to add, then edit, then delete them
 
 ## (2024/05/22 8:26午前)
 - ask ben about these two different pull requests
