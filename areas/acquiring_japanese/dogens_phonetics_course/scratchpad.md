@@ -30,10 +30,11 @@
 - common three mora atamadaka nouns
  - 午前(ごぜん)、家族(かぞく)、眼鏡(めがね)、景色(けしき)、荷物(にもつ)、電気(でんき), 天気(てんき)、嫌気(げんき)、どなた、どんな、どちら
 - most four mora nouns are heiban
-- the *overwhelming majority* of four mora, two kanji words, are heiban
-- (examples of heiban four mora, two kanji words)
-  - 学校(がっこう)、銀行(ぎんこう)、最低(さいてい)、最悪(さいあく)、最高(さいこう)、平板(へいばん)、
-
+- the *overwhelming majority* of four mora, two kanji nouns, are heiban
+- (examples of heiban four mora, two kanji nouns)
+  - 学校(がっこう)、銀行(ぎんこう)、最低(さいてい)、最悪(さいあく)、最高(さいこう)、平板(へいばん)、勉強(べんきょう)、心配(しんぱい)、
+- common exception, four mora, atamadaka nouns
+ - 音楽(おんがく)、兄弟(きょうだい)、挨拶(あいさつ)、迷惑(めいわく)、玄関(げんかん)、
 
 
 ### (2024/05/21 8:21午前)
