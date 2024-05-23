@@ -10,7 +10,8 @@
 - 日 is heiban
 - 木　is atamadark
 - 気 is heiban
-
+- two mora object pronouns and location adverbs are heiban
+  - この
 
 ### (2024/05/21 8:21午前)
 - in phonetics an affricate is a stop immediately followed by a fricative
