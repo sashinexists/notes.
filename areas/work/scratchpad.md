@@ -1,5 +1,5 @@
 ## (2024/05/23 9:59午前)
-- move everything to a new module called ManagePrescriptionItems.elm
+- move everything for this ticket to a new module called ManagePrescriptionItems.elm
 
 
 ## (2024/05/22 8:26午前)
