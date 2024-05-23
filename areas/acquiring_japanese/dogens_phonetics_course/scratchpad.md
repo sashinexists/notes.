@@ -24,7 +24,11 @@
 - Nakadaka and Odaka three mora nouns each make up less than 10% of all three mora nouns
 - the vast majority are heiban or atamadaka
 - common nakadata three mora nouns
-  - 日本(にほん)、卵(たまご)、心(こころ)、お箸(おはし)、 お菓子(おかし)、
+  - 日本(にほん)、卵(たまご)、心(こころ)、お箸(おはし)、 お菓子(おかし)、匂い(におい)、あはた、
+- common odaka three mora nouns
+  - 言葉(ことば)、男(おとこ)、女(おんな)、みんな
+- common three mora atamadaka nouns
+ -
 
 
 ### (2024/05/21 8:21午前)
