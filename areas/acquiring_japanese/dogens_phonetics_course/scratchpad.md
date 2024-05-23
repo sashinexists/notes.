@@ -28,7 +28,11 @@
 - common odaka three mora nouns
   - 言葉(ことば)、男(おとこ)、女(おんな)、みんな
 - common three mora atamadaka nouns
- - 午前(ごぜん)、家族(かぞく)、眼鏡(めがね)、景色(けしき)、荷物(にもつ)、電気(でんき), 天気(てんき)、嫌気(げんき)、どなた、どんな、
+ - 午前(ごぜん)、家族(かぞく)、眼鏡(めがね)、景色(けしき)、荷物(にもつ)、電気(でんき), 天気(てんき)、嫌気(げんき)、どなた、どんな、どちら
+- most four mora nouns are heiban
+- the *overwhelming majority* of four mora, two kanji words, are heiban
+- (examples of heiban four mora, two kanji words)
+  - 学校(がっこう)、銀行(ぎんこう)、最低(さいてい)、最悪(さいあく)、最高(さいこう)、平板(へいばん)、
 
 
 
