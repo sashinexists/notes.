@@ -30,23 +30,34 @@
 - two mora question words are *atamadaka*
   - どこ、どれ、どうか、なに、なぜ、だれ、
 
+### Three Mora Nouns
 - Nakadaka and Odaka three mora nouns each make up less than 10% of all three mora nouns
 - the vast majority are heiban or atamadaka
-- common nakadata three mora nouns
+
+- common *nakadaka* three mora nouns
   - 日本(にほん)、卵(たまご)、心(こころ)、お箸(おはし)、 お菓子(おかし)、匂い(におい)、あはた、
-- common odaka three mora nouns
+  
+- common *odaka* three mora nouns
   - 言葉(ことば)、男(おとこ)、女(おんな)、みんな
-- common three mora atamadaka nouns
+  
+- common three mora *atamadaka* nouns
  - 午前(ごぜん)、家族(かぞく)、眼鏡(めがね)、景色(けしき)、荷物(にもつ)、電気(でんき), 天気(てんき)、嫌気(げんき)、どなた、どんな、どちら
-- most four mora nouns are heiban
+
+### Four Mora Nouns
+- most four mora nouns are *heiban*
 - the *overwhelming majority* of four mora, two kanji nouns, are heiban
-- (examples of heiban four mora, two kanji nouns)
+
+- Examples of *heiban* four mora, two kanji nouns
   - 学校(がっこう)、銀行(ぎんこう)、最低(さいてい)、最悪(さいあく)、最高(さいこう)、平板(へいばん)、勉強(べんきょう)、心配(しんぱい)、
-- common exceptions, four mora, atamadaka nouns
+
+- common exceptions, four mora, *atamadaka* nouns
  - 音楽(おんがく)、兄弟(きょうだい)、挨拶(あいさつ)、迷惑(めいわく)、玄関(げんかん)、
-- common exceptions, four mora, nakadaka (type 1) nouns
+
+- common exceptions, four mora, *nakadaka (type 1)* nouns
  - 先生(せんせい)、コーヒー、弁当(べんとう)、残念(ざんねん)、半分(はんぶん)、案内(あんない)、
-- common exceptions, four mora, nakadaka (type 2) nouns
+
+- common exceptions, four mora, *nakadaka (type 2)* nouns
   - 土曜日(どようび)、火曜日(かようび)、皆さん(みなさん)、アパート、失礼(しつれい)、飲み物(のみもの)、
-- common exceptions, four mora, odaka nouns
+  
+- common exceptions, four mora, *odaka* nouns
   - 妹(いもうと)、弟(おとうと)、
