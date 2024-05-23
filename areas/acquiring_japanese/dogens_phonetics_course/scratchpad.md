@@ -33,9 +33,12 @@
 - the *overwhelming majority* of four mora, two kanji nouns, are heiban
 - (examples of heiban four mora, two kanji nouns)
   - 学校(がっこう)、銀行(ぎんこう)、最低(さいてい)、最悪(さいあく)、最高(さいこう)、平板(へいばん)、勉強(べんきょう)、心配(しんぱい)、
-- common exception, four mora, atamadaka nouns
+- common exceptions, four mora, atamadaka nouns
  - 音楽(おんがく)、兄弟(きょうだい)、挨拶(あいさつ)、迷惑(めいわく)、玄関(げんかん)、
-
+- common exceptions, four mora, nakadaka (type 1) nouns
+ - 先生(せんせい)、コーヒー、弁当(べんとう)、残念(ざんねん)、半分(はんぶん)、案内(あんない)、
+- common exceptions, four mora, nakadaka (type 2) nouns
+  - 土曜日(どようび)、火曜日(かようび)、
 
 ### (2024/05/21 8:21午前)
 - in phonetics an affricate is a stop immediately followed by a fricative
