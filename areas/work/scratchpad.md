@@ -2,7 +2,8 @@
 - move everything for this ticket to a new module called ManagePrescriptionItems.elm
 - figure out how to use tasks to make things go in order
     - if it works you can replicate this for SelectPrescriptionItems.elm
-- think of a nice english way to describe
+- think of a nice english way to describe the rules
+    - at the moment there's really two rule types max volume for a product or product category on a treatment area
 
 ## (2024/05/22 8:26午前)
 - ask ben about these two different pull requests
