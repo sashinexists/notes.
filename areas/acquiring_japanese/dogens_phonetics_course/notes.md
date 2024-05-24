@@ -106,9 +106,15 @@
 - でしょう follows the same pitch accent pattern as だろう
   - For downstep patterns, all mora attach low
   - For heiban, it attaches high and there is a drop
+    - that is the でしょ attaches high and the う is low
 
 
 - らしい (meaning, "I heard that" and not "seems like") also follows the same pitch accent pattern as だろう
   - For downstep patterns, all mora attach low
   - For heiban, it attaches high and there is a drop
+    - that is the らし attaches high and the い is low
+
+- らしい meaning "seems like" follows a different set of pitch accent rules to the above
+  - when attached to a downstep form, the noun it is attached to become heiban and stays high until い
+  - with heiban nouns it works identical to the above
    
