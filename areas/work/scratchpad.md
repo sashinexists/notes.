@@ -1,3 +1,7 @@
+## (2024/05/24 10:26午前)
+- now all the rules are displaying nicely
+
+
 ## (2024/05/23 9:59午前)
 - move everything for this ticket to a new module called ManagePrescriptionItems.elm
 - figure out how to use tasks to make things go in order
