@@ -86,4 +86,9 @@
 - だ (casual form of です) connects just like a particle
   - attaches low to downstep words
   - attaches high to heiban
+
+- です
+  - For downstep patterns, both mora of です attach low
+  - For heiban, there is a drop in です
+    - that is the で attaches high while the す attaches low
    
