@@ -91,4 +91,24 @@
   - For downstep patterns, both mora of です attach low
   - For heiban, there is a drop in です
     - that is the で attaches high while the す attaches low
+
+- みたい follows the same rules as です
+  - For downstep patterns, all mora attach low
+  - For heiban, it attaches high and there is a drop
+    - that is the み attaches high and the たい is low
+
+- だろう
+  - For downstep patterns all mora attach low
+  - for heiban, it attaches high and there is a drop
+    - that is the だろ is high and the う is low
+
+
+- でしょう follows the same pitch accent pattern as だろう
+  - For downstep patterns, all mora attach low
+  - For heiban, it attaches high and there is a drop
+
+
+- らしい (meaning, "I heard that" and not "seems like") also follows the same pitch accent pattern as だろう
+  - For downstep patterns, all mora attach low
+  - For heiban, it attaches high and there is a drop
    
