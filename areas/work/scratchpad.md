@@ -10,6 +10,9 @@
     - indication
     - volume
     - treament area
+- now you have to get the category search box working
+    - connect it to the product so it actually filters products, also get rid of nones
+    - maybe have a look at SelectPrescriptionItems.elm first
 
 
 ## (2024/05/23 9:59午前)
