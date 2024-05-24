@@ -63,3 +63,7 @@
   - 妹(いもうと)、弟(おとうと)、
 
 ## Nouns with 5 mora and Compounds
+- [patreon](https://www.patreon.com/posts/japanese-episode-7585439)
+- [youtube](https://invidious.perennialte.ch/watch?time_continue=40&v=MwiLViaQHeg&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo)
+
+- Many five mora nouns, and almost all relatively long compounds in Japanese are nakadaka with the downstep occuring in the later element of the compound
