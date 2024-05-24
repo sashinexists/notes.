@@ -2,6 +2,7 @@
 - now all the rules are displaying nicely
 - maybe create components to select a rule
 - maybe you should make a component, then you can handle the update also
+- after the scope is chosen, the product/category dropbox shows as well as the rule typedrop box
 
 
 ## (2024/05/23 9:59午前)
