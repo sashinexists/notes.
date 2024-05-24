@@ -13,6 +13,7 @@
 - now you have to get the category search box working
     - connect it to the product so it actually filters products, also get rid of nones
     - maybe have a look at SelectPrescriptionItems.elm first
+- tomorrow we need to fill out that form and also get vaccinated
 
 
 ## (2024/05/23 9:59午前)
