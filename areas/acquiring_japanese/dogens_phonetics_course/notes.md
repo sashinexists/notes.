@@ -63,10 +63,27 @@
   - 妹(いもうと)、弟(おとうと)、
 
 ## Nouns with 5 mora and Compounds
-- [patreon](https://www.patreon.com/posts/japanese-episode-7585439)
-- [youtube](https://invidious.perennialte.ch/watch?time_continue=40&v=MwiLViaQHeg&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo)
+- Source: Japanese phonetics Episode 9
+
+- [Patreon](https://www.patreon.com/posts/japanese-episode-7585439)
+- [Youtube](https://invidious.perennialte.ch/watch?time_continue=40&v=MwiLViaQHeg&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDI4NjY2&feature=emb_logo)
 
 - Many five mora nouns, and almost all relatively long compounds in Japanese are nakadaka with the downstep occuring in the later element of the compound
 
 
 ## Pitch Accent Patterns for nouns in phrases
+- Source: Japanese phonetics Episode 10
+
+- [Patreon](https://www.patreon.com/posts/japanese-episode-7705798)
+- [YouTube](https://invidious.perennialte.ch/watch?v=Kr6dmThTWdY&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+
+- Heiban words do *not* have a downstep
+- Atamadaka, Nakadaka and Odaka *do* have a downstep
+
+- Downstep: Atamadaka, Nakadaka and Odaka
+- No Downstep: Heiban
+
+- だ (casual form of です) connects just like a particle
+  - attaches low to downstep words
+  - attaches high to heiban
+   
