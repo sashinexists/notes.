@@ -61,3 +61,5 @@
   
 - common exceptions, four mora, *odaka* nouns
   - 妹(いもうと)、弟(おとうと)、
+
+## Nouns with 5 mora and Compounds
