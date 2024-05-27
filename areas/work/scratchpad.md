@@ -1,3 +1,7 @@
+## (2024/05/28 8:07午前)
+
+
+
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
 - maybe create components to select a rule
