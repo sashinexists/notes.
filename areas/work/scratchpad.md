@@ -2,6 +2,7 @@
 - so far the filter by category and product seems to be working as expected
 - think about rule type, should it show up after product is selected? 
     - this makes sense to me
+- gonna fix the category problem
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
