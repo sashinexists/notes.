@@ -130,3 +130,7 @@
     - よい : HL
     - うまい : LHL
     - おもしろい : LHHHL
+
+- A major exception is 多い(おおい)
+  - おおい : HLL
+
