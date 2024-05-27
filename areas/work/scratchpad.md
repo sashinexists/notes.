@@ -3,6 +3,7 @@
 - think about rule type, should it show up after product is selected? 
     - this makes sense to me
 - gonna fix the category problem
+    - going to make everything load in a predictable order just like in ManageTreatmentItems.elm
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
