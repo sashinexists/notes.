@@ -173,3 +173,10 @@ He recommends that we learn both and actively listen for them, and "let the chip
 - [patreon link](https://www.patreon.com/posts/japanese-episode-46276106)
 
 - Dogen highly recommends that japanese learners go with the nakadaka pronunciations of 赤い and 冷たい and heiban i-adjectives in general
+
+- It is also okay to pronounce heiban i-adjectives with the nakadaka pattern in front of nouns
+  -　For example: 赤い車 
+
+"In most common conjugations of heiban i-adjectives the downstep doesn't move"
+
+The downstep stays in the same place as the nakadaka pattern in the
