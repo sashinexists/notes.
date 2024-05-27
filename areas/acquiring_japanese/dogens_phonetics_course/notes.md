@@ -118,3 +118,9 @@
   - when attached to a downstep form, the noun it is attached to become heiban and stays high until い
   - with heiban nouns it works identical to the above
    
+## Introduct to i-adjectives
+- Source: Japanese phonetics Episode 12
+- [youtube link](https://invidious.perennialte.ch/watch?time_continue=1064&v=v9hYLByuy2I&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDEzOTExNywxMzkxMTcsMTM5MTE3LDI4NjY2&feature=emb_logo)
+- [patreon link](https://www.patreon.com/posts/51277802)
+
+- There are two kinds of i-adjectives, downstep i-adjectives and heiban i-adjectives, each of which follow different pitch accent rules
