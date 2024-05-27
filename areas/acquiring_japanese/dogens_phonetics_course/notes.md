@@ -160,4 +160,10 @@ If the downstep i-adjective only has two mora, then the downstep cannot be shift
   - うまかった : LHLLL
   - うまければ　: LHLLL
   - うまがったら : LHLLLL
-  - うもさ : LHL 
+
+For the さ form of 3-mora downstep adjectives, only the traditional pronunciations are used
+
+Dogen finds it difficult to recommend the newer or the traditional pronunciations.
+
+He recommends that we learn both and actively listen for them, and "let the chips fall as the may".
+
