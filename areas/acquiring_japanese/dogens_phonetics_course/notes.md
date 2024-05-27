@@ -167,3 +167,4 @@ Dogen finds it difficult to recommend the newer or the traditional pronunciation
 
 He recommends that we learn both and actively listen for them, and "let the chips fall as the may".
 
+## Pitch Accent in Heiban i-adjectives
