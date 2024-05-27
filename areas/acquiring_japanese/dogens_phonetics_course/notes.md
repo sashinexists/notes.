@@ -147,3 +147,17 @@
   - うまがったら : HLLLLL
   - うもさ : HLL 
 
+If the downstep i-adjective only has two mora, then the downstep cannot be shifted one mora early
+  - よい : HL
+  - よく : HL
+  - よかった : HLLL
+  - よければ : HLLL
+
+- in the newer way, the downstep does *not* shift
+  - うまい : LHL
+  - うまく : LHL
+  - うまくて : LHLL
+  - うまかった : LHLLL
+  - うまければ　: LHLLL
+  - うまがったら : LHLLLL
+  - うもさ : LHL 
