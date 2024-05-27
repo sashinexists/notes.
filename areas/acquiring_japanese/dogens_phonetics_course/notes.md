@@ -177,6 +177,14 @@ He recommends that we learn both and actively listen for them, and "let the chip
 - It is also okay to pronounce heiban i-adjectives with the nakadaka pattern in front of nouns
   -　For example: 赤い車 
 
-"In most common conjugations of heiban i-adjectives the downstep doesn't move"
+- "In most common conjugations of heiban i-adjectives the downstep doesn't move"
 
-The downstep stays in the same place as the nakadaka pattern in the
+The downstep stays in the same place as the nakadaka pattern in 赤い
+- あかくて : LHLL
+- あかかった : LHLLL
+- あかければ : LHLLL
+- あかかったら : LHLLLL
+
+The two major exceptions are the く and さ forms which are always said with the heiban pattern
+- あかく : LHH
+- あかさ : LHH
