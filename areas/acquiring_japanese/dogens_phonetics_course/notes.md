@@ -168,3 +168,8 @@ Dogen finds it difficult to recommend the newer or the traditional pronunciation
 He recommends that we learn both and actively listen for them, and "let the chips fall as the may".
 
 ## Pitch Accent in Heiban i-adjectives
+- Source: Japanese phonetics Episode 13
+- [youtube link](https://invidious.perennialte.ch/watch?time_continue=3&v=0KHh080vDto&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-46276106)
+
+- Dogen highly recommends that japanese learners go with the nakadaka pronunciations of 赤い and 冷たい and heiban i-adjectives in general
