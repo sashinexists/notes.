@@ -141,3 +141,9 @@
 - in the traditional way the downstep occurs *one mora early*
   - うまい : LHL
   - うまく : HLL
+  - うまくて : HLLL
+  - うまかった : HLLLL
+  - うまければ　: HLLLL
+  - うまがったら : HLLLLL
+  - うもさ : HLL 
+
