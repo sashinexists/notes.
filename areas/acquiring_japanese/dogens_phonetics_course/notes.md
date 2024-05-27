@@ -134,3 +134,10 @@
 - A major exception is 多い(おおい)
   - おおい : HLL
 
+- There are two ways that these downstep i-adjectives conjugate
+  - the traditional way
+  - the new way
+
+- in the traditional way the downstep occurs *one mora early*
+  - うまい : LHL
+  - うまく : HLL
