@@ -124,3 +124,9 @@
 - [patreon link](https://www.patreon.com/posts/51277802)
 
 - There are two kinds of i-adjectives, downstep i-adjectives and heiban i-adjectives, each of which follow different pitch accent rules
+
+- In downstep i-adjectvies, in the dictionary form (辞書系) the downstep occurs in the second last mora
+  - Examples
+    - よい : HL
+    - うまい : LHL
+    - おもしろい : LHHHL
