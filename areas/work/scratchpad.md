@@ -1,3 +1,5 @@
+
+
 ## (2024/05/28 8:07午前)
 - so far the filter by category and product seems to be working as expected
 - think about rule type, should it show up after product is selected? 
@@ -10,6 +12,7 @@
     - after that see if we can use it in an if statement
 - figure out what add favourites and refresh favourites are
 - now sort out the merge conflicts with the rules
+- you need to read quick select favourites to
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
