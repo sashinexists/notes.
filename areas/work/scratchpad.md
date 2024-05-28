@@ -9,6 +9,7 @@
 - going to have to turn getNurseFavourites and getNurseProducts into a task
     - after that see if we can use it in an if statement
 - figure out what add favourites and refresh favourites are
+- now sort out the merge conflicts with the rules
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
