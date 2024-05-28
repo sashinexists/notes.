@@ -4,6 +4,7 @@
     - this makes sense to me
 - gonna fix the category problem
     - going to make everything load in a predictable order just like in ManageTreatmentItems.elm
+- the only unique things that nurses do are getting favourites and products
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
