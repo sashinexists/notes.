@@ -1,5 +1,6 @@
 ## (2024/05/29 9:00午前)
 - Okay, you've fixed the problems from yesterday and you've also merged in the new main-onion into the current branch you are working on
+- why is it still in the loading stage?
 
 
 ## (2024/05/28 8:07午前)
