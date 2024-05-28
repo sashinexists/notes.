@@ -12,7 +12,8 @@
     - after that see if we can use it in an if statement
 - figure out what add favourites and refresh favourites are
 - now sort out the merge conflicts with the rules
-- you need to read quick select favourites to
+- you need to readd quick select favourites to SelectPrescriptionItems.elm
+    - you also need to make it so treatment areas don't load initially
 
 ## (2024/05/24 10:26午前)
 - now all the rules are displaying nicely
