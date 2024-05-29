@@ -4,6 +4,9 @@
 - okay next up make it so that it displays the rule type info
 - next up is add select volume
     - maybe indication first since it's similar
+- now add volume, then make the add button?
+- maybe make the add button visually and then implement the category functionality
+- you need to look at how you validated your volume in the past and do the same thing
 
 
 ## (2024/05/28 8:07午前)
