@@ -7,6 +7,7 @@
 - now add volume, then make the add button?
 - maybe make the add button visually and then implement the category functionality
 - you need to look at how you validated your volume in the past and do the same thing
+- now implement the display and after that get everything working for product category
 
 
 ## (2024/05/28 8:07午前)
