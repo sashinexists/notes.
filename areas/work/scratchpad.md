@@ -2,6 +2,8 @@
 - Okay, you've fixed the problems from yesterday and you've also merged in the new main-onion into the current branch you are working on
 - why is it still in the loading stage?
 - okay next up make it so that it displays the rule type info
+- next up is add select volume
+    - maybe indication first since it's similar
 
 
 ## (2024/05/28 8:07午前)
