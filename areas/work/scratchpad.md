@@ -11,7 +11,7 @@
 - next up show an add button if the form is filled
 - need to organise to pick up the ipad from North Sydney
 - maybe think about how you want to handle errors
-- need to make it so clearing the search box works
+- need to make it so clearing the volume error happens
 
 
 ## (2024/05/28 8:07午前)
