@@ -9,6 +9,9 @@
 - you need to look at how you validated your volume in the past and do the same thing
 - now implement the display and after that get everything working for product category
 - next up show an add button if the form is filled
+- need to organise to pick up the ipad from North Sydney
+- maybe think about how you want to handle errors
+- need to make it so clearing the search box works
 
 
 ## (2024/05/28 8:07午前)
