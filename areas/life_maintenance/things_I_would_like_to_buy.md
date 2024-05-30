@@ -23,4 +23,4 @@
 - [] everything need to build the cosmos keyboard
 - [] braille keycaps
 - [] ultrahuman ring, save on the oura subscription?
-
+- [] a new framework with the 2.8K display or similar (you need a backup laptop)

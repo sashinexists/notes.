@@ -1,5 +1,8 @@
 ## (2024/05/30 8:41午前)
-- 
+- okay now to figure out how to get the routes working
+    - you need to send some json data representing a rule to a route called "add rule"
+- not sure if you need two separate routes for product rule and product category rule
+    - you probably do
 
 
 ## (2024/05/29 9:00午前)
