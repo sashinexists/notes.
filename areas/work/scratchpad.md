@@ -6,6 +6,9 @@
 - okay you have to change Rule 
 - (11:04午前) in the process of adding Metadata to the rule (that is; the name and the description)
 - 951618c7
+- (4:01午後) go to SuperUser/ManagePrescriptionItems.elm line 236 this is where you were up to
+    - you want to finish implementing rule name and description
+    - you haven't processed the message and you haven't done it for category in the ui
 
 ## (2024/05/29 9:00午前)
 - Okay, you've fixed the problems from yesterday and you've also merged in the new main-onion into the current branch you are working on
