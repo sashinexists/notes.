@@ -3,7 +3,9 @@
     - you need to send some json data representing a rule to a route called "add rule"
 - not sure if you need two separate routes for product rule and product category rule
     - you probably do
-
+- okay you have to change Rule 
+- (11:04午前) in the process of adding Metadata to the rule (that is; the name and the description)
+- 951618c7
 
 ## (2024/05/29 9:00午前)
 - Okay, you've fixed the problems from yesterday and you've also merged in the new main-onion into the current branch you are working on
