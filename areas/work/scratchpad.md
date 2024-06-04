@@ -1,5 +1,12 @@
 ## (2024/06/05 8:08午前)
 - (8:17午前) another thing that you need to do is make it so the + button only shows when everything is entered (including the rule and description)
+- (8:23午前) you also wanted to add the default rule names and descriptions too
+    - if it has everything it will be a string that takes the necessary info otherwise it will be an empty string, or even Nothing
+- (8:30午前) okay a bit disorganised but a todo list
+    - make it so when all details are filled there is an automatic name and description
+    - make the + button only appear when the rule name and description are there
+    - create and handle the msg for changing the rule name and the description
+
 
 
 
