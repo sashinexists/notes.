@@ -1,5 +1,6 @@
 ## (2024/06/05 8:08午前)
-- 
+- (8:17午前) another thing that you need to do is make it so the + button only shows when everything is entered (including the rule and description)
+
 
 
 ## (2024/05/30 8:41午前)
