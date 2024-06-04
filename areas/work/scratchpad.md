@@ -6,6 +6,10 @@
     - make it so when all details are filled there is an automatic name and description
     - make the + button only appear when the rule name and description are there
     - create and handle the msg for changing the rule name and the description
+- (8:35午前) hmmm... the rules are all gone
+    - and therefore they are not working
+    - this is sad!!!
+
 
 
 
