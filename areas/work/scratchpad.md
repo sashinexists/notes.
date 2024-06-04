@@ -10,6 +10,7 @@
     - and therefore they are not working
     - this is sad!!!
 - (8:46午前) okay getting the migrations working will be the first mission
+- (8:52午前) I definitely need to ask Ben all about this asap
 
 
 
