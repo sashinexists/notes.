@@ -1,3 +1,7 @@
+## (2024/06/05 8:08午前)
+- 
+
+
 ## (2024/05/30 8:41午前)
 - okay now to figure out how to get the routes working
     - you need to send some json data representing a rule to a route called "add rule"
