@@ -14,8 +14,9 @@
 - (9:42午前) a lot of big changes you are going to change this to use UUID
 - (11:55午前) okay after lunch you should go back to the rules CRUD, that was going well
 - (2:33午後) remember the following
+        window.onmessage( { data :
+- (2:43午後) you might have to rethink this, rules and rule descriptions apply to rules and not product rule and product category rule
 
-window.onmessage( { data :
 
 
 
