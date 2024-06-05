@@ -18,6 +18,10 @@
 - (2:43午後) you might have to rethink this, rules and rule descriptions apply to rules and not product rule and product category rule
     - this is not obvious to the end users who may give a name or description according to the specific product
         - I want to think about the whole applying the same rule to multiple products or categories, how is that handled?
+            - it is absolutely possible, I wonder how it would be handled here
+- (2:49午後) you need to rethink this, you have rule types, generic rules and active rules
+    - make two subtabs now, one to add rule, one to apply them
+
 
 
 
