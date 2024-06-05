@@ -21,6 +21,8 @@
             - it is absolutely possible, I wonder how it would be handled here
 - (2:49午後) you need to rethink this, you have rule types, generic rules and active rules
     - make two subtabs now, one to add rule, one to apply them
+- (4:00午後) just created sub tabs, now I need to implement them
+
 
 
 
