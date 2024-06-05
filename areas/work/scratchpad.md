@@ -1,5 +1,6 @@
 ## (2024/06/06 8:34午前)
 - Okay I want to get all the rules and stick them in the model
+- okay first make the list nice, then start to build up a view model to edit the list
 
 
 ## (2024/06/05 8:08午前)
