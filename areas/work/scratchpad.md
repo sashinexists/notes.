@@ -13,8 +13,9 @@
 - (8:52午前) I definitely need to ask Ben all about this asap
 - (9:42午前) a lot of big changes you are going to change this to use UUID
 - (11:55午前) okay after lunch you should go back to the rules CRUD, that was going well
+- (2:33午後) remember the following
 
-
+window.onmessage( { data :
 
 
 
