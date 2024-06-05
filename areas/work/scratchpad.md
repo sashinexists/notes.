@@ -1,3 +1,7 @@
+## (2024/06/06 8:34午前)
+- Okay I want to get all the rules and stick them in the model
+
+
 ## (2024/06/05 8:08午前)
 - (8:17午前) another thing that you need to do is make it so the + button only shows when everything is entered (including the rule and description)
 - (8:23午前) you also wanted to add the default rule names and descriptions too
