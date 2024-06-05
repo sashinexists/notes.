@@ -16,6 +16,8 @@
 - (2:33午後) remember the following
         window.onmessage( { data :
 - (2:43午後) you might have to rethink this, rules and rule descriptions apply to rules and not product rule and product category rule
+    - this is not obvious to the end users who may give a name or description according to the specific product
+        - I want to think about the whole applying the same rule to multiple products or categories, how is that handled?
 
 
 
