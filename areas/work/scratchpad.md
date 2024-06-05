@@ -11,6 +11,8 @@
     - this is sad!!!
 - (8:46午前) okay getting the migrations working will be the first mission
 - (8:52午前) I definitely need to ask Ben all about this asap
+- (9:42午前) a lot of big changes you are going to change this to use UUID
+
 
 
 
