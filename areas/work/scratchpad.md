@@ -4,6 +4,8 @@
 - let's see they select the rule type, then the data fields then the name and description
 - it's sending "change index 0" no matter what I do
 - okay the impossible problem has been solved
+- next up add the volume field and then make it when both of them are filled the name and description show (and are automatically entered)
+- next up process update volume then add the fields for name and description
 
 
 ## (2024/06/05 8:08午前)
