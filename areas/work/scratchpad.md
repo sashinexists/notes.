@@ -1,5 +1,9 @@
 ## (2024/06/07 8:33午前)
-
+- let's start by making it autofill when you select and indication
+    - after that when you enter a volume + treatment area
+    - after that figure out how to make the description box big
+    - after that make the plus button show when everything is filled
+    - after that get it working
 
 
 ## (2024/06/06 8:34午前)
