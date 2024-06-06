@@ -3,6 +3,7 @@
 - okay first make the list nice, then start to build up a view model to edit the list
 - let's see they select the rule type, then the data fields then the name and description
 - it's sending "change index 0" no matter what I do
+- okay the impossible problem has been solved
 
 
 ## (2024/06/05 8:08午前)
