@@ -3,7 +3,8 @@
     - after that when you enter a volume + treatment area
     - after that figure out how to make the description box big
     - after that make the plus button show when everything is filled
-    - after that get it working
+        - after that get it working
+- it would be nice to make the searchbox labels match the text input labels
 
 
 ## (2024/06/06 8:34午前)
