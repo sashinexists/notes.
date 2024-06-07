@@ -13,6 +13,11 @@
 - (12:19午後) adding a volume amount that ends in 0 doesn't seem to work
 - (2:27午後) you need to handle remove to handle entry_states
 - (2:37午後) editing works!!!
+- (2:39午後) now you have to work with entry_states
+    - I think you have to change the unique constraint to include entry_state as well
+- (2:57午後) now you add entry_states to everything
+
+
 
 
 
