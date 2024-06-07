@@ -22,6 +22,10 @@
         - product_rule
         - category_rule
 - (3:26午後) now you have to change the queries that get rules to only get them when the entry state is 1 and the remove one to only change the entry state
+- (3:35午後) now it looks like you only have to make it so that you can apply a rule
+- (3:44午後) thinking out loud as to what's needed
+
+
 
 
 
