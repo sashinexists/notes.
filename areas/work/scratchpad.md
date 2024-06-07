@@ -8,6 +8,8 @@
 - next up you will get the plus button to show and then get it actually working
 - (10:19午前) you are up to validating the view model
 - need to alias the components thing to view model and add errors to viewaddrule
+- (10:59午前) you are actually now up to getting the add rule button here working
+
 
 
 
