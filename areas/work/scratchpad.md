@@ -9,6 +9,8 @@
 - (10:19午前) you are up to validating the view model
 - need to alias the components thing to view model and add errors to viewaddrule
 - (10:59午前) you are actually now up to getting the add rule button here working
+- (11:48午前) if you want to be able to remove them then they need ids
+
 
 
 
