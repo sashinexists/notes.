@@ -5,6 +5,7 @@
     - after that make the plus button show when everything is filled
         - after that get it working
 - it would be nice to make the searchbox labels match the text input labels
+- next up you will get the plus button to show and then get it actually working
 
 
 ## (2024/06/06 8:34午前)
