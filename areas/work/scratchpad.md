@@ -16,6 +16,8 @@
 - (2:39午後) now you have to work with entry_states
     - I think you have to change the unique constraint to include entry_state as well
 - (2:57午後) now you add entry_states to everything
+    - lets see what tables are there
+        - rules
 
 
 
