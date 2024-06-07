@@ -18,6 +18,11 @@
 - (2:57午後) now you add entry_states to everything
     - lets see what tables are there
         - rules
+        - rule types
+        - product_rule
+        - category_rule
+- (3:26午後) now you have to change the queries that get rules to only get them when the entry state is 1 and the remove one to only change the entry state
+
 
 
 
