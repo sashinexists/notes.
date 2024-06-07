@@ -33,20 +33,7 @@
     - product
     - category
     - rule
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
+- (3:58午後) so you need a list of products, categories and rules
 
 
 ## (2024/06/06 8:34午前)
