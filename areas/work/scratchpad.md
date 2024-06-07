@@ -10,6 +10,8 @@
 - need to alias the components thing to view model and add errors to viewaddrule
 - (10:59午前) you are actually now up to getting the add rule button here working
 - (11:48午前) if you want to be able to remove them then they need ids
+- (12:19午後) adding a volume amount that ends in 0 doesn't seem to work
+
 
 
 
