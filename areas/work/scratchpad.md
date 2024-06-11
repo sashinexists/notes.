@@ -1,6 +1,7 @@
 ## (2024/06/12 7:59午前)
 - Good morning!
-- (8:11午前) I think that I'll
+- (8:11午前) I think that I'll first finish this interface then fix the entry state thing (adding something that is deleted won't work now)
+- (8:42午前) you can probably change rule so that all the data that is passed in is a struct
 
 
 
