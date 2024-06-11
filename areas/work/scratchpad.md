@@ -1,3 +1,9 @@
+## (2024/06/12 7:59午前)
+- Good morning!
+- (8:11午前) I think that I'll
+
+
+
 ## (2024/06/07 8:33午前)
 - let's start by making it autofill when you select and indication
     - after that when you enter a volume + treatment area
