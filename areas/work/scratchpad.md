@@ -3,6 +3,13 @@
 - (8:11午前) I think that I'll first finish this interface then fix the entry state thing (adding something that is deleted won't work now)
 - (8:42午前) you can probably change rule so that all the data that is passed in is a record
 - (10:41午前) okay now you have the routes now you have to make the Tasks in Api
+    - no you don't you already have it?
+- (10:52午前) okay, get all product ids and product category ids and use those to get the specific rules
+    - okay you can do this
+- (11:47午前) you are going to have to add "updated_at" to both the ProductRuleJoinTable and the ProductCategoryRuleJoinTable
+
+
+
 
 
 
