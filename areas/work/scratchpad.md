@@ -7,6 +7,12 @@
 - (10:52午前) okay, get all product ids and product category ids and use those to get the specific rules
     - okay you can do this
 - (11:47午前) you are going to have to add "updated_at" to both the ProductRuleJoinTable and the ProductCategoryRuleJoinTable
+    - come back to this later
+- (11:48午前) let's start with views for each
+    - not sure if you should translate this
+- (12:28午後) when you select a tab, the init msgs don't work
+
+
 
 
 
