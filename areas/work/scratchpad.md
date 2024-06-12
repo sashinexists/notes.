@@ -1,5 +1,6 @@
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
+- next up make it so the plus button shows
 
 
 ## (2024/06/12 7:59午前)
