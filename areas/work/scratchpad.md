@@ -1,3 +1,7 @@
+## (2024/06/13 8:21午前)
+- Next up select rule and select category
+
+
 ## (2024/06/12 7:59午前)
 - Good morning!
 - (8:11午前) I think that I'll first finish this interface then fix the entry state thing (adding something that is deleted won't work now)
@@ -14,16 +18,6 @@
 - (12:55午後) solved that problem neatly!!!
 - (12:55午後) I need snacks in the house, apricots would be great
 - (1:35午後) Next up you want to add the drop boxes and get them working
-
-
-
-
-
-
-
-
-
-
 
 
 ## (2024/06/07 8:33午前)
