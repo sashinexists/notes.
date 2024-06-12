@@ -12,6 +12,10 @@
     - not sure if you should translate this
 - (12:28午後) when you select a tab, the init msgs don't work
 - (12:55午後) solved that problem neatly!!!
+- (12:55午後) I need snacks in the house, apricots would be great
+- (1:35午後) Next up you want to add the drop boxes and get them working
+
+
 
 
 
