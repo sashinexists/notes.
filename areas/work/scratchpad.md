@@ -11,6 +11,8 @@
 - (11:48午前) let's start with views for each
     - not sure if you should translate this
 - (12:28午後) when you select a tab, the init msgs don't work
+- (12:55午後) solved that problem neatly!!!
+
 
 
 
