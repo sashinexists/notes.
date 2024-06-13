@@ -4,6 +4,8 @@
     - you have six things to add this logic to
         - add rule, edit rule, add product rule, edit product rule
         - actually it doesn't need to be added to edit rule
+- you also need to add the right constraint to the various updated_at
+    - you also need to add updated_at and created_at to product_rule and product_category_rule
 
 
 ## (2024/06/13 8:21午前)
