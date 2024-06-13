@@ -14,6 +14,8 @@
 - they both already have entry states
 - you want to edit then you want to fix the way entry states work, then you want to get things in the right order
 - up to UpdateRule in the update function
+- weird bugs with update
+    - I think the cream is fake news
 
 
 
