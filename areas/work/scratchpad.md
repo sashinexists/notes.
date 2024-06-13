@@ -11,6 +11,8 @@
 - 3 applied rules for biostimulation and transemic acid need to be deleted
 - I guess next up remove rule and then edit
 - you need to add entry_states to continue
+- they both already have entry states
+- you want to edit then you want to fix the way entry states work, then you want to get things in the right order
 
 
 
