@@ -13,6 +13,7 @@
 - you need to add entry_states to continue
 - they both already have entry states
 - you want to edit then you want to fix the way entry states work, then you want to get things in the right order
+- up to UpdateRule in the update function
 
 
 
