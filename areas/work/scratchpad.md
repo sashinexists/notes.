@@ -8,6 +8,7 @@
     - you also need to add updated_at and created_at to product_rule and product_category_rule
 - update isn't working somehow
 - editing and updating simply does not work, let's walk through it
+- adding an editing interface would be good
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
