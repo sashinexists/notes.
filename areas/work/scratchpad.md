@@ -10,6 +10,7 @@
     - lets make the fields clear and then we'll test the category (another biostimulation) and product
 - 3 applied rules for biostimulation and transemic acid need to be deleted
 - I guess next up remove rule and then edit
+- you need to add entry_states to continue
 
 
 
