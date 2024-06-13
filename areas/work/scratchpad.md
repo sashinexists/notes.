@@ -8,7 +8,8 @@
 - it's fine and it's adding, you should make it that the fields clear on add
 - you've added two rules to the category biostimulation
     - lets make the fields clear and then we'll test the category (another biostimulation) and product
-- 3 for biostimulation and transemic acid need to be deleted
+- 3 applied rules for biostimulation and transemic acid need to be deleted
+- I guess next up remove rule and then edit
 
 
 
