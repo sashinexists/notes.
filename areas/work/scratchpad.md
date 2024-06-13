@@ -16,6 +16,7 @@
 - up to UpdateRule in the update function
 - weird bugs with update
     - I think the cream is fake news
+- (3:54午後) one thing that you can start with is sorting out the entry states, what happens when you add something that exists but the entry state is 0
 
 
 
