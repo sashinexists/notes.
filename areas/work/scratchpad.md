@@ -4,7 +4,9 @@
     - then maybe start to get it working
 - maybe a part of it being valid is not being the same
 - a constraint is that you can have only one of a type
-- you need to add updated at and created at
+- you need to add updated at and created at to product and category rule
+- it's fine and it's adding, you should make it that the fields clear on add
+
 
 
 ## (2024/06/12 7:59午前)
