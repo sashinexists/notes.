@@ -1,3 +1,10 @@
+## (2024/06/14 8:10午前)
+- okay, you are now going to add those if statements to python
+    - to all the add and edit routes for adding rules
+    - you have six things to add this logic to
+        - add rule, edit rule, add product rule, edit product rule
+
+
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
 - next up make it so the plus button shows, when everything is filled
