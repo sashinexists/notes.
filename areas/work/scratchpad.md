@@ -3,6 +3,7 @@
     - to all the add and edit routes for adding rules
     - you have six things to add this logic to
         - add rule, edit rule, add product rule, edit product rule
+        - actually it doesn't need to be added to edit rule
 
 
 ## (2024/06/13 8:21午前)
