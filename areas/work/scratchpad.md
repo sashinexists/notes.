@@ -9,6 +9,7 @@
 - update isn't working somehow
 - editing and updating simply does not work, let's walk through it
 - adding an editing interface would be good
+- okay first fix the main problem and then work on the papercuts
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
