@@ -20,6 +20,7 @@
 - it looks like next you can actually do the directions thing, you'll want to build on what you've done with rules
 - I'm going to make a branch and merge ben's changes into it
 - ben really likes a flat structure
+- I feel like I should change something
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
