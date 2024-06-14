@@ -17,6 +17,7 @@
 - okay things are working really well
     - now you want to check that autoselect error
 - you should make it when adding a rule (not just applying a rule) there is a form validation error when the rule is identical to another
+- it looks like next you can actually do the directions thing, you'll want to build on what you've done with rules
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
