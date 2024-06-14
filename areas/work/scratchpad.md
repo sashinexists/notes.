@@ -14,6 +14,8 @@
     - after that you want to add both of these fields to product_rule and product_category_rule
 - now I have to add updated_at and created_at to two tables
 - let's test add, remove and edit
+- okay things are working really well
+    - now you want to check that autoselect error
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
