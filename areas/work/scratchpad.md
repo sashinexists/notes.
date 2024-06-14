@@ -22,6 +22,7 @@
 - ben really likes a flat structure
 - I feel like I should change something
 - maybe you should add the rule now?
+    - it's direction
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
