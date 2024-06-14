@@ -11,6 +11,7 @@
 - adding an editing interface would be good
 - okay first fix the main problem and then work on the papercuts
 - now you want to get the created_at and update_at constraints working (and apply the changes in a migration)
+    - after that you want to add both of these fields to product_rule and product_category_rule
 
 ## (2024/06/13 8:21午前)
 - Next up select rule and select category
