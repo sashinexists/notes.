@@ -1,3 +1,7 @@
+## (2024/06/17 5:24午前)
+- definitely record yourself again
+
+
 ### (2024/06/16 6:05午後)
 - Would be great to record yourself again
 
