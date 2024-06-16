@@ -1,3 +1,7 @@
+### (2024/06/16 6:05午後)
+- Would be great to record yourself again
+
+
 ### (2024/05/23 7:23午前)
 ## Dogen's Pitch accent course notes
 - 70% of one mora nouns are atamadaka
