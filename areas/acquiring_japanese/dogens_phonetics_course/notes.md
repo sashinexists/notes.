@@ -22,7 +22,7 @@
 - two mora object pronouns and location adverbs are *heiban*
   - この、これ、その、それ、あの、あれ、ここ、そこ、
 - most two mora body parts are *odaka*
-  - 髪(かみ), 耳(みみ), 胸(むね), 腕(腕), 指(ゆび),　足(あし)
+  - 髪(かみ), 耳(みみ), 胸(むね), 腕(うで), 指(ゆび),　足(あし)
 - the following two mora body parts are *heiban*
   - 口(くち)、鼻(はな)、首(くび)
 - these two mora body parts are *atamadaka*
