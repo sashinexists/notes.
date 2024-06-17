@@ -10,3 +10,4 @@
   - Blue Earth Organics
 - Get your photo ID updated
 - join stanton library (25 minutes walk)
+- Get your bicycle from home
