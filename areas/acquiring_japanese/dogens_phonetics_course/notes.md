@@ -243,5 +243,4 @@ The two major exceptions are the く and さ forms which are always said with th
       - 安らかな (やすらかな): LHLLL
       - 麗らかな (うららかな): LHLLL
       - 疎かな (おろそかな)
-      - 
   
