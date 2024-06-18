@@ -203,4 +203,13 @@ The two major exceptions are the く and さ forms which are always said with th
 
 - Common Na-adjectives that are NOT four mora, two kanji
   - atamadaka
-    - 変な (へんな): HLL
+    - 変な (へんな)
+    - 無理な (むりな)
+    - 元気な (げんきな)
+    - 便利　(便利な)
+    - 不便な (ふべんな)
+    - 大好きな (だいすきな)
+  - nakadaka
+    - 自由な (じゆうな): LHLL
+    - 
+  
