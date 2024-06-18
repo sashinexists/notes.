@@ -8,7 +8,7 @@
   - Quip
   - Kogan
   - Blue Earth Organics
-- Get your photo ID updated
-- join stanton library (25 minutes walk)
+- [x] Get your photo ID updated
+- [x] join stanton library (25 minutes walk)
 - Get your bicycle from home
 - buy a rice cooker
