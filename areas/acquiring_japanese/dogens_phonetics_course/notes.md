@@ -238,5 +238,10 @@ The two major exceptions are the く and さ forms which are always said with th
     - examples
       - 賑やかな (にぎやかな): LHLLL
       - 爽やかな (さわやかな): LHLLL
-
+      - 鮮やかな (あざやかな): LHLLL
+      - 細やかな (こまやかな): LHLLL
+      - 安らかな (やすらかな): LHLLL
+      - 麗らかな (うららかな): LHLLL
+      - 疎かな (おろそかな)
+      - 
   
