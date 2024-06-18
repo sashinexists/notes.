@@ -198,4 +198,9 @@ The two major exceptions are the く and さ forms which are always said with th
   - The four major exceptions
     - 親切な (しんせつな): HLLLL
     - 丁寧な (ていねいな): HLLLL
-    - 
+    - 熱心な (ねっしんな): HLLLL
+    - 十分 (じゅうぶんな): LHHLL
+
+- Common Na-adjectives that are NOT four mora, two kanji
+  - atamadaka
+    - 変な (へんな): HLL
