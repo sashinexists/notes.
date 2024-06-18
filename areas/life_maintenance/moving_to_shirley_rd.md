@@ -5,9 +5,10 @@
 - Change your address on various accounts
   - Paypal
   - [x] Amazon
-  - Quip
-  - Kogan
+  - [x] Quip
+  - [x] Kogan
   - Blue Earth Organics
+    - I think this gets your address from paypal
 - [x] Get your photo ID updated
 - [x] join stanton library (25 minutes walk)
 - Get your bicycle from home
