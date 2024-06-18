@@ -4,7 +4,7 @@
 ## Things you have to do
 - Change your address on various accounts
   - Paypal
-  - Amazon
+  - [x] Amazon
   - Quip
   - Kogan
   - Blue Earth Organics
