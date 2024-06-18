@@ -219,5 +219,15 @@ The two major exceptions are the く and さ forms which are always said with th
     - 上手な (じょうずな): LHHL
     - 下手な (へたな): LHL
     - だめな: LHL
-    - 
+  - heiban
+    - 暇な　(ひまな)
+    - 無駄な (むだな)
+    - 素敵な (すてきな)
+    - 嫌いな (きらいな)
+    - 丈夫な (じょうぶな)
+
+- Rule #2: The か rule
+  - part 1: 3 mora na-adjectives that end in か such as 静かな are atamadaka
+    - examples
+      - 静かな (しずかな)
   
