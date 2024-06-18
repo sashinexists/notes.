@@ -230,4 +230,13 @@ The two major exceptions are the く and さ forms which are always said with th
   - part 1: 3 mora na-adjectives that end in か such as 静かな are atamadaka
     - examples
       - 静かな (しずかな)
+      - 豊かな (ゆたかな)
+      - 愚かな (おらかな)
+      - 僅かな (わずかな)
+
+  - part 2: 4 mora na-adjectives that end in か such as 賑やかな are nakadaka with the downstep on the second mora
+    - examples
+      - 賑やかな (にぎやかな): LHLLL
+      - 爽やかな (さわやかな): LHLLL
+
   
