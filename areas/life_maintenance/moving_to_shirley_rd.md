@@ -7,9 +7,11 @@
   - [x] Amazon
   - [x] Quip
   - [x] Kogan
+  - [x] Hnry
   - Blue Earth Organics
     - I think this gets your address from paypal
 - [x] Get your photo ID updated
 - [x] join stanton library (25 minutes walk)
+- [] give that case back with thathi's jacket
 - Get your bicycle from home
 - buy a rice cooker
