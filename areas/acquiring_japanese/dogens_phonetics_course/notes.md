@@ -211,5 +211,13 @@ The two major exceptions are the く and さ forms which are always said with th
     - 大好きな (だいすきな)
   - nakadaka
     - 自由な (じゆうな): LHLL
+    - 大丈夫な (だいじょうぶな): LHHLLL
+  - odaka
+    - 好きな (すきな): LHL
+    - いやな: LHL
+    - 楽な (らくな): LHL
+    - 上手な (じょうずな): LHHL
+    - 下手な (へたな): LHL
+    - だめな: LHL
     - 
   
