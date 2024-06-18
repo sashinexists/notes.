@@ -188,3 +188,7 @@ The downstep stays in the same place as the nakadaka pattern in 赤い
 The two major exceptions are the く and さ forms which are always said with the heiban pattern
 - あかく : LHH
 - あかさ : LHH
+
+## Pitch Accent for na-adjectives
+- Source: Japanese phonetics Episode 14
+- [youtube link](https://invidious.perennialte.ch/watch?time_continue=19&v=-ETszA6hCtQ&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
