@@ -2,6 +2,17 @@
 - first things first, let's set up that ipad and get it so you so can look at the port
 - (1:51午後) now need some functions that convert things
 
+-- add favourite_prescription_item_details jsonb)
+
+-- add version number ( do we need this )
+
+-- add favourite_prescription_item_category_id
+
+-- remove not null constraints from product_id, indication_id, volume and treatment_area_id
+
+-- add favourite_prescription_item_catagory table
+
+-- add fk to nurse 
 
 ```
 type PrescriptionItemLine
