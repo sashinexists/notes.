@@ -34,7 +34,7 @@ ALTER COLUMN volume DROP NOT NULL
     
 ```
 
--- add favourite_prescription_item_catagory table
+-- add favourite_prescription_item_category table
 
 -- add fk to nurse 
 
