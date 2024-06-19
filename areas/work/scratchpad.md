@@ -6,15 +6,24 @@
 ```sql
 ALTER TABLE favourite_prescription_item
 ADD COLUMN favourite_prescription_item_details jsonb NOT NULL
-ADD CONSTRAINT nurse_id_present
-    CHECK (favourite_prescription_item_details->>'nurse_id' IS NOT NULL),     
 ```
 
 -- add version number ( do we need this )
+```sql
+ALTER TABLE favourite_prescription_item
+ADD COLUMN version_number integer NOT NULL DEFAULT 1;
+
+UPDATE favourite_prescription_item
+SET version_number = 1;
+```
 
 -- add favourite_prescription_item_category_id
 
 -- remove not null constraints from product_id, indication_id, volume and treatment_area_id
+```sql
+
+    
+```
 
 -- add favourite_prescription_item_catagory table
 
