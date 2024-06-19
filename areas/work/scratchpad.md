@@ -13,6 +13,16 @@
 ALTER TABLE favourite_prescription_item
 ADD COLUMN favourite_prescription_item_details jsonb NOT NULL
 ```
+```
+
+ALTER TABLE favourite_prescription_item
+ADD COLUMN favourite_prescription_item_details jsonb NOT NULL 
+    DEFAULT '{"product_id": "' || product_id || '", "indication_id": "' || indication_id || '", "treatment_area_id": "' || treatment_area_id || '", "volume": "' || volume || '"}'::jsonb,
+    CONSTRAINT check_product_id CHECK (favourite_prescription_item_details->'product_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'product_id' AS INTEGER) > 0),
+    CONSTRAINT check_indication_id CHECK (favourite_prescription_item_details->'indication_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'indication_id' AS INTEGER) > 0),
+    CONSTRAINT check_treatment_area_id CHECK (favourite_prescription_item_details->'treatment_area_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'treatment_area_id' AS INTEGER) > 0);
+```
+
 
 -- add version number ( do we need this )
 ```sql
