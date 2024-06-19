@@ -1,7 +1,44 @@
 ## (2024/06/19 8:01午前)
 - first things first, let's set up that ipad and get it so you so can look at the port
 
+```
+type PrescriptionItemLine
+    = PrescriptionItemLineWithVolume PrescriptionItemLineWithVolumeData
+    | PrescriptionItemLineWithDirection PrescriptionItemLineWithDirectionData
 
+
+type alias PrescriptionItemLineWithVolumeData =
+    { product : Product
+    , treatmentArea : TreatmentArea
+    , indication : Indication
+    , volume : Float
+    , repeats : Int
+    }
+
+
+type alias PrescriptionItemLineWithDirectionData =
+    { product : Product
+    , treatmentArea : TreatmentArea
+    , indication : Indication
+    , direction : String
+    , repeats : Int
+    }
+
+
+type Application
+    = Volume Domain.Volume
+    | Direction String
+
+
+type alias ViewModelItemLine =
+    { id : Int
+    , product : Product
+    , treatmentArea : TreatmentArea
+    , indication : Indication
+    , application : Application
+    , repeats : Int
+    }
+```
 ## (2024/06/14 8:10午前)
 - okay, you are now going to add those if statements to python
     - to all the add and edit routes for adding rules
