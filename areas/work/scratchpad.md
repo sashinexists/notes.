@@ -24,7 +24,22 @@ ADD COLUMN favourite_prescription_item_details jsonb NOT NULL
 ```
 ```
 UPDATE favourite_prescription_item
-SET favourite_prescription_item_details = '{"product_id": "' || product_id || '", "indication_id": "' || indication_id || '", "treatment_area_id": "' || treatment_area_id || '", "volume": ' || volume || '}'::jsonb;
+SET favourite_prescription_item_details = '{"product_id": "' || product_id || '", "indication_id": "' || indication_id || '", "treatment_area_id": "' || treatment_area_id || '", "volume": "' || volume || '"}'::jsonb;
+
+
+
+UPDATE favourite_prescription_item
+SET favourite_prescription_item_details = '{"product_id": ' || product_id || ', "indication_id": ' || indication_id || ', "treatment_area_id": ' || treatment_area_id || ', "volume": ' || volume || '}'::jsonb;
+
+
+
+UPDATE favourite_prescription_item
+SET favourite_prescription_item_details = json_build_object(
+    'column1', column1,
+    'column2', column2,
+    'column3', column3
+)
+WHERE favourite_prescription_item_details IS NULL;
 ```
 -- add version number ( do we need this )
 ```sql
