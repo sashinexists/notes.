@@ -1,6 +1,8 @@
 ## (2024/06/19 8:01午前)
 - first things first, let's set up that ipad and get it so you so can look at the port
 - (1:51午後) now need some functions that convert things
+- (3:59午後) obviously you are up to the queries
+
 
 -- add favourite_prescription_item_details jsonb)
 ```sql
@@ -21,7 +23,14 @@ SET version_number = 1;
 
 -- remove not null constraints from product_id, indication_id, volume and treatment_area_id
 ```sql
-
+ALTER TABLE favourite_prescription_item
+ALTER COLUMN product_id DROP NOT NULL
+ALTER TABLE favourite_prescription_item
+ALTER COLUMN indication_id DROP NOT NULL
+ALTER TABLE favourite_prescription_item
+ALTER COLUMN treatment_area_id DROP NOT NULL
+ALTER TABLE favourite_prescription_item
+ALTER COLUMN volume DROP NOT NULL
     
 ```
 
