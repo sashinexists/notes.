@@ -1,5 +1,7 @@
 ## (2024/06/19 8:01午前)
 - first things first, let's set up that ipad and get it so you so can look at the port
+- (1:51午後) now need some functions that convert things
+
 
 ```
 type PrescriptionItemLine
