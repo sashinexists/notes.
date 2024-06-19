@@ -1,3 +1,7 @@
+## (2024/06/19 8:01午前)
+- first things first, let's set up that ipad and get it so you so can look at the port
+
+
 ## (2024/06/14 8:10午前)
 - okay, you are now going to add those if statements to python
     - to all the add and edit routes for adding rules
