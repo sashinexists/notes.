@@ -3,8 +3,11 @@
 - (1:51午後) now need some functions that convert things
 
 -- add favourite_prescription_item_details jsonb)
-```
-    
+```sql
+ALTER TABLE favourite_prescription_item
+ADD COLUMN favourite_prescription_item_details jsonb NOT NULL
+ADD CONSTRAINT nurse_id_present
+    CHECK (favourite_prescription_item_details->>'nurse_id' IS NOT NULL),     
 ```
 
 -- add version number ( do we need this )
