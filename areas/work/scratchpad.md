@@ -1,3 +1,15 @@
+## (2024/06/21 9:57午前)
+
+"""
+UPDATE your_table
+SET your_json_column = jsonb_set(
+                        your_json_column,
+                        '{volume}',
+                        to_jsonb((your_json_column->>'volume')::int || '.0')
+                      );
+"""
+
+
 ## (2024/06/20 8:42午前)
 - (10:05午前) ask Ben about version numbers
 - (10:36午前) think about the damage and how to deal with it
