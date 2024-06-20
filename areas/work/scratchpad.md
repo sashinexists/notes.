@@ -1,6 +1,9 @@
 ## (2024/06/20 8:42午前)
 - (10:05午前) ask Ben about version numbers
 - (10:36午前) think about the damage and how to deal with it
+- (10:41午前) now change what a favourite is
+
+
 
 
 
