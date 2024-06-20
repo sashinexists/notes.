@@ -33,7 +33,7 @@ SET NOT NULL;
 -- add version number ( do we need this )
 ```sql
 ALTER TABLE favourite_prescription_item
-ADD COLUMN version_number integer NOT NULL DEFAULT 1;
+ADD COLUMN version_number integer NOT NULL DEFAULT 2;
 
 UPDATE favourite_prescription_item
 SET version_number = 1;
