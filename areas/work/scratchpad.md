@@ -1,4 +1,6 @@
 ## (2024/06/20 8:42午前)
+- (10:05午前) ask Ben about version numbers
+
 
 
 
@@ -11,35 +13,22 @@
 -- add favourite_prescription_item_details jsonb)
 ```sql
 ALTER TABLE favourite_prescription_item
-ADD COLUMN favourite_prescription_item_details jsonb NOT NULL
+ADD COLUMN favourite_prescription_item_details jsonb 
 ```
 ```
-
-ALTER TABLE favourite_prescription_item
-ADD COLUMN favourite_prescription_item_details jsonb NOT NULL 
-    DEFAULT '{"product_id": "' || product_id || '", "indication_id": "' || indication_id || '", "treatment_area_id": "' || treatment_area_id || '", "volume": "' || volume || '"}'::jsonb,
-    CONSTRAINT check_product_id CHECK (favourite_prescription_item_details->'product_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'product_id' AS INTEGER) > 0),
-    CONSTRAINT check_indication_id CHECK (favourite_prescription_item_details->'indication_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'indication_id' AS INTEGER) > 0),
-    CONSTRAINT check_treatment_area_id CHECK (favourite_prescription_item_details->'treatment_area_id' IS NOT NULL AND CAST(favourite_prescription_item_details->'treatment_area_id' AS INTEGER) > 0);
-```
-```
-UPDATE favourite_prescription_item
-SET favourite_prescription_item_details = '{"product_id": "' || product_id || '", "indication_id": "' || indication_id || '", "treatment_area_id": "' || treatment_area_id || '", "volume": "' || volume || '"}'::jsonb;
-
-
-
-UPDATE favourite_prescription_item
-SET favourite_prescription_item_details = '{"product_id": ' || product_id || ', "indication_id": ' || indication_id || ', "treatment_area_id": ' || treatment_area_id || ', "volume": ' || volume || '}'::jsonb;
-
-
-
 UPDATE favourite_prescription_item
 SET favourite_prescription_item_details = json_build_object(
-    'column1', column1,
-    'column2', column2,
-    'column3', column3
+    'product_id', product_id,
+    'indication_id', indication_id,
+    'treatment_area_id', treatment_area_id,
+    'volume', volume
 )
 WHERE favourite_prescription_item_details IS NULL;
+
+
+ALTER TABLE favourite_prescription_item
+ALTER COLUMN favourite_prescription_item_details
+SET NOT NULL;
 ```
 -- add version number ( do we need this )
 ```sql
