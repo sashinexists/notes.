@@ -2,6 +2,7 @@
 - (10:05午前) ask Ben about version numbers
 - (10:36午前) think about the damage and how to deal with it
 - (10:41午前) now change what a favourite is
+- (2:28午後) next up you want to add repeats
 
 
 
