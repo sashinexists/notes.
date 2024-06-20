@@ -1,5 +1,6 @@
 ## (2024/06/20 8:42午前)
 - (10:05午前) ask Ben about version numbers
+- (10:36午前) think about the damage and how to deal with it
 
 
 
@@ -44,11 +45,11 @@ SET version_number = 1;
 -- remove not null constraints from product_id, indication_id, volume and treatment_area_id
 ```sql
 ALTER TABLE favourite_prescription_item
-ALTER COLUMN product_id DROP NOT NULL
+ALTER COLUMN product_id DROP NOT NULL;
 ALTER TABLE favourite_prescription_item
-ALTER COLUMN indication_id DROP NOT NULL
+ALTER COLUMN indication_id DROP NOT NULL;
 ALTER TABLE favourite_prescription_item
-ALTER COLUMN treatment_area_id DROP NOT NULL
+ALTER COLUMN treatment_area_id DROP NOT NULL;
 ALTER TABLE favourite_prescription_item
 ALTER COLUMN volume DROP NOT NULL;
     
