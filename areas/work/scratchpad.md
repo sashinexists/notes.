@@ -5,6 +5,7 @@
 - (2:28午後) next up you want to add repeats
     - you have the code in migration m51
 - (4:03午後) up to working with nurse.py
+    - getting the shape of the data right
 
 
 
