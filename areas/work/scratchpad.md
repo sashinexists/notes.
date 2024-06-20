@@ -3,6 +3,9 @@
 - (10:36午前) think about the damage and how to deal with it
 - (10:41午前) now change what a favourite is
 - (2:28午後) next up you want to add repeats
+    - you have the code in migration m51
+- (4:03午後) up to working with nurse.py
+
 
 
 
