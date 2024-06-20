@@ -50,7 +50,7 @@ ALTER COLUMN indication_id DROP NOT NULL
 ALTER TABLE favourite_prescription_item
 ALTER COLUMN treatment_area_id DROP NOT NULL
 ALTER TABLE favourite_prescription_item
-ALTER COLUMN volume DROP NOT NULL
+ALTER COLUMN volume DROP NOT NULL;
     
 ```
 
