@@ -6,7 +6,11 @@
 - (1:56午後) awesome you can add them, next up remove!!!
 - (1:57午後) you should be handling the event table too
     - you can delete favourites too!!!
-- (2:04午後) okay and now you've done stuff with the event tables, next up slowly go through SelectPrescriptionItems.elm and see if there's any mess left
+- (2:04午後) okay and now you've done stuff with the event tables, next up slowly go through SelectPrescriptionItems.elm and see if there's any mess left to do with direction
+    - after that you can start adding the rules
+- (2:31午後) gone through the thing, now can add the rules
+
+
 
 
 
