@@ -2,11 +2,13 @@
 - (12:51午後) okay, it's finally loading favourites again!!!!!
     - I'm really happy about this
     - now you need to get add and remove favourites working similarly
-- (1:06午後) okay, next up get add and remove working nice
+- (1:06午後) okay, next up get add and remove working nicely
 
-
-
-
+```
+SELECT *
+FROM your_table
+WHERE JSON_EXTRACT(your_json_field, '$.application') IS NOT NULL;
+```
 ```sql
 UPDATE favourite_prescription_item
 SET favourite_prescription_item_details= jsonb_set(
