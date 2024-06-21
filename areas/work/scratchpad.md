@@ -16,14 +16,25 @@
 
 ```sql
 ALTER TABLE favourite_prescription_item
-DROP COLUMN product_id indication_id treatment_area_id volume;
+DROP COLUMN product_id;
+ALTER TABLE favourite_prescription_item
+DROP COLUMN indication_id;
+ALTER TABLE favourite_prescription_item
+DROP COLUMN treatment_area_id ;
+ALTER TABLE favourite_prescription_item
+DROP COLUMN volume;
     
 ```
 
 ```sql
 INSERT INTO rule_type (rule_type_name)
-VALUES ("DIRECTION_INSTEAD_OF_VOLUME");
+VALUES ('DIRECTION_INSTEAD_OF_VOLUME');
 
+        INSERT INTO rule_type (rule_type_id, rule_type_name)
+        VALUES
+            ('1e3e76e5-471e-40b7-97e8-a957970e6a14', 'DIRECTION_INSTEAD_OF_NAME'),
+            ('91e0ccef-fa00-4f46-b040-3d34d5448c9d','AUTOSELECT'),
+            ('a49a3a3a-ce1f-45a1-8179-2547c94a10b8','MAX_PRESCRIPTION_ITEMS');
     
 ```
 
