@@ -1,4 +1,7 @@
 ## (2024/06/21 9:57午前)
+- (12:51午後) okay, it's finally loading favourites again!!!!!
+    - I'm really happy about this
+    - now you need to get add and remove favourites working similarly
 
 
 
