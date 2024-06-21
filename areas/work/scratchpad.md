@@ -9,8 +9,16 @@
 - (2:04午後) okay and now you've done stuff with the event tables, next up slowly go through SelectPrescriptionItems.elm and see if there's any mess left to do with direction
     - after that you can start adding the rules
 - (2:31午後) gone through the thing, now can add the rules
+    - okay a new ruletype 
+        "Direction instead of Volume"
+         - with no data
 
+```sql
+INSERT INTO rule_type (rule_type_name)
+VALUES ("DIRECTION_INSTEAD_OF_VOLUME");
 
+    
+```
 
 
 
