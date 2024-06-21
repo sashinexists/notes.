@@ -13,6 +13,13 @@
         "Direction instead of Volume"
          - with no data
 
+
+```sql
+ALTER TABLE favourite_prescription_item
+DROP COLUMN product_id indication_id treatment_area_id volume;
+    
+```
+
 ```sql
 INSERT INTO rule_type (rule_type_name)
 VALUES ("DIRECTION_INSTEAD_OF_VOLUME");
