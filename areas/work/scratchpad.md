@@ -4,6 +4,11 @@
     - now you need to get add and remove favourites working similarly
 - (1:06午後) okay, next up get add and remove working nicely
 - (1:56午後) awesome you can add them, next up remove!!!
+- (1:57午後) you should be handling the event table too
+    - you can delete favourites too!!!
+- (2:04午後) okay and now you've done stuff with the event tables, next up slowly go through SelectPrescriptionItems.elm and see if there's any mess left
+
+
 
 
 ```sql
