@@ -1,13 +1,15 @@
 ## (2024/06/21 9:57午前)
 
-"""
-UPDATE your_table
-SET your_json_column = jsonb_set(
-                        your_json_column,
+
+
+```sql
+UPDATE favourite_prescription_item
+SET favourite_prescription_item_details= jsonb_set(
+                        favourite_prescription_item_details,
                         '{volume}',
-                        to_jsonb((your_json_column->>'volume')::int || '.0')
+                        to_jsonb((favourite_prescription_item_details->>'volume')::int || '.0')
                       );
-"""
+```
 
 
 ## (2024/06/20 8:42午前)
