@@ -2,6 +2,8 @@
 - (12:51午後) okay, it's finally loading favourites again!!!!!
     - I'm really happy about this
     - now you need to get add and remove favourites working similarly
+- (1:06午後) okay, next up get add and remove working nice
+
 
 
 
