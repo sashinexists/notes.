@@ -3,11 +3,20 @@
     - I'm really happy about this
     - now you need to get add and remove favourites working similarly
 - (1:06午後) okay, next up get add and remove working nicely
+- (1:56午後) awesome you can add them, next up remove!!!
 
-```
+
+```sql
+
 SELECT *
-FROM your_table
-WHERE JSON_EXTRACT(your_json_field, '$.application') IS NOT NULL;
+FROM favourite_prescription_item
+WHERE favourite_prescription_item_details-> 'application' IS NOT NULL;
+
+
+
+SELECT *
+FROM favourite_prescription_item
+WHERE JSON_EXTRACT(application, '$.application') IS NOT NULL;
 ```
 ```sql
 UPDATE favourite_prescription_item
