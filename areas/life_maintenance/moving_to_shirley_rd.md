@@ -12,11 +12,11 @@
     - I think this gets your address from paypal
 - [x] Get your photo ID updated
 - [x] join stanton library (25 minutes walk)
-- [] give that case back with thathi's jacket
+- [x] give that case back with thathi's jacket
 - [] move the dining table 
 - [] throw away lewie's drawers
 - [] clean the sticky residue off the back's of your posters
   - [] put the posters up
 
-- Get your bicycle from home
+- [x] Get your bicycle from home
 - buy a rice cooker
