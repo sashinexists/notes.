@@ -17,6 +17,7 @@
 - [] throw away lewie's drawers
 - [] clean the sticky residue off the back's of your posters
   - [] put the posters up
+- [] mirror from ikea
 
 - [x] Get your bicycle from home
 - buy a rice cooker
