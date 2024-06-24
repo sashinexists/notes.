@@ -18,6 +18,8 @@
 - [] clean the sticky residue off the back's of your posters
   - [] put the posters up
 - [] mirror from ikea
+- [] bath mats from ikea
+- [] a shoe rack from ikea
 
 - [x] Get your bicycle from home
 - buy a rice cooker
