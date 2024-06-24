@@ -18,6 +18,9 @@
       - 止めろよ (LHHL)
       - なけよ (LHL)
       - あそべよ (LHHL)
-      -
-
+  - ても、the downstep is on the て which is sometimes で (HL)
+    - examples
+      - とめても (LHHL)
+      - ないても (LHHL)
+      - あそんでも (LHHHL)
 
