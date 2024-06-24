@@ -23,4 +23,8 @@
       - とめても (LHHL)
       - ないても (LHHL)
       - あそんでも (LHHHL)
+  - たり, the downstep is on the た which is sometimes だ (HL)
+    - examples
+      - とめたり (LHHL)
+      - ないたり (LHHL)
 
