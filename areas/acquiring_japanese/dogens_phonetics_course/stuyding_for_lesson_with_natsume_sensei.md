@@ -8,6 +8,16 @@
     - These tend to also be the same with nakadaka verbs
 - Dogen recommends most study time to be devoted to the following
   - なかった (HLLL), the downstep is on the な
-  - 
+  - れば (HL), the downstep is on the れ
+    - applies to equivalent mora
+      - examples
+        - なけば (LHL) 
+        - あそべば (LHHL)
+  - ろ, the downstep is on the ろ or equivalent mora
+    - examples (よ provided to show odaka downstep)
+      - 止めろよ (LHHL)
+      - なけよ (LHL)
+      - あそべよ (LHHL)
+      -
 
 
