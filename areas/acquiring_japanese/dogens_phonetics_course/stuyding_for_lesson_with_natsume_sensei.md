@@ -6,5 +6,8 @@
   - たい the drop is on the た (HL)
     - The above tend to already be fine among japanese learner, Dogen recommends not to focus on them
     - These tend to also be the same with nakadaka verbs
+- Dogen recommends most study time to be devoted to the following
+  - なかった (HLLL), the downstep is on the な
+  - 
 
 
