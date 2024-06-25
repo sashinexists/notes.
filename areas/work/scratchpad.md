@@ -1,7 +1,7 @@
 ## (2024/06/26 8:02午前)
 - Okay, need to add the rule type and implement the UI
 - gotta get my bearings
-
+- you want to make it so the direction rule has a default name and description, then you want to go to the apply rule interface
 ## (2024/06/21 9:57午前)
 - (12:51午後) okay, it's finally loading favourites again!!!!!
     - I'm really happy about this
