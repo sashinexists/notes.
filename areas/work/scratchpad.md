@@ -4,6 +4,7 @@
 - you want to make it so the direction rule has a default name and description, then you want to go to the apply rule interface
 - you need to ask Ben which products and categories require these things
 - now find out how rules are applied and do the UI changes so that something different happens if it needs a direction
+- you need to make the product rules show first if one has updated first
 
 ## (2024/06/21 9:57午前)
 - (12:51午後) okay, it's finally loading favourites again!!!!!
