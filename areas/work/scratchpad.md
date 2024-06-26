@@ -6,7 +6,7 @@
 - now find out how rules are applied and do the UI changes so that something different happens if it needs a direction
 - you need to make the product rules show first if one has updated first
 - remember to also do this changes in the phone view in SelectPrescriptionItems.elm
-
+- you need to change the constraints on the favourite prescription item table
 ## (2024/06/21 9:57午前)
 - (12:51午後) okay, it's finally loading favourites again!!!!!
     - I'm really happy about this
