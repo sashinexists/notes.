@@ -12,6 +12,9 @@
 - (12:44午後) thinking about how to implement directions, they have metadata, I think a new field is in order
     - instruction
 - (2:36午後) looks like the database is good now
+    - just need to reimplement the ui
+- (3:04午後) you want to set the application depending on things
+
 
 
 
