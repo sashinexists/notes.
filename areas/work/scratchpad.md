@@ -9,8 +9,10 @@
 - you need to change the constraints on the favourite prescription item table
 - this is a problem that has something to do with types
 - this fail only occurs when there is a direction
-- (12:44午後) thinking about how to implement directions, they have meta data, I think a new field is in order
+- (12:44午後) thinking about how to implement directions, they have metadata, I think a new field is in order
     - instruction
+- (2:36午後) looks like the database is good now
+
 
 
 ## (2024/06/21 9:57午前)
