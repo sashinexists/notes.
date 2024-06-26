@@ -8,6 +8,7 @@
 - remember to also do this changes in the phone view in SelectPrescriptionItems.elm
 - you need to change the constraints on the favourite prescription item table
 - this is a problem that has something to do with types
+- this fail only occurs when there is a direction
 
 ## (2024/06/21 9:57午前)
 - (12:51午後) okay, it's finally loading favourites again!!!!!
