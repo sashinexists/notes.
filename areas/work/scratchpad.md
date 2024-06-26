@@ -4,6 +4,9 @@
     - after this with Ben's help have a look at the Doctor's portal
     - next ticket will be implementing the max number of prescription items rule, need to talk to ben about this
         - current behaviour is not replicable
+- what to do if you delete a rule and it's linked, probably should give an error
+    - yeah you can do this visually without
+- slightly weird behaviours
 
 
 
