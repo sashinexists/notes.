@@ -1,3 +1,12 @@
+## (2024/06/27 8:21午前)
+- (8:21午前) I think I want to change "validating volume" to "validating application"
+    - after this test
+    - after this with Ben's help have a look at the Doctor's portal
+    - next ticket will be implementing the max number of prescription items rule, need to talk to ben about this
+        - current behaviour is not replicable
+
+
+
 ## (2024/06/26 8:02午前)
 - Okay, need to add the rule type and implement the UI
 - gotta get my bearings
