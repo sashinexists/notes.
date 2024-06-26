@@ -14,7 +14,9 @@
 - (2:36午後) looks like the database is good now
     - just need to reimplement the ui
 - (3:04午後) you want to set the application depending on things
-- (3:42午後) what if I made validating volume into validating application
+- (3:42午後) what if I made validating volume into validating application?
+- (4:00午後) seems to be working need to test it
+
 
 
 
