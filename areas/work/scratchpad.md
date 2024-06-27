@@ -27,6 +27,7 @@
     - then process gotData, and stick everything in the model
         - see if you can get a line of products displaying
 - (2:56午後) you need to replicate your other changes on mobile
+    - let's do it now
 
 
 
