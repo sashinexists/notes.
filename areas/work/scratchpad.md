@@ -18,6 +18,7 @@
     - a product has a name, a category and a unit of id
 - you want to get all the units of measure with id
     - okay add a units of measure to domain along with a decoder and an end point to get them all
+- maybe create cmd and the task
 
 
 
