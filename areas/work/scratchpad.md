@@ -28,6 +28,7 @@
         - see if you can get a line of products displaying
 - (2:56午後) you need to replicate your other changes on mobile
     - let's do it now
+- (3:53午後) next up (first up tomorrow you are going to create two new fields on the products table, created_at and updated_at)
 
 
 
