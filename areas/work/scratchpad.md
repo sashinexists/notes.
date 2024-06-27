@@ -7,6 +7,13 @@
 - what to do if you delete a rule and it's linked, probably should give an error
     - yeah you can do this visually without touching the database
 - slightly weird behaviours
+- next up you need to call Toni, what do you ask her?
+    - max prescription items, how should the behaviour work
+        - if it's for a product it means you can't have more than a specified number but what about category
+        - three interpretations
+            - for any product in that category, you can't have more than a specified number of that product
+            - you can't have more than a specified number of products from a category
+            - you can't have more than a specified number of distinct products from a category
 
 
 
