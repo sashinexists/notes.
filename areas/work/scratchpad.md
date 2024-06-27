@@ -5,7 +5,7 @@
     - next ticket will be implementing the max number of prescription items rule, need to talk to ben about this
         - current behaviour is not replicable
 - what to do if you delete a rule and it's linked, probably should give an error
-    - yeah you can do this visually without
+    - yeah you can do this visually without touching the database
 - slightly weird behaviours
 
 
