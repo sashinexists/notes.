@@ -21,6 +21,12 @@
 - maybe create cmd and the task
     - no create the type and decoder first
 - you may not need unit of measure after all
+    - no you do need it
+- (2:11午後) plan
+    - viewProductLine function
+    - then process gotData, and stick everything in the model
+        - see if you can get a line of products displaying
+
 
 
 
