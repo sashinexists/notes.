@@ -1,3 +1,7 @@
+## (2024/06/28 8:43午前)
+- the way it works for a category is you can't have more than x lines from that category
+
+
 ## (2024/06/27 8:21午前)
 - (8:21午前) I think I want to change "validating volume" to "validating application"
     - after this test
@@ -33,6 +37,7 @@
         - make it work the same way the others are
     - then start to add the viewaddproduct stuff
     - you also want a validateAddProduct function that takes in the productToAdd and validates it, for the name to be valid it needs to not be blank nor match an existing product name
+
 
 
 
