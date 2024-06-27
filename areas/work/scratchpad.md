@@ -29,6 +29,11 @@
 - (2:56午後) you need to replicate your other changes on mobile
     - let's do it now
 - (3:53午後) next up (first up tomorrow you are going to create two new fields on the products table, created_at and updated_at)
+    - after that add order by updated_at to the query
+        - make it work the same way the others are
+    - then start to add the viewaddproduct stuff
+    - you also want a validateAddProduct function that takes in the productToAdd and validates it, for the name to be valid it needs to not be blank nor match an existing product name
+
 
 
 
