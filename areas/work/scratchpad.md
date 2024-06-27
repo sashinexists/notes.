@@ -16,6 +16,7 @@
             - you can't have more than a specified number of types of products from a category
 - Now you're adding a products interface
     - a product has a name, a category and a unit of id
+- you want to get all the units of measure with id
 
 
 
