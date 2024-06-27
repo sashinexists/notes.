@@ -14,6 +14,7 @@
             - for any product in that category, you can't have more than a specified number of that product
             - you can't have more than a specified number of products from a category
             - you can't have more than a specified number of types of products from a category
+- Now you're adding a products interface
 
 
 
