@@ -10,6 +10,9 @@
     - (3:51午後) you need to handle the update method for the searchboxes for categories and units of measure
         - then after that handle the view?
         - handled the updates for the search boxes, next up need to handle the update method for entering a product name
+            - also the viewAddProduct
+- (4:00午後) don't forget to display the errors
+
 
 
 ## (2024/06/27 8:21午前)
