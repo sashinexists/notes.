@@ -7,6 +7,8 @@
 - (12:51午後) okay you want to take in a list of maximum rules and a list of prescription items and see if any are broken
 - (3:32午後) back to working on the edit products interface, start working on viewAddProduct
 - (3:39午後) up to the view model
+    - (3:51午後) you need to handle the update method for the searchboxes for categories and units of measure
+
 
 
 
