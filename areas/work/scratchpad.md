@@ -4,6 +4,8 @@
 - (11:27午前) now you want to make it display errors
     - next you want to make it possible to apply the rules and for the rules to work
 - (11:47午前) see how the maximums work now
+- (12:51午後) okay you want to take in a list of maximum rules and a list of prescription items and see if any are broken
+
 
 
 
