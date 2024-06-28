@@ -1,5 +1,6 @@
 ## (2024/06/28 8:43午前)
 - the way it works for a category is you can't have more than x lines from that category
+- let's implement that rule and then get back
 
 
 ## (2024/06/27 8:21午前)
