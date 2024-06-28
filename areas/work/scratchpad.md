@@ -3,6 +3,8 @@
 - let's implement that rule and then get back
 - (11:27午前) now you want to make it display errors
     - next you want to make it possible to apply the rules and for the rules to work
+- (11:47午前) see how the maximums work now
+
 
 
 
