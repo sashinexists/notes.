@@ -8,12 +8,8 @@
 - (3:32午後) back to working on the edit products interface, start working on viewAddProduct
 - (3:39午後) up to the view model
     - (3:51午後) you need to handle the update method for the searchboxes for categories and units of measure
-
-
-
-
-
-
+        - then after that handle the view?
+        - handled the updates for the search boxes, next up need to handle the update method for entering a product name
 
 
 ## (2024/06/27 8:21午前)
