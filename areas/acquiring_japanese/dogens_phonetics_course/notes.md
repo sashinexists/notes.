@@ -244,3 +244,5 @@ The two major exceptions are the く and さ forms which are always said with th
       - 麗らかな (うららかな): LHLLL
       - 疎かな (おろそかな)
   
+## Pitch Accent for the "sa" form of na-adjectives
+- Source: Japanese phonetics Episode 14
