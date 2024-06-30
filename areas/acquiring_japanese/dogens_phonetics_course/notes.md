@@ -245,4 +245,9 @@ The two major exceptions are the く and さ forms which are always said with th
       - 疎かな (おろそかな)
   
 ## Pitch Accent for the "sa" form of na-adjectives
-- Source: Japanese phonetics Episode 14
+- Source: Japanese phonetics Episode 15
+- [youtube link](https://invidious.perennialte.ch/watch?time_continue=63&v=y28WA-VqbwE&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-8552230)
+
+- In the sa form of heiban na-adjectives, the adjectives will stay heiban
+- If they are not heiban, in the sa-form, they become odaka with the "sa" being low
