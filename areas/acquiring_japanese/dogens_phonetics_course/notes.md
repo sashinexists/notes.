@@ -258,6 +258,11 @@ The two major exceptions are the く and さ forms which are always said with th
     - 曖昧な (あいまいな): LHHHH
       -> 曖昧さ (あいまいさ): LHHHH
 - If they are not heiban, in the sa-form, they become odaka with the "sa" being low
-  - 元気な(げんきな): HLLL
-    -> 元気さ(げんきさ): LHHL
+  - examples
+    - 元気な(げんきな): HLLL
+      -> 元気さ(げんきさ): LHHL
+    - 豊かな(ゆたかな): HLLL
+      -> 豊かさ(ゆたかさ): LHHL
+    - 賑やか(にぎやか): LHLL
+      -> 賑やか(にぎやか): LHLL
 
