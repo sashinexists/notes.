@@ -1,5 +1,9 @@
 ## (2024/07/03 8:01午前)
-- 
+- (8:12午前) just handled the update method for entering a product name
+    - next up is to start creating "viewAddProduct"
+    - while you do this, also get the errors displaying
+
+
 
 
 ## (2024/06/28 8:43午前)
