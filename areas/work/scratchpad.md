@@ -2,6 +2,7 @@
 - (8:12午前) just handled the update method for entering a product name
     - next up is to start creating "viewAddProduct"
     - while you do this, also get the errors displaying
+- (8:25午前) Edit rules and apply rules aren't pulling in for some reason
 
 
 
