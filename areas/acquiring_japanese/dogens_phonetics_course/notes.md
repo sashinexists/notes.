@@ -271,3 +271,8 @@ The two major exceptions are the く and さ forms which are always said with th
       -> 愚かさ(おろかさ): LHHL
     
 ## Pitch Accent for negative i-adjectives
+- Source: Japanese phonetics Episode 16
+- [youtube link](https://invidious.perennialte.ch/watch?time_continue=49&v=aRt9Lpf6NQU&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
+- [patreon link](https://www.patreon.com/posts/59506104)
+
+- First conjugate the i-adjective to it's "く" form then attach ない(HL)
