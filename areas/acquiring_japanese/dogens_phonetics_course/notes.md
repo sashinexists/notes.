@@ -263,6 +263,11 @@ The two major exceptions are the く and さ forms which are always said with th
       -> 元気さ(げんきさ): LHHL
     - 豊かな(ゆたかな): HLLL
       -> 豊かさ(ゆたかさ): LHHL
-    - 賑やか(にぎやか): LHLL
-      -> 賑やか(にぎやか): LHLL
+    - 賑やかな(にぎやかな): LHLLL
+      -> 賑やかさ(にぎやかさ): LHHHL
+    - 爽やかな(さわやかな): LHLLL
+      -> 爽やかさ(さわやかさ): LHHHL
+    - 愚かな(おろかな): HLLL
+      -> 愚かさ(おろかさ): LHHL
+    
 
