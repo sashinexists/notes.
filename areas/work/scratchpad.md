@@ -3,6 +3,9 @@
     - next up is to start creating "viewAddProduct"
     - while you do this, also get the errors displaying
 - (8:25午前) Edit rules and apply rules aren't pulling in for some reason
+- (9:16午前) migration down for m51
+    - then come back to these products
+
 
 
 
