@@ -250,7 +250,11 @@ The two major exceptions are the く and さ forms which are always said with th
 - [patreon link](https://www.patreon.com/posts/japanese-episode-8552230)
 
 - In the sa-form of heiban na-adjectives, the adjectives will stay heiban
-  - examples:
+  - examples
+    - 大変な(たいへんな): LHHHH 
+      -> 大変さ(たいへんさ): LHHHH 
+    - 純粋な (じゅんすいな): LHHHH
+      -> 純粋さ (じゅんすいさ): LHHHH
     - 
 - If they are not heiban, in the sa-form, they become odaka with the "sa" being low
 
