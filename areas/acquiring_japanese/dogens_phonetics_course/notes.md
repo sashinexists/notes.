@@ -270,4 +270,4 @@ The two major exceptions are the く and さ forms which are always said with th
     - 愚かな(おろかな): HLLL
       -> 愚かさ(おろかさ): LHHL
     
-
+## Pitch Accent for negative i-adjectives
