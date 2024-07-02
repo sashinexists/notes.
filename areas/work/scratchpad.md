@@ -1,3 +1,7 @@
+## (2024/07/03 8:01午前)
+- 
+
+
 ## (2024/06/28 8:43午前)
 - the way it works for a category is you can't have more than x lines from that category
 - let's implement that rule and then get back
