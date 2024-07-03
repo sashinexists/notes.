@@ -4,6 +4,8 @@
     - now just the edit
 - (8:42午前) it looks like editing the products works perfectly too
 - (8:46午前) I want to add an error condition where you can't add something with the same name
+- (9:33午前) next up you want to add a rule event table
+
 
 
 
