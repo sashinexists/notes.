@@ -1,5 +1,6 @@
 ## (2024/07/04 8:09午前)
-- 
+- (8:09午前) okay the first thing you will do is make remove and add accomodate entry states, after that you will deal with the entry tables
+
 
 
 ## (2024/07/03 8:01午前)
