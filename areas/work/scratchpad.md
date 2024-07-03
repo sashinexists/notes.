@@ -13,6 +13,8 @@
     - like what if the name is the same as an existing product
 - (12:36午後) next up remove product
 - (12:45午後) next up edit products
+    - you want to look at how it's done in rules and create a similar interface
+    - you also want to add display server errors to rules
 
 
 
