@@ -19,7 +19,8 @@
     - now you should probably display the updated errors
         - also need to do a route to update the product
 - (2:44午後) everything seems to be done
-    maybe you want to add a product event table
+    - maybe you want to add a product event table
+    - then a rule event table
 
 
 
