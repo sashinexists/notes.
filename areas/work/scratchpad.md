@@ -15,6 +15,7 @@
 - (12:45午後) next up edit products
     - you want to look at how it's done in rules and create a similar interface
     - you also want to add display server errors to rules
+    - you should also do the same thing with server errors in products
 
 
 
