@@ -21,6 +21,8 @@
 - (2:44午後) everything seems to be done
     - maybe you want to add a product event table
     - then a rule event table
+- (3:51午後) now you want to add events for removing and editing
+
 
 
 
