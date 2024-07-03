@@ -22,6 +22,8 @@
     - maybe you want to add a product event table
     - then a rule event table
 - (3:51午後) now you want to add events for removing and editing
+    - you need to add the events for removing and editing
+    - AND you want to make removing and adding handle entry_state
 
 
 
