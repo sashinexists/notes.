@@ -1,5 +1,7 @@
 ## (2024/07/04 8:09午前)
 - (8:09午前) okay the first thing you will do is make remove and add accomodate entry states, after that you will deal with the entry tables
+- (8:41午前) it looks like the remove event is there any working
+
 
 
 
