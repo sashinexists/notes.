@@ -7,6 +7,9 @@
     - then come back to these products
         - with products you are up to validateViewModel
 - (10:57午前) okay all the rule changes have been merged in and the rules are pulling in!!!
+    - now back to validateViewModel
+- (11:37午前) okay now to add the add button
+
 
 
 
