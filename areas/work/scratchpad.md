@@ -1,3 +1,7 @@
+## (2024/07/04 8:09午前)
+- 
+
+
 ## (2024/07/03 8:01午前)
 - (8:12午前) just handled the update method for entering a product name
     - next up is to start creating "viewAddProduct"
