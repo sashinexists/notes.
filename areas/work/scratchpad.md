@@ -9,6 +9,9 @@
 - (10:57午前) okay all the rule changes have been merged in and the rules are pulling in!!!
     - now back to validateViewModel
 - (11:37午前) okay now to add the add button
+- (11:55午前) let's get this working but there are more input errors
+    - like what if the name is the same as an existing product
+
 
 
 
