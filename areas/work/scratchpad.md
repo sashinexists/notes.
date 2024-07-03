@@ -5,6 +5,9 @@
 - (8:25午前) Edit rules and apply rules aren't pulling in for some reason
 - (9:16午前) migration down for m51
     - then come back to these products
+        - with products you are up to validateViewModel
+- (10:57午前) okay all the rule changes have been merged in and the rules are pulling in!!!
+
 
 
 
