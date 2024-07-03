@@ -17,6 +17,10 @@
     - you also want to add display server errors to rules
     - you should also do the same thing with server errors in products
     - now you should probably display the updated errors
+        - also need to do a route to update the product
+- (2:44午後) everything seems to be done
+    maybe you want to add a product event table
+
 
 
 
