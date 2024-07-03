@@ -11,6 +11,8 @@
 - (11:37午前) okay now to add the add button
 - (11:55午前) let's get this working but there are more input errors
     - like what if the name is the same as an existing product
+- (12:36午後) next up remove product
+
 
 
 
