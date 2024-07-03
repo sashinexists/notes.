@@ -1,6 +1,11 @@
 ## (2024/07/04 8:09午前)
 - (8:09午前) okay the first thing you will do is make remove and add accomodate entry states, after that you will deal with the entry tables
 - (8:41午前) it looks like the remove event is there any working
+    - now just the edit
+- (8:42午前) it looks like editing the products works perfectly too
+- (8:46午前) I want to add an error condition where you can't add something with the same name
+
+
 
 
 
