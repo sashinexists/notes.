@@ -19,6 +19,7 @@
     - new bug found when editing max_prescription_rules
 - (1:32午後) now to implement switch for product_rule, category_rule and product
 - (2:00午後) you *do* need to check duplicates
+    - okay check for duplicates
 
 
 
