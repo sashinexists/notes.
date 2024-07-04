@@ -14,6 +14,7 @@
     - you are up to adding the events for product_rule, add them to remove and edit product rule
         - then do the same to category, then test it all
 - (12:07午後) found a new case, where edit something to be something old
+    - think about how you want to handle the case
 
 
 
