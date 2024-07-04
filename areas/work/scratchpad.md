@@ -16,6 +16,7 @@
 - (12:07午後) found a new case, where edit something to be something old
     - think about how you want to handle the case
 - (12:44午後) going to add a 'switch_rule' event to handle the edit edge case
+    - new bug found when editing max_prescription_rules
 
 
 
