@@ -1,3 +1,11 @@
+## (2024/07/05 8:13午前)
+- (8:13午前) start by getting uniqueness working for rule name and description
+    - then do the same for apply rules
+- (8:40午前) right now the error is showing no matter what
+
+
+
+
 ## (2024/07/04 8:09午前)
 - (8:09午前) okay the first thing you will do is make remove and add accomodate entry states, after that you will deal with the entry tables
 - (8:41午前) it looks like the remove event is there any working
