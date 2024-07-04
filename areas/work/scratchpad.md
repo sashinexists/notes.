@@ -2,6 +2,8 @@
 - (8:13午前) start by getting uniqueness working for rule name and description
     - then do the same for apply rules
 - (8:40午前) right now the error is showing no matter what
+- (9:32午前) it's lagging in a weird way
+
 
 
 
