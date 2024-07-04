@@ -20,6 +20,10 @@
 - (1:32午後) now to implement switch for product_rule, category_rule and product
 - (2:00午後) you *do* need to check duplicates
     - okay check for duplicates
+        - maybe duplicate names and descriptions for rules
+        - then think about product rules and category rules
+        - okay maybe it doesn't have to be a part of validate viewModel
+            - it can be validate
 
 
 
