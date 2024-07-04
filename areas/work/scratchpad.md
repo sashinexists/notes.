@@ -24,6 +24,8 @@
         - then think about product rules and category rules
         - okay maybe it doesn't have to be a part of validate viewModel
             - it can be validate
+- (2:53午後) you gotta run these validate functions when it's automatically generated
+
 
 
 
