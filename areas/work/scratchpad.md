@@ -7,6 +7,12 @@
 - (9:33午前) next up you want to add a rule event table
     - let's make a new ticket for this
 - (10:00午前) okay made the table, next up you will start using it
+    - ADD_RULE, REMOVE_RULE and EDIT_RULE events
+- (10:51午前) you should check for uniqueness on the front end
+    - this is too hard with the rule model
+- (11:08午前) add the product_rule_entry and product_category_rule_entry tables
+
+
 
 
 
