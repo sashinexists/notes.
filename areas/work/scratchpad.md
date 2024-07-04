@@ -17,6 +17,8 @@
     - think about how you want to handle the case
 - (12:44午後) going to add a 'switch_rule' event to handle the edit edge case
     - new bug found when editing max_prescription_rules
+- (1:32午後) now to implement switch for product_rule, category_rule and product
+
 
 
 
