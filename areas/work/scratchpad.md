@@ -25,7 +25,11 @@
         - okay maybe it doesn't have to be a part of validate viewModel
             - it can be validate
 - (2:53午後) you gotta run these validate functions when it's automatically generated
-- (3:46午後) you did it on submitting a name, but you should actually be doing it on input
+- (3:46午後) you did it on submitting a name, but you should actually be doing it on input change
+    - this was a mistake
+    - no, this is right
+- (3:58午後) up to "UpdateViewModelMetadata" on line 1045 of EditProducts.elm
+ 
 
 
 
