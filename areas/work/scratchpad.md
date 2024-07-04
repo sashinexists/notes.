@@ -5,6 +5,8 @@
 - (8:42午前) it looks like editing the products works perfectly too
 - (8:46午前) I want to add an error condition where you can't add something with the same name
 - (9:33午前) next up you want to add a rule event table
+    - let's make a new ticket for this
+- (10:00午前) okay made the table, next up you will start using it
 
 
 
