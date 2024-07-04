@@ -12,6 +12,9 @@
     - this is too hard with the rule model
 - (11:08午前) add the product_rule_events and product_category_rule_entry tables
     - you are up to adding the events for product_rule, add them to remove and edit product rule
+        - then do the same to category, then test it all
+- (12:07午後) found a new case, where edit something to be something old
+
 
 
 
