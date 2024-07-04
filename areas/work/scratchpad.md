@@ -29,6 +29,7 @@
     - this was a mistake
     - no, this is right
 - (3:58午後) up to "UpdateViewModelMetadata" on line 1045 of EditProducts.elm
+    - add this new validation back into viewModelValidation
  
 
 
