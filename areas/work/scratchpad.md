@@ -10,7 +10,8 @@
     - ADD_RULE, REMOVE_RULE and EDIT_RULE events
 - (10:51午前) you should check for uniqueness on the front end
     - this is too hard with the rule model
-- (11:08午前) add the product_rule_entry and product_category_rule_entry tables
+- (11:08午前) add the product_rule_events and product_category_rule_entry tables
+    - you are up to adding the events for product_rule, add them to remove and edit product rule
 
 
 
