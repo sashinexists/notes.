@@ -11,7 +11,8 @@
     - going to split it up to validate each kind of rule separately
 - (3:47午後) you are up to working on viewModelValidation2 (space s then search 2, in EditRules.elm)
  - or go to line 2162
-
+    - make volumeNotEntered just another volume validation error
+        - these don't all have to display
 
 
 
