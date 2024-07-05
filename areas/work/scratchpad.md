@@ -6,6 +6,8 @@
     - it's still lagging
     - you need to do it better
         - also do this for the other ruletypes
+- (1:02午後) now just do it for treatment area and volume
+
 
 
 
