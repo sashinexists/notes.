@@ -8,6 +8,7 @@
         - also do this for the other ruletypes
 - (1:02午後) now just do it for treatment area and volume
 - (2:44午後) rewrite validate view model to handle every kind of error
+    - going to split it up to validate each kind of rule separately
 
 
 
