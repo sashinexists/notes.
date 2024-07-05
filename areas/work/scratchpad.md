@@ -10,7 +10,7 @@
 - (2:44午後) rewrite validate view model to handle every kind of error
     - going to split it up to validate each kind of rule separately
 - (3:47午後) you are up to working on viewModelValidation2 (space s then search 2, in EditRules.elm)
-
+ - or go to line 2162
 
 
 
