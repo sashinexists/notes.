@@ -3,6 +3,8 @@
     - then do the same for apply rules
 - (8:40午前) right now the error is showing no matter what
 - (9:32午前) it's lagging in a weird way
+    - it's still lagging
+    - you need to do it better
 
 
 
