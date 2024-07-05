@@ -5,6 +5,7 @@
 - (9:32午前) it's lagging in a weird way
     - it's still lagging
     - you need to do it better
+        - also do this for the other ruletypes
 
 
 
