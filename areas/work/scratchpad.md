@@ -1,3 +1,8 @@
+## (2024/07/10 8:24午前)
+- (8:24午前) 
+
+
+
 ## (2024/07/05 8:13午前)
 - (8:13午前) start by getting uniqueness working for rule name and description
     - then do the same for apply rules
