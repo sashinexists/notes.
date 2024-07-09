@@ -2,6 +2,8 @@
 - (8:24午前) Let's try and finish this as swiftly as possible, then move on to treatment areas, then indications
     - will probably have to reread last week's scratch to fully tie all loose ends
 - (9:02午前) there's only four errors that need to be handled it looks like
+- (9:48午前) Need to add two more conditions to ensure that the rule name and description are unique
+
 
 
 
