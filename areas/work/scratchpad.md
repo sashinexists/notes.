@@ -14,6 +14,8 @@
 - (1:01午後) the auto entry for rule name and description isn't working
 - (1:09午後) need to go through everything that sets the name and description and revalidate it
 - (2:11午後) all of these seem to be working now, now next step make it hide the + and don't rerun the function
+- (2:17午後) you also need to make sure edit is working just as expected
+
 
 
 
