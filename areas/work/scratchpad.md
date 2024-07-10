@@ -16,6 +16,9 @@
 - (2:11午後) all of these seem to be working now, now next step make it hide the + and don't rerun the function
 - (2:17午後) you also need to make sure edit is working just as expected
 - (2:24午後) you have to make these errors clear at the right time now
+- (2:38午後) maybe now you can work on the more specific errors
+    - for example now you have treatmentAreaNotSelected and volumeNotSelected
+
 
 
 
