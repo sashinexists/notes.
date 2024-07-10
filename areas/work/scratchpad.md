@@ -4,6 +4,9 @@
 - (9:02午前) there's only four errors that need to be handled it looks like
 - (9:48午前) Need to add two more conditions to ensure that the rule name and description are unique
     - (line 2111 of EditRules.elm)
+- (11:54午前) it looks like you just need to make the errors display now
+    - also pretty sure you need to redo them with other inputs
+
 
 
 
