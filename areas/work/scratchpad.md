@@ -1,6 +1,8 @@
 ## (2024/07/11 7:57午前)
 - (8:11午前) starting by entering a maximum number of items
 - (9:11午前) it looks like treatment areas and indications are one trick ponies
+- (9:17午前) you are going to have to do this
+
 
  
 
