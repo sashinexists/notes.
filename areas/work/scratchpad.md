@@ -1,6 +1,6 @@
 ## (2024/07/11 7:57午前)
-
-
+- (8:11午前) starting by entering a maximum number of items
+ 
 
 ## (2024/07/10 8:24午前)
 - (8:24午前) Let's try and finish this as swiftly as possible, then move on to treatment areas, then indications
@@ -24,6 +24,7 @@
     - for example now you have treatmentAreaNotSelected and volumeNotSelected
 - (2:52午後) when you select anything you want not having that thing to no longer be an error
 - (2:54午後) also, you want to make
+
 
 
 
