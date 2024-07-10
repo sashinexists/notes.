@@ -12,6 +12,8 @@
     - you also want to make the plus button disappear if there are any errors
 - (12:45午後) since you are storing validate view model you probably don't need it
 - (1:01午後) the auto entry for rule name and description isn't working
+- (1:09午後) need to go through everything that sets the name and description and do this
+
 
 
 
