@@ -19,6 +19,9 @@
 - (2:38午後) maybe now you can work on the more specific errors
     - for example now you have treatmentAreaNotSelected and volumeNotSelected
 - (2:52午後) when you select anything you want not having that thing to no longer be an error
+- (2:54午後) also, you want to make
+
+
 
 
 
