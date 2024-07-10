@@ -9,6 +9,11 @@
 - (12:36午後) things are starting to look good here
     - getting the desired behaviour gradually
 - (12:41午後) treatment areas should be unique
+    - you also want to make the plus button disappear if there are any errors
+- (12:45午後) since you are storing validate view model you probably don't need it
+- (1:01午後) the auto entry for rule name and description isn't working
+
+
 
 
 
