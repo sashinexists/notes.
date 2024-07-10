@@ -12,7 +12,9 @@
     - you also want to make the plus button disappear if there are any errors
 - (12:45午後) since you are storing validate view model you probably don't need it
 - (1:01午後) the auto entry for rule name and description isn't working
-- (1:09午後) need to go through everything that sets the name and description and do this
+- (1:09午後) need to go through everything that sets the name and description and revalidate it
+- (2:11午後) all of these seem to be working now, now next step make it hide the + and don't rerun the function
+
 
 
 
