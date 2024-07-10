@@ -2,6 +2,10 @@
 - (8:11午前) starting by entering a maximum number of items
 - (9:11午前) it looks like treatment areas and indications are one trick ponies
 - (9:17午前) you are going to have to do this
+    - you will have to change the treatment area table so that there is an updated at and presumably created at
+- (9:18午前) also need to do some smoke and sanity testing
+- (9:47午前) first up, add created_at and updated_at to treatment_area
+
 
 
  
