@@ -6,6 +6,8 @@
     - (line 2111 of EditRules.elm)
 - (11:54午前) it looks like you just need to make the errors display now
     - also pretty sure you need to redo them with other inputs
+- (12:36午後) things are starting to look good here
+
 
 
 
