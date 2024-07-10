@@ -18,6 +18,8 @@
 - (2:24午後) you have to make these errors clear at the right time now
 - (2:38午後) maybe now you can work on the more specific errors
     - for example now you have treatmentAreaNotSelected and volumeNotSelected
+- (2:52午後) when you select anything you want not having that thing to no longer be an error
+
 
 
 
