@@ -7,6 +7,9 @@
 - (11:54午前) it looks like you just need to make the errors display now
     - also pretty sure you need to redo them with other inputs
 - (12:36午後) things are starting to look good here
+    - getting the desired behaviour gradually
+- (12:41午後) treatment areas should be unique
+
 
 
 
