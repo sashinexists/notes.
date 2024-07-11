@@ -11,6 +11,11 @@
 - (1:13午後) getting an error now
 - (1:41午後) okay, edit isn't working as expected
 - (1:49午後) editing seems to be working but it doesn't clear edit
+- (1:51午後) Everything seems to be working
+    - next up you need to enforce uniqueness
+- (2:02午後) you should change how errors and validation work
+
+
 
 
 
