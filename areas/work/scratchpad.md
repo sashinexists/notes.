@@ -3,6 +3,9 @@
     - okay first make the changes to the indications table
     - now make the elm page and get it working
 - (8:43午前) actually now I have to do all the python
+- (9:28午前) okay on to the next big thing
+- (9:30午前) I'll make a script line tables and a favourite scripts table
+
 
 
 
