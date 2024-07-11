@@ -8,6 +8,9 @@
 - (10:02午前) next up you want to have a get request that gets the treatment areas in order
 - (10:07午前) probably want to look through the release candidate changes as well
 - (10:51午前) need to add entry_state as well, need to see how this was done with product
+- (1:13午後) getting an error now
+- (1:41午後) okay, edit isn't working as expected
+- (1:49午後) editing seems to be working but it doesn't clear edit
 
 
 
