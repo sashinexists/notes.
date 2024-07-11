@@ -15,6 +15,8 @@
     - next up you need to enforce uniqueness
 - (2:02午後) you should change how errors and validation work
 - (2:57午後) you gotta do the switch thing with both treatment area and product
+- (3:03午後) okay work out this switch rule logic then apply it to both products and treatment areas
+
 
 
 
