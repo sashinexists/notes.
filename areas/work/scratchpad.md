@@ -2,6 +2,8 @@
 - (8:26午前) how do I do this, hmmm?
     - okay first make the changes to the indications table
     - now make the elm page and get it working
+- (8:43午前) actually now I have to do all the python
+
 
 
 
