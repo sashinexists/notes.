@@ -5,6 +5,8 @@
     - you will have to change the treatment area table so that there is an updated at and presumably created at
 - (9:18午前) also need to do some smoke and sanity testing
 - (9:47午前) first up, add created_at and updated_at to treatment_area
+- (10:02午前) next up you want to have a get request that gets the treatment areas in order
+
 
 
 
