@@ -1,3 +1,10 @@
+## (2024/07/12 8:26午前)
+- (8:26午前) how do I do this, hmmm?
+    - okay first make the changes to the indications table
+    - now make the elm page and get it working
+
+
+
 ## (2024/07/11 7:57午前)
 - (8:11午前) starting by entering a maximum number of items
 - (9:11午前) it looks like treatment areas and indications are one trick ponies
@@ -20,17 +27,6 @@
 - (4:04午後) done that, you are up to edit_indication now
     - after that it's the product groups
 
-
-
-
-
-
-
-
-
-
-
- 
 
 ## (2024/07/10 8:24午前)
 - (8:24午前) Let's try and finish this as swiftly as possible, then move on to treatment areas, then indications
