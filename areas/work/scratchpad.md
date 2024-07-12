@@ -15,6 +15,14 @@
 - (11:26午前) need a new ticket to add entry_state=1 to the get queries for indications, products and treatment areas
 - (1:24午後) back to designing this json
 - (2:12午後) maybe now think about the routes
+    - add_prescription_template
+    - get_prescription_templates
+    - remove_prescription_template
+    - edit_prescription_template
+- (3:14午後) you also need to make an event table for this
+- (3:42午後) gotta also add the foreign key relation for nurse id
+
+
 
 
 
