@@ -21,17 +21,8 @@
     - edit_prescription_template
 - (3:14午後) you also need to make an event table for this
 - (3:42午後) gotta also add the foreign key relation for nurse id
-
-
-
-
-
-
-
-
-
-
-
+- (3:54午後) next thing you have to do is make it so add_prescription_template adds to the prescription_table_event table
+- (3:59午後) up to prescription_templates.py line 46, you are making it so adding also creates an event, that's what you are up to
 
 ## (2024/07/11 7:57午前)
 - (8:11午前) starting by entering a maximum number of items
