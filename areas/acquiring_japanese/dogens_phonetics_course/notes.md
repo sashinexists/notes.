@@ -301,5 +301,11 @@ The two major exceptions are the く and さ forms which are always said with th
           -> うまくなければ: LHLHLLL
           -> うまくなる: LHLHL
       - 短い(みじかい): LHHL
+        -> みじかく: LHLL (traditional form)
+          -> みじかくない: LHLLHL
+          -> みじかくなかった: LHLLHLLL
+          -> みじかくなくて: LHLLHLL
+          -> みじかくなければ: LHLLHLLL
+          -> みじかくなくて: LHLLHLL
 
   - Heiban examples
