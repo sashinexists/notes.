@@ -278,6 +278,10 @@ The two major exceptions are the く and さ forms which are always said with th
 - First conjugate the i-adjective to it's "く" form then attach ない(HL)
   - it can attach to either the traditional form or the new form of conjugation
     - Examples
-      - うまい (LHL, traditional)
+      - うまい: LHL
+        -> うまく: HLL (traditional form)
+          -> うまくない: HLLHL 
+        -> うまく: LHL (new form)
+          ->　うまくない: LHLHL
 
 - the above rule also applies to なかった、なくて、なければ
