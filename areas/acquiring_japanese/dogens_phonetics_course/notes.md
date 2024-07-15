@@ -329,6 +329,8 @@ The two major exceptions are the く and さ forms which are always said with th
       - 冷たくない(つめたくなる): LHHHHL
       
 ## Pitch Accent for negative na-adjective conjugations
-- Source: Japanese phonetics Episode 16
-- [youtube link](https://invidious.perennialte.ch/watch?time_continue=49&v=aRt9Lpf6NQU&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
-- [patreon link](https://www.patreon.com/posts/59506104)
+- Source: Japanese phonetics Episode 17
+- [youtube link](https://invidious.perennialte.ch/watch?v=t29VMu7FyaU&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-8927147)
+
+
