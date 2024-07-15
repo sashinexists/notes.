@@ -306,6 +306,12 @@ The two major exceptions are the く and さ forms which are always said with th
           -> みじかくなかった: LHLLHLLL
           -> みじかくなくて: LHLLHLL
           -> みじかくなければ: LHLLHLLL
-          -> みじかくなくて: LHLLHLL
+          -> みじかくなる: LHLLHL
+        -> みじかく: LHHL (traditional form)
+          -> みじかくない: LHHLHL
+          -> みじかくなかった: LHHLHLLL
+          -> みじかくなくて: LHHLHLL
+          -> みじかくなければ: LHHLHLLL
+          -> みじかくなる: LHHLHL
 
   - Heiban examples
