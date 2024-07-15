@@ -318,3 +318,12 @@ The two major exceptions are the く and さ forms which are always said with th
     - 赤い(あかい): LHH (traditional pronunciation, dogen recommends japanese learners to use LHL)
       - 赤くない(あかくない): LHHHL
       - 赤くない(あかくなかった): LHHHLLL
+      - 赤くない(あかくなくて): LHHHLL
+      - 赤くない(あかくなければ): LHHHLLL
+      - 赤くない(あかくなる): LHHHL
+    - 冷たい(つめたい): LHHH (traditional pronunciation, dogen recommends japanese learners to use LHHL)
+      - 冷たくない(あかくない): LHHHL
+      - 冷たくない(あかくなかった): LHHHLLL
+      - 冷たくない(あかくなくて): LHHHLL
+      - 冷たくない(あかくなければ): LHHHLLL
+      - 冷たくない(あかくなる): LHHHL
