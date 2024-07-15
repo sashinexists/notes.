@@ -289,4 +289,12 @@ The two major exceptions are the く and さ forms which are always said with th
 
 - the above rule also applies to なかった、なくて、なければ
   - Downstep examples
+      - うまい: LHL
+        -> うまく: HLL (traditional form)
+          -> うまくなかった: HLLHLLL
+          -> うまくなくて: HLLHLL
+          -> うまくなければ: HLLHLLL
+          -> うまくなる: HLLHL
+      -> うまく: LHL (new form)
+        ->　うまくない: LHLHL
   - Heiban examples
