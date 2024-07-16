@@ -343,4 +343,8 @@ The two major exceptions are the く and さ forms which are always said with th
       - 安全じゃない(あんぜんじゃない): LHHHHHL
     - Nouns
       - 秋じゃない (あきじゃない): HLLHL
+      - お菓子じゃない (おかしじゃない): LHLLHL
+      - 弟じゃない (おとうとじゃない): LHHHLHL
+      - 銀行じゃない (ぎんこうじゃない): LHHHHHL
+  - じゃなっかった、じゃなくて、じゃなければ
 
