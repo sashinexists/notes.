@@ -349,3 +349,7 @@ The two major exceptions are the く and さ forms which are always said with th
 
   - じゃなっかった、じゃなく、じゃなくて、じゃなければ all work exactly the same, with the downstep on the な of each word
 
+## Pitch Accent for heiban verbs
+- Source: Japanese phonetics Episode 18
+- [youtube link](https://invidious.perennialte.ch/watch?v=BisUMiV1C0c&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDEzOTExNywyODY2Ng)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-11107372)
