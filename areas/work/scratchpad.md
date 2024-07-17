@@ -2,6 +2,15 @@
 - (8:22午前) probably need Ben's help testing this
 - (9:18午前) Need to call Toni about Ben's holiday
 - (9:35午前) new bug favourites direction
+- (10:21午前) should call toni
+    - about one week or two weeks that ben is on holiday
+    - can I work full time
+    - same hours
+    - proportional pay
+    - just for that period
+- (10:27午前) next up do it for remove and edit
+
+
 
 
 
