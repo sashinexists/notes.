@@ -24,4 +24,4 @@
 - [] braille keycaps
 - [] ultrahuman ring, save on the oura subscription?
 - [] a new framework with the 2.8K display or similar (you need a backup laptop)
-- [] higher resolution screen for the framework
+- [] higher resolution screen for the framework https://frame.work/au/en/products/display-kit?v=FRANJF0001
