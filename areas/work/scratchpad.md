@@ -9,6 +9,11 @@
     - proportional pay
     - just for that period
 - (10:27午前) next up do it for remove and edit
+- (10:57午前) okay the edit pattern was a little complicated
+    - you want to see if you are editing to an identical thing with entry_state 0
+- (11:26午前) gotta make something to represent prescription_templates as well as decode it in domain
+
+
 
 
 
