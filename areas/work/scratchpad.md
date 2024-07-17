@@ -16,6 +16,8 @@
 - (12:06午後) remember to do these changes on phone and desktop
 - (1:36午後) up to making the prescription template api call match the python
 - (2:38午後) you will probably start persona 4 soon
+- (4:02午後) python problem with add_prescription_template query
+
 
 
 
