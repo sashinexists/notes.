@@ -13,7 +13,11 @@
     - you want to see if you are editing to an identical thing with entry_state 0
 - (11:26午前) gotta make something to represent prescription_templates as well as decode it in domain
 - (11:55午前) I guess now you can work on this
-- (12:06午後) remember to do these changes on phone,tablet and desktop
+- (12:06午後) remember to do these changes on phone and desktop
+- (1:36午後) up to making the prescription template api call match the python
+- (2:38午後) you will probably start persona 4 soon
+
+
 
 
 
