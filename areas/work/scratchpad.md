@@ -5,6 +5,8 @@
 - (10:19午前) also check if the name is already taken
     - alright that's an error along with a blank one
 - (3:53午後) postgres blues
+- (3:59午後) try recreating the function in m59
+
 
 
 SELECT check_prescription_lines('[{"product": {"product_id": 245, "product_name": "Dysport", "product_category_id": 6, "product_category_name": "Anti Wrinkle", "unit_of_measure_id": 1, "unit_of_measure_name": "unit"}, "treatment_area": {"treatment_area_id": 3, "treatment_area_name": "Chest"}, "indication": {"indication_id": 7, "indication_name": "Cosmetic use"}, "direction": "some direction", "repeats": 6}]');
