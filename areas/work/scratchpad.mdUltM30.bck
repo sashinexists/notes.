@@ -5,7 +5,7 @@
 - (10:19午前) also check if the name is already taken
     - alright that's an error along with a blank one
 
-SELECT check_prescription_lines('[{"product": {"product_id": 245, "product_name": "Dysport", "product_category_id": 6, "product_category_name": "Anti Wrinkle", "unit_of_measure_id": 1, "unit_of_measure_name": "unit"}, "treatment_area": {"treatment_area_id": 3, "treatment_area_name": "Chest"}, "indication": {"indication_id": 7, "indication_name": "Cosmetic use"}, "volume": 1.0, "repeats": 6}]');
+SELECT check_prescription_lines('[{"product": {"product_id": 245, "product_name": "Dysport", "product_category_id": 6, "product_category_name": "Anti Wrinkle", "unit_of_measure_id": 1, "unit_of_measure_name": "unit"}, "treatment_area": {"treatment_area_id": 3, "treatment_area_name": "Chest"}, "indication": {"indication_id": 7, "indication_name": "Cosmetic use"}, "direction": "Some Direction", "repeats": 6}]');
 
 
 
