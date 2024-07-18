@@ -2,6 +2,9 @@
 - (8:39午前) This looks like it's working
 - (8:39午前) next up add a dropdown
 - (9:18午前) big thing to remember is to make sure this is applied to phone as well
+- (10:19午前) also check if the name is already taken
+    - alright that's an error along with a blank one
+
 
 
 
