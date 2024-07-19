@@ -1,3 +1,10 @@
+## (2024/07/19 8:03午前)
+- (8:03午前) Good morning
+- (8:03午前) you are going to try to build a structure in python
+
+
+
+
 ## (2024/07/18 8:38午前)
 - (8:39午前) This looks like it's working
 - (8:39午前) next up add a dropdown
