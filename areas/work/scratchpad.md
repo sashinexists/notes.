@@ -2,6 +2,11 @@
 - (8:03午前) Good morning
 - (8:03午前) you are going to try to build a structure in python
 - (10:11午前) ask ben about how try and accept work, will it stop?
+- (10:56午前) thinking about when to do this
+    - quick select favourite
+    - add item
+    - remove item
+
 
 
 
