@@ -6,6 +6,19 @@
     - quick select favourite
     - add item
     - remove item
+- (1:09午後) okay a whole new really big task
+    - learn about the JWT spec and the wix api
+- (2:26午後) a hash is not encryption, it cannot be decrypted back
+- (3:17午後) OAuth allows you go give one app permission to access data from another app (without sharing passwords or sensitive information)
+- (3:26午後) you are going to have to learn how to do this
+- (3:57午後) token that I just made now to the test wix
+
+```
+IST.eyJraWQiOiJQb3pIX2FDMiIsImFsZyI6IlJTMjU2In0.eyJkYXRhIjoie1wiaWRcIjpcImY5Yjk2YTQ3LTMwNzAtNGNmZi1iOWQ0LWZlMTQyMjRiZDhlM1wiLFwiaWRlbnRpdHlcIjp7XCJ0eXBlXCI6XCJhcHBsaWNhdGlvblwiLFwiaWRcIjpcImEwMmYzZjZkLTQwYTQtNDk3Zi1iZTZkLThjYzBkY2I1MjNjNlwifSxcInRlbmFudFwiOntcInR5cGVcIjpcImFjY291bnRcIixcImlkXCI6XCJmMzgxZjJmMi1kMjg0LTRhN2YtYjY4NS02ODRjMmVkNzQxMWJcIn19IiwiaWF0IjoxNzIxMzY4NjQxfQ.SPXgkvWhAO9bCb8KvOQC5-SKlIHy2WuaYNZPJjgVwPoBK6qHvA3u0WZ_WjsKFGGFM2KcSsT5HluiW9cU5Z1OQ2UxzuVblCufdAkud3ITU2VvYMXD7Ofpc6onOCQf5ihWdAgiLhuYSwrJI75zFP-6aOdp2LOrDGC_QXL5-6X0Y8g-9S7yV0SKdQBobC-Wj8asKG7XLnNTQkJGLCTLaiq8zdeLr05Vjv49NnbcY9FbbYpcbKJmVUyFLwzMZFWXvXdcaemNZ6mZ4oQv8__KLaDhuBj1_eObskVwR2Q49J4wJ9QuPXTEl_s8A0qE97JvbrofooAFPTHbiJqxC4Oh_747Mg
+```
+
+
+
 
 
 
