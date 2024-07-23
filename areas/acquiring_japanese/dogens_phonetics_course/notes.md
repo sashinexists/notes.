@@ -393,3 +393,8 @@ The two major exceptions are the く and さ forms which are always said with th
     - Examples
       -　止める　(とめた)
         -> 止めた　(とめた)
+        -> 止めて　(とめて)
+        -> 止めない　(とめない)
+        -> 止めながら　(とめながら)
+        -> 止めれる　(とめれる)
+        - 
