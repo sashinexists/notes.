@@ -403,9 +403,9 @@ The two major exceptions are the く and さ forms which are always said with th
         -> 鳴いた　(ないた) LHH
         -> 鳴いて　(ないて) LHH
         -> 鳴いない　(なかない) LHHH
-        -> 鳴いながら　(なきながら)
-        -> 鳴きれる　(なける) LHHH
-        -> 鳴きられる　(なかれる) LHHHH
+        -> 鳴いながら　(なきながら) LHHHH
+        -> 鳴きれる　(なける) LHH
+        -> 鳴きられる　(なかれる) LHHH
         -> 鳴きさせる　(なかさせる) LHHHH
         
         
