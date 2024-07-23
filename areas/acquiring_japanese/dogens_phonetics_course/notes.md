@@ -383,3 +383,8 @@ The two major exceptions are the く and さ forms which are always said with th
   - 乗る、載る (のる)
   - 終わる (おわる)
   - 始める (はじめる)
+  - 始まる (はじまる)
+  - 曲げる　(まげる)
+  - 曲がる　(まがる)
+  - 辞める (やめる)
+  - 渡す (わたす)
