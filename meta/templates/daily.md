@@ -1,5 +1,5 @@
 # {{japanese_date}}
-- {{datestamp}}
+- 
 
 
 
