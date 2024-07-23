@@ -388,3 +388,5 @@ The two major exceptions are the く and さ forms which are always said with th
   - 曲がる　(まがる)
   - 辞める (やめる)
   - 渡す (わたす)
+- Heiban verb conjugation rule
+  - almost all conjugations for heiban verbs remain heiban
