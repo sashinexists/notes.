@@ -391,10 +391,12 @@ The two major exceptions are the く and さ forms which are always said with th
 - Heiban verb conjugation rule
   - almost all conjugations for heiban verbs remain heiban
     - Examples
-      -　止める　(とめた)
-        -> 止めた　(とめた)
-        -> 止めて　(とめて)
-        -> 止めない　(とめない)
-        -> 止めながら　(とめながら)
-        -> 止めれる　(とめれる)
-        - 
+      -　止める　(とめた) LHH
+        -> 止めた　(とめた) LHH
+        -> 止めて　(とめて) LHH
+        -> 止めない　(とめない) LHHH
+        -> 止めながら　(とめながら) LHHHH
+        -> 止めれる　(とめれる) LHHH
+        -> 止められる　(とめられる) LHHHH
+        -> 止めさせる　(とめさせる) LHHHH
+      - 鳴く (なく)
