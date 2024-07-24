@@ -3,6 +3,16 @@
     - ask ben if he got his payslip and what it was, brief him on what happened, ask him if it's worth messaging toni
 - (9:20午前) ben is off 12, 13, 19, 20
 - (9:31午前) Ben said he's chasing it up for me
+- (12:24午後) okay you have some data, first of all, put these in the database
+    - (12:26午後) maybe call the table WixProductVariant
+- (12:53午後) would it be good to clear the table and rebuild it every time?
+- (2:49午後) actually rethinking this
+    - you only really need the id
+- (3:13午後) you should probably make this new one in superuser
+
+
+
+
 
 
 
