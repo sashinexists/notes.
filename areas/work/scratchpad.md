@@ -1,3 +1,12 @@
+## (2024/07/24 8:20午前)
+- (8:20午前) okay, probably want to email toni about Ben's leave, you can do it after talking to Ben
+    - ask ben if he got his payslip and what it was, brief him on what happened, ask him if it's worth messaging toni
+- (9:20午前) ben is off 12, 13, 19, 20
+- (9:31午前) Ben said he's chasing it up for me
+
+
+
+
 ## (2024/07/19 8:03午前)
 - (8:03午前) Good morning
 - (8:03午前) you are going to try to build a structure in python
