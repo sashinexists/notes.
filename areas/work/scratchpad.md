@@ -9,6 +9,12 @@
 - (2:49午後) actually rethinking this
     - you only really need the id
 - (3:13午後) you should probably make this new one in superuser
+- (3:50午後) okay now just need to edit this
+    - think about how you want it to look?
+    - maybe a list of products with a dropdown?
+- (4:00午後) up to AlignProductsWithWixStore.elm
+
+
 
 
 
