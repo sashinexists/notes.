@@ -2,6 +2,8 @@
 - (8:47午前) you should add
 - (9:17午前) okay add the filter by category dropdown
 - (9:28午前) stopping this to start work on a bug
+- (9:38午前) I think what I have to is make it clear the category when you add a product
+
  
 
 
