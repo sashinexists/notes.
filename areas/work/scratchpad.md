@@ -1,5 +1,10 @@
 ## (2024/07/25 8:47午前)
 - (8:47午前) you should add
+- (9:17午前) okay add the filter by category dropdown
+- (9:28午前) stopping this to start work on a bug
+ 
+
+
 
 
 
