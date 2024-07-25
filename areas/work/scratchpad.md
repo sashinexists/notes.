@@ -7,6 +7,8 @@
 - (11:40午前) now you are going to have to get all the wix product variants and stick them in the model
 - (12:32午後) think about how you will have the wix things as type in elm
 - (1:45午後) you are going to have to make a new route to accomodate this
+- (3:51午後) okay what you are up to AlignProductsWithWixStore.elm, line 226
+
 
 
 
