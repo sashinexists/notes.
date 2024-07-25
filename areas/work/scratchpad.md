@@ -3,6 +3,12 @@
 - (9:17午前) okay add the filter by category dropdown
 - (9:28午前) stopping this to start work on a bug
 - (9:38午前) I think what I have to is make it clear the category when you add a product
+- (9:49午前) back to wix
+- (11:40午前) now you are going to have to get all the wix product variants and stick them in the model
+- (12:32午後) think about how you will have the wix things as type in elm
+
+
+
 
  
 
