@@ -1,5 +1,5 @@
 (2024/07/26 8:38午前)
-- https://detroitbecometext.github.io/homea
+- You have to play through detroit become human! https://detroitbecometext.github.io/homea
 
 (2024/05/10 7:58午前)
 - right now you want to go through dogen's pronunciation course and you want to go through all the words in Aomi
