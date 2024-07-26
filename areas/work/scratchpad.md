@@ -5,6 +5,7 @@
 - (11:55午前) now add a text filter
 - (12:30午後) two things on the mind
     - 1. Product variants vs catalogue items, the add to cart api seems to want a catalogue
+    - 2. pagination in the query you are using
 
 
 
