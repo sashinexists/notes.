@@ -6,6 +6,8 @@
 - (12:30午後) two things on the mind
     - 1. Product variants vs catalogue items, the add to cart api seems to want a catalogue
     - 2. pagination in the query you are using
+- (4:05午後) above is where you were up to, but you have a new ticket regarding global rules
+
 
 
 
