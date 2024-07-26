@@ -1,6 +1,8 @@
 ## (2024/07/26 8:18午前)
 - (10:07午前) strange behaviour 
-- (11:19午前) it's possible that you need
+- (11:19午前) it's possible that you need to get catalogue rather than products
+- (11:41午前) okay filter by category now works!!!
+
 
 
 
