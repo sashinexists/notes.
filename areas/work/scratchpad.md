@@ -7,8 +7,10 @@
     - autoselect treatment areas
     - new product rules (global rules, maximum and max unique)
         - (9:05午前) what should I ask Jhordan
-            - is it a maximum of twelve
-            - can there be the same product for the same area (or is that impossible or not make sense)
+            - is it a maximum of twelve (only if it's the same product?)
+                - so can you have twelve of one product and then some other lines?:w
+                - there be the same product for the same area (or is that impossible or not make sense)
+            - and is the other requirement that you can have at most six different products?
 
 
 
