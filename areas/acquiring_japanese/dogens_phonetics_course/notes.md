@@ -15,7 +15,7 @@
 - 胃 is heiban
 - 火 is atamadaka
 - 日 is heiban
-- 木　is atamadark
+- 木　is atamadaka
 - 気 is heiban
 
 ### Two Mora Nouns
