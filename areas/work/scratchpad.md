@@ -1,3 +1,14 @@
+## (2024/07/31 8:01午前)
+- (8:01午前) Maybe start with emailing Toni
+- (8:28午前) okay you have a few new tickets to work on, and there is one that you'll have to call Jhordan
+    - remove HCP section
+    - sorting favourites
+    - autoselect treatment areas
+    - new product rules (global rules, maximum and max unique)
+
+
+
+
 ## (2024/07/26 8:18午前)
 - (10:07午前) strange behaviour 
 - (11:19午前) it's possible that you need to get catalogue rather than products
