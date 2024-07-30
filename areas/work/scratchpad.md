@@ -6,6 +6,10 @@
     - sorting favourites
     - autoselect treatment areas
     - new product rules (global rules, maximum and max unique)
+        - (9:05午前) what should I ask Jhordan
+            - is it a maximum of twelve
+            - can there be the same product for the same area (or is that impossible or not make sense)
+
 
 
 
