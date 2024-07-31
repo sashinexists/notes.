@@ -1,3 +1,8 @@
+## (2024/08/01 7:59午前)
+- (7:59午前) starting with the global rules 
+
+
+
 ## (2024/07/31 8:01午前)
 - (8:01午前) Maybe start with emailing Toni
 - (8:28午前) okay you have a few new tickets to work on, and there is one that you'll have to call Jhordan
@@ -32,21 +37,6 @@
     - implement maximum prescripiton items globally
     - create the maximum unique products rule and implement it
 - (4:04午後) up to m62.py, think about what you want the globalRule table to look like
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## (2024/07/26 8:18午前)
