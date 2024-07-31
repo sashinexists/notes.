@@ -25,7 +25,15 @@
 - (3:43午後) work on the new product rules first
     - let's call the rules
         - maximum prescription items
+            - this already exists, you just need to make it work globally
         - maximum unique products
+- (3:51午後) this is what you will do
+    - create the idea of a global rule
+    - implement maximum prescripiton items globally
+    - create the maximum unique products rule and implement it
+- (4:04午後) up to m62.py, think about what you want the globalRule table to look like
+
+
 
 
 
