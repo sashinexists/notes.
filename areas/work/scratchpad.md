@@ -8,7 +8,7 @@
     - [ ] new product rules (global rules, maximum and max unique)
         - (9:05午前) what should I ask Jhordan
             - is it a maximum of twelve (only if it's the same product?)
-                - so can you have twelve of one product and then some other lines?:w
+                - so can you have twelve of one product and then some other lines?
                 - there be the same product for the same area (or is that impossible or not make sense)
             - and is the other requirement that you can have at most six different products?
 - (9:46午前) okay pull in the HCP ticked, add the new rule for autoselecting treatment areas, then work on how you'll do sorting favourites
@@ -21,7 +21,13 @@
 - (2:35午後) next up make clearing work
 - (2:44午後) looks like you just need to apply it now
     - may only need to look when selecting a product and a category "possiblyRelevantAutoselectRules"
-- 
+- (3:33午後) for sorting favourites I think what's needed is a unique integer called order
+- (3:43午後) work on the new product rules first
+    - let's call the rules
+        - maximum prescription items
+        - maximum unique products
+
+
 
 
 
