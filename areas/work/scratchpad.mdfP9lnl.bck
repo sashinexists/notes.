@@ -4,7 +4,7 @@
     - [x] remove HCP section
         - done this (but only so it doesn't show on the side bar, haven't removed the code entirely)
     - [ ] sorting favourites
-    - [ ] autoselect treatment areas
+    - [x] autoselect treatment areas
     - [ ] new product rules (global rules, maximum and max unique)
         - (9:05午前) what should I ask Jhordan
             - is it a maximum of twelve (only if it's the same product?)
@@ -12,6 +12,23 @@
                 - there be the same product for the same area (or is that impossible or not make sense)
             - and is the other requirement that you can have at most six different products?
 - (9:46午前) okay pull in the HCP ticked, add the new rule for autoselecting treatment areas, then work on how you'll do sorting favourites
+- (10:29午前) the first thing to do is rename the ruletype AUTOSELCET with AUTOSELECT_INDICATION
+    - next up you have to actually add the new rule
+- (11:58午前) rule added to the database now you have to parse it in elm at get it working
+- (12:18午後) start with editrule then applyrule and finally selectPrescriptionitems
+    - (12:58午後) going to have to make an autoselect treatment area errors
+        - (1:32午後) just need to add some things
+- (2:35午後) next up make clearing work
+- (2:44午後) looks like you just need to apply it now
+    - may only need to look when selecting a product and a category "possiblyRelevantAutoselectRules"
+- 
+
+
+
+
+
+
+
 
 
 
