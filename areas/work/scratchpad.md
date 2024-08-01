@@ -7,6 +7,11 @@
     - let's test add, remove and edit of all three types of rule
 - (12:20午後) everything seems to be working at the moment
 - (12:22午後) now let's try to implement it in SelectPrescriptionItems, then work on the new rule
+- (3:54午後) with the templates you need to make the star filled
+    - definitely do this
+- (3:55午後) also remove favourite didn't work
+
+
 
 
 
