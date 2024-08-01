@@ -1,6 +1,8 @@
 ## (2024/08/01 7:59午前)
 - (7:59午前) starting with the global rules 
 - (8:45午前) looks like you just have to play with the compiler for a while
+- (10:06午前) up to getting global rules in initCmdmsgs
+
 
 
 
