@@ -2,6 +2,11 @@
 - (7:59午前) starting with the global rules 
 - (8:45午前) looks like you just have to play with the compiler for a while
 - (10:06午前) up to getting global rules in initCmdmsgs
+- (11:50午前) editing the global rule doesn't work at the moment
+- (12:16午後) okay editing the global rule works
+    - let's test add, remove and edit of all three types of rule
+
+
 
 
 
