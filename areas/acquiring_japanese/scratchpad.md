@@ -105,14 +105,15 @@
 - あの花
 
 #### Games to play
-- Life is strange before the storm
-- Life is strange true colours
-  - maybe the deluxe version
+  - maybe the deluxe version of true colours
 
 #### Games you are playing
-- Life is strange
 - Buddy Mission Bond
+
 
 #### Already Played (you can replay these at some point)
 - 13 Sentinels
 - Life is Strange 2
+- Life is strange before the storm
+- Life is strange true colours
+- Another code
