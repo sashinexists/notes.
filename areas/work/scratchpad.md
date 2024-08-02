@@ -1,3 +1,10 @@
+## (2024/08/02 8:00午前)
+- (8:00午前) going to start by finishing that merge and then investigating removing favourites
+    - it's readding specifically
+
+
+
+
 ## (2024/08/01 7:59午前)
 - (7:59午前) starting with the global rules 
 - (8:45午前) looks like you just have to play with the compiler for a while
