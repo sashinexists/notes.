@@ -6,6 +6,8 @@
 - (2:32午後) just gotta  do those checks when you apply a prescription template
 - (3:14午後) now adding a new rule for maximum unique products
 - (3:51午後) right now adding a new maximum unique products rule doesn't work, there is a server error, this is what you are working on
+- (4:01午後) up to Domain/Rules.elm -> line 114
+
 
 
 
