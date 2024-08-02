@@ -1,4 +1,5 @@
 - [] moonlander zip kit
+- [] A Google Pixel phone to install GrapheneOS on
 - [] special homing keys for t and n
   - solved this by replacing some keys
 - [] cerakeys
