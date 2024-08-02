@@ -7,14 +7,9 @@
   - I just want a bunch of blanks
   - actually think deeply about the braille idea
 - [] henson shaving razor
-- [x] more life is strange games
-  - waiting on more japanese versions of these games to come to linux
-  - should you email them?
 - [] More japanese lessons
-- [x] Metal Paper Trays (there were nice ones at Daiso)
 - [] A bigger floor desk
 - [] A really big ssd hard drive
-- [x] A really big usb hub (in progress)
 - [] more towels
 - [] exercise clothes (sweatpants from uniqlo)
 - [] dumbells maybe?
@@ -26,3 +21,6 @@
 - [] ultrahuman ring, save on the oura subscription?
 - [] a new framework with the 2.8K display or similar (you need a backup laptop)
 - [] higher resolution screen for the framework https://frame.work/au/en/products/display-kit?v=FRANJF0001
+- [x] Metal Paper Trays (there were nice ones at Daiso)
+- [x] A really big usb hub (in progress)
+- [x] more life is strange games
