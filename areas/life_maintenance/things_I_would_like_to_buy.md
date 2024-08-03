@@ -1,5 +1,5 @@
+- [] A new pixel phone to install Graphene OS on, thinking a pixel 8a
 - [] moonlander zip kit
-- [] A Google Pixel phone to install GrapheneOS on
 - [] special homing keys for t and n
   - solved this by replacing some keys
 - [] cerakeys
