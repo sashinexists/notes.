@@ -1,13 +1,11 @@
 - [] A new pixel phone to install Graphene OS on, thinking a pixel 8a
+- [] More japanese lessons
 - [] moonlander zip kit
-- [] special homing keys for t and n
-  - solved this by replacing some keys
 - [] cerakeys
   - Not possible to get a special set yet
   - I just want a bunch of blanks
   - actually think deeply about the braille idea
 - [] henson shaving razor
-- [] More japanese lessons
 - [] A bigger floor desk
 - [] A really big ssd hard drive
 - [] more towels
@@ -19,8 +17,12 @@
 - [] everything need to build the cosmos keyboard
 - [] braille keycaps
 - [] ultrahuman ring, save on the oura subscription?
+  - [] Thinking about the Oura 4 instead
 - [] a new framework with the 2.8K display or similar (you need a backup laptop)
 - [] higher resolution screen for the framework https://frame.work/au/en/products/display-kit?v=FRANJF0001
+
 - [x] Metal Paper Trays (there were nice ones at Daiso)
 - [x] A really big usb hub (in progress)
 - [x] more life is strange games
+- [] special homing keys for t and n
+  - solved this by replacing some keys
