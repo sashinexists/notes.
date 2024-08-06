@@ -1,3 +1,11 @@
+## (2024/08/07 8:00午前)
+- (8:00午前) okay starting from last week
+- (8:01午前) adding a maximum unique products rule
+- (8:12午前) right now it's not entering into the database when you add a new rule
+
+
+
+
 ## (2024/08/02 8:00午前)
 - (8:00午前) going to start by finishing that merge and then investigating removing favourites
     - it's readding specifically
