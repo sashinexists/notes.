@@ -3,6 +3,8 @@
 - (8:01午前) adding a maximum unique products rule
 - (8:12午前) right now it's not entering into the database when you add a new rule
 - (8:25午前) now you can enter the rule in the database as well as get it from the database
+- (8:43午前) figure out how to get the number of unique products
+
 
 
 
