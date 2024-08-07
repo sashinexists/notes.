@@ -1,15 +1,18 @@
 ## (2024/08/08 8:28午前)
-- (8:28午前) focussing on the wix as well as getting ready for the week without ben
+- (8:28午前) focusing on the wix as well as getting ready for the week without ben
 
-### how to do a hotfix
+### Things you need to know
+#### how to do a hotfix
 - make a new branch from the latest RC (that's in prod)
 - make the fix on that branch
 - run the pipeline to put it into staging and test it there to see it's all working
 - make a release candidate branch
 - run the pipeline to put the release candidate branch into production
-- 
+- run migration up using postman
 
+#### the reset button at the logs in the portal
 
+#### Work to progress with (Wix Integration)
 
 
 ## (2024/08/07 8:00午前)
