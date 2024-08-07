@@ -8,6 +8,8 @@
 - (10:05午前) with this solution the sequence isn't just for the nurse
     - might not matter for implementation
 - (12:11午後) now you want a button that switches the sections, maybe make the button that switches and goes back first
+- (3:56午後) up to figuring out the wix api again
+
 
 
 
