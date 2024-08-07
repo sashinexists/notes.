@@ -4,6 +4,13 @@
 - (8:12午前) right now it's not entering into the database when you add a new rule
 - (8:25午前) now you can enter the rule in the database as well as get it from the database
 - (8:43午前) figure out how to get the number of unique products
+- (9:57午前) thinking about how to have favourites sortable now
+- (10:05午前) with this solution the sequence isn't just for the nurse
+    - might not matter for implementation
+- (12:11午後) now you want a button that switches the sections, maybe make the button that switches and goes back first
+
+
+
 
 
 
