@@ -7,9 +7,15 @@
         - just see what this is about first
             - try to get into the staging thing
             - then try to call Toni
+                - what to say in the call?
+                    - Hi Toni, have been working on the wix integration and it's been going well
+                        - to develop and test this we'll need a paid account for staging
                 - then send an email explaining that you need staging's wix to be paid for when the call inevitably fails
     - sort favourites
     - photos
+- (1:38午後) let's try and get the api calls working in cantero
+- (2:28午後) all saved in your job folder
+
 
 
 
