@@ -2,6 +2,17 @@
 - (8:28午前) focusing on the wix as well as getting ready for the week without ben
 - (11:07午前) Wix stores app id (required for this endpoint): 215238eb-22a5-4c36-9e7b-e7c08025e04e
 
+
+```json
+{
+    lineItems: {
+        quantity: 1,
+        catalogReference: ""
+    }
+}
+    
+```
+
 ### Things you need to know
 #### how to do a hotfix
 - make a new branch from the latest RC (that's in prod)
