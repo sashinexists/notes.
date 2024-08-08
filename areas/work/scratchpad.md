@@ -1,19 +1,31 @@
 ## (2024/08/08 8:28午前)
 - (8:28午前) focusing on the wix as well as getting ready for the week without ben
 - (11:07午前) Wix stores app id (required for this endpoint): 215238eb-22a5-4c36-9e7b-e7c08025e04e
+- (11:58午前) sorted out the whole next week and a half
+    - wix store integration
+        - need to call toni so that she pays for staging
+        - just see what this is about first
+            - try to get into the staging thing
+            - then try to call Toni
+                - then send an email explaining that you need staging's wix to be paid for when the call inevitably fails
+    - sort favourites
+    - photos
+
 
 
 ```json
 {
+checkoutTemplateObject: {
     lineItems: {
         quantity: 1,
         catalogReference: ""
     }
-}
+}}
     
 ```
 
 ### Things you need to know
+ki9uy76t5r4\
 #### how to do a hotfix
 - make a new branch from the latest RC (that's in prod)
 - make the fix on that branch
