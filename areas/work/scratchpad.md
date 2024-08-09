@@ -2,6 +2,18 @@
 - (8:38午前) you have the api calls saved
 - (8:51午前) maybe start with sorting favourites
 - (10:30午前) go back to favourites, need to think about it
+- (11:08午前) you probably want to copy all the code from that package in
+    - probably in components
+    - components drag drop
+- (1:06午後) okay fixed all the errors in the model, next up make the buttons look nice
+- (1:52午後) now to get this draggable in
+- (3:44午後) you want to do this at the level of python and postgres, but you need to figure out how
+    - you are up to update in ReorderFavourites.elm, line 58
+    - also you need to get in touch with Toni about the wix
+
+
+
+
 
 
 
