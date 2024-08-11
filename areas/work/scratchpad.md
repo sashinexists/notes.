@@ -3,6 +3,14 @@
 - (8:00午前) going to start by calling Toni and asking about the staging wix
 - (8:01午前) maybe you should ask Toni about when are, generally speaking, good and bad times to talk
 - (8:24午前) should I take both "ids"in the dragging interface as sequence
+    - (8:25午前) during the swap you can make both become -1 and -2
+- (8:39午前) you are not really doing a swap, hmm...you want to really move everything
+- (8:44午前) let's try making it swap and see if it's natural
+- (8:45午前) okay thinking through the logic
+
+
+
+
 
 
 
