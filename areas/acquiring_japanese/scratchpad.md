@@ -1,3 +1,13 @@
+(2024/08/12 4:06午前)
+- things you are doing/can do now
+  - watch pokemon
+  - play persona
+  - dogen course
+  - kotu
+  - supernative
+  - orange days
+
+
 (2024/07/26 8:38午前)
 - You have to play through detroit become human! https://detroitbecometext.github.io/homea
 
