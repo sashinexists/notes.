@@ -7,6 +7,7 @@
 - (8:39午前) you are not really doing a swap, hmm...you want to really move everything
 - (8:44午前) let's try making it swap and see if it's natural
 - (8:45午前) okay thinking through the logic
+    - set the one you will move to sequence -1
 
 
 
