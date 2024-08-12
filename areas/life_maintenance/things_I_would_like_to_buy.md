@@ -1,12 +1,13 @@
 - [] A new pixel phone to install Graphene OS on, thinking a pixel 8a (~$800)
-- [] the pixel tablet
-- [] More japanese lessons
+- [] Steam Deck + dock ($1500)
+- [] the pixel tablet (~$800)
+- [] More japanese lessons with natsumi (~$500)
 - [] moonlander zip kit
 - [] cerakeys
   - Not possible to get a special set yet
   - I just want a bunch of blanks
   - actually think deeply about the braille idea
-- [] henson shaving razor
+- [] henson shaving razor ($150 https://hensonshaving.com/products/henson-al13-in-aircraft-aluminum)
 - [] A bigger floor desk
 - [] A really big ssd hard drive
 - [] more towels
@@ -18,8 +19,8 @@
 - [] everything need to build the cosmos keyboard
 - [] braille keycaps
 - [] ultrahuman ring, save on the oura subscription?
-  - [] Thinking about the Oura 4 instead
-- [] a new framework with the 2.8K display or similar (you need a backup laptop)
+  - [] Thinking about the Oura 4 instead (~$500)
+- [] a new framework with the 2.8K display or similar (you need a backup laptop) (~$3000)
 - [] higher resolution screen for the framework https://frame.work/au/en/products/display-kit?v=FRANJF0001
 
 - [x] Metal Paper Trays (there were nice ones at Daiso)
