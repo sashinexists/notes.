@@ -27,7 +27,6 @@
 - there's two cases
     1. item is before destination
     2. item is after
-
 - if the item is before:
     - the item should temporarily go to the end 
     - everything, starting with what was right after the item should be moved back by one in the sequence 
@@ -38,8 +37,7 @@
     - everything, starting with what was right before the item should be moved forward by one in the sequence 
     - the item is put in it's places
 
-thinking even harder (about if the item is after)
-    - start with position of item 
+
 
 
 
