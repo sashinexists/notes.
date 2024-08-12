@@ -21,6 +21,10 @@
     - need to make it so when a new thing is added it automatically does the same
 - (1:53午後) next up you should make the reorder_list routes
     - also don't forget to uncomment authentication for the migrations routes
+- (3:30午後) next up you have to do stuff in the elm, make it so it gets everything too
+- (4:01午後) up to line 73 in ReorderFavourites.elm
+
+
 
 
 ### thinking out loud about this problem
@@ -39,7 +43,9 @@
     - the item is put in it's places
 
 thinking even harder (about if the item is after)
-    - start with position of item 
+    - start with position of item - 1
+        - move everything from there to destination +1
+        - move 
 
 
 
