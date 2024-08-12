@@ -1,3 +1,8 @@
+## (2024/08/13 8:00午前)
+- (8:00午前) 
+
+
+
 ## (2024/08/12 8:00午前)
 - (8:00午前) first time working on a monday
 - (8:00午前) going to start by calling Toni and asking about the staging wix
