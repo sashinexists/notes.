@@ -8,6 +8,23 @@
 - (8:44午前) let's try making it swap and see if it's natural
 - (8:45午前) okay thinking through the logic
     - set the one you will move to sequence -1
+    - if you are moving it back, everywhere in between the original and desired position you have to move forward
+    - this has to be done by swapping
+    - the one right before moves to empty one
+        - then one before than goes there
+- (8:58午前) is it serial
+- (8:59午前) it's not, I'm going to remove the sequence column and add it again, so that it's unique with nurse
+- (10:07午前) so you want sequence to be different for nurse
+- (10:08午前) maybe you need another table
+- (11:22午前) will do this with migration_up
+- (12:35午後) looks like the table is looking how you want, now you just need to handle future cases
+
+
+
+
+
+
+
 
 
 
