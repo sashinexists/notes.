@@ -2,6 +2,7 @@
 - (8:00午前) tell ben about this when he comes back https://github.com/hariroshan/elm-native-library
     - also about this elm online meet https://meetdown.app/group/10561/Elm-Online-Meetup
     - tauri is the most recent example of creating a desktop app with elm
+- (9:45午前) it's looking like the slot isn't clearing
 
 ## (2024/08/12 8:00午前)
 - (8:00午前) first time working on a monday
