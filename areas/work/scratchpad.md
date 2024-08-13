@@ -1,3 +1,10 @@
+## (2024/08/14 7:59午前)
+- (7:59午前) good morning
+    - going to start on the sort alphabetically route
+
+
+
+
 ## (2024/08/13 8:00午前)
 - (8:00午前) tell ben about this when he comes back https://github.com/hariroshan/elm-native-library
     - also about this elm online meet https://meetdown.app/group/10561/Elm-Online-Meetup
