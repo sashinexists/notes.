@@ -1,6 +1,13 @@
 ## (2024/08/14 7:59午前)
 - (7:59午前) good morning
     - going to start on the sort alphabetically route
+- (9:17午前) okay you want to do a loop, 
+- (9:58午前) still need to handle the end of list
+
+### this ticket
+- [ ] end of the list
+
+
 
 
 
