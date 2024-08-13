@@ -7,7 +7,17 @@
 - (10:17午前) now the numbers ARE matching but there doesn's seem to be a blank space, so it seems like your logic is wrong
 - (10:46午前) okay there is one outlier, you are going to delete that and see if it does anything
 - (10:56午前) server isn't throwing errors but the behaviour isn't quite right
--(11:08午前) this is actually working!!!
+- (11:08午前) this is actually working!!! I can actually sort these favourites
+    - (11:32午前) [-] make it so adding a favourite doesn't break this (just make the sequence of the new favourite one more than the highest sequence of all the nurses favourites)
+    - (11:46午前) [-] also make it show more relevant information
+- (11:48午前) for the first task you need to 
+- (12:03午後) It's not working for nurse joy for some reason
+- (1:08午後) why does it care about chancey
+
+
+
+
+
  
 
 
