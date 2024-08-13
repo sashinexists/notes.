@@ -12,6 +12,14 @@
     - (11:46午前) [-] also make it show more relevant information
 - (11:48午前) for the first task you need to 
 - (12:03午後) It's not working for nurse joy for some reason
+- (1:08午後) why does it care about chancey
+- (1:08午後) maybe I should make another user altogether
+- (1:12午後) it was super simple, it's because you didn't specify nurse_id in the where clause
+- (1:19午後) okay, might be worth testing more
+
+
+
+
 
 
 
