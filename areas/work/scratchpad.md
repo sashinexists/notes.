@@ -18,6 +18,7 @@
 - (1:19午後) okay, might be worth testing more
 - (2:34午後) next up look at the ticket, they wanted alphabetical and something else
 - (2:51午後) you need to make routes to set them to alphabetical
+    - one for alphabetical (presumably on product), one for order created
 
  
 
