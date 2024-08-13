@@ -8,14 +8,18 @@
 - (10:46午前) okay there is one outlier, you are going to delete that and see if it does anything
 - (10:56午前) server isn't throwing errors but the behaviour isn't quite right
 - (11:08午前) this is actually working!!! I can actually sort these favourites
-    - (11:32午前) [-] make it so adding a favourite doesn't break this (just make the sequence of the new favourite one more than the highest sequence of all the nurses favourites)
-    - (11:46午前) [-] also make it show more relevant information
+    - (11:32午前) [x] make it so adding a favourite doesn't break this (just make the sequence of the new favourite one more than the highest sequence of all the nurses favourites)
+    - (11:46午前) [x] also make it show more relevant information
 - (11:48午前) for the first task you need to 
 - (12:03午後) It's not working for nurse joy for some reason
 - (1:08午後) why does it care about chancey
 - (1:08午後) maybe I should make another user altogether
 - (1:12午後) it was super simple, it's because you didn't specify nurse_id in the where clause
 - (1:19午後) okay, might be worth testing more
+- (2:34午後) next up look at the ticket, they wanted alphabetical and something else
+- (2:51午後) you need to make routes to set them to alphabetical
+
+ 
 
 
 
