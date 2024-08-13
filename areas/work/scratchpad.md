@@ -3,6 +3,9 @@
     - also about this elm online meet https://meetdown.app/group/10561/Elm-Online-Meetup
     - tauri is the most recent example of creating a desktop app with elm
 - (9:45午前) it's looking like the slot isn't clearing
+- (9:49午前) the numbers aren't matching
+- (10:17午前) now the numbers ARE matching but there doesn's seem to be a blank space, so it seems like your logic is wrong
+
 
 ## (2024/08/12 8:00午前)
 - (8:00午前) first time working on a monday
