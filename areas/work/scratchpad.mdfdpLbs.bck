@@ -7,8 +7,6 @@
 - (10:17午前) now the numbers ARE matching but there doesn's seem to be a blank space, so it seems like your logic is wrong
 - (10:46午前) okay there is one outlier, you are going to delete that and see if it does anything
 - (10:56午前) server isn't throwing errors but the behaviour isn't quite right
--(11:08午前) this is actually working!!!
- 
 
 
 
