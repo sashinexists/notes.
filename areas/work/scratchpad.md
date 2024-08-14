@@ -23,7 +23,7 @@
     - you could make the loader spin
 - [x] sort by date created
 - [-] an event table
-- [ ] phone interface
+- [x] phone interface
 - [ ] you should probably test in staging
 
 ```postgresql
