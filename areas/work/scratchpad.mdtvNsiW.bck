@@ -5,7 +5,7 @@
 - (9:58午前) still need to handle the end of list
 
 ### this ticket
-- [x] end of the list handling
+- [ ] end of the list handling
 - [ ] loading handling
 - [x] sort by date created
 - [ ] an event table
