@@ -1,3 +1,8 @@
+## (2024/08/15 8:54午前)
+- (8:51午前) oh right you need to change the details to staging
+- 
+
+
 ## (2024/08/14 7:59午前)
 - (7:59午前) good morning
     - going to start on the sort alphabetically route
@@ -11,17 +16,6 @@
 - (3:43午後) Toni did something, the staging website should work now, you should be able to test those api calls
 - (3:53午後) ask toni about my wix account tomorrow morning
 - (3:55午後) gotta make the site able to accept payments
-- (8:51午前) oh righty you need to change the details to staging
-
-
-
-
-
-
-
-
-
-
 
 ```postgresql
     UPDATE favourite_prescription_item_event
