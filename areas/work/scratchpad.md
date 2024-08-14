@@ -6,9 +6,25 @@
 
 ### this ticket
 - [ ] end of the list handling
+- [ ] loading handling
+- [x] sort by date created
+- [ ] an event table
 
+```postgresql
+        SELECT favourite_prescription_item.created, product.product_name, favourite_prescription_item.favourite_prescription_item_id, favourite_prescription_item.sequence
+        FROM favourite_prescription_item
+        INNER JOIN nurse on nurse.nurse_id= favourite_prescription_item.nurse_id
+        INNER JOIN product on product.product_id = (favourite_prescription_item.favourite_prescription_item_details ->> 'product_id')::integer
+        WHERE nurse.nurse_details ->> 'nurse_name' = 'Chancey'
+        AND favourite_prescription_item.entry_state = 1
+        ORDER BY favourite_prescription_item.created DESC;
 
-
+        
+        SELECT favourite_prescription_item.created, favourite_prescription_item.favourite_prescription_item_id
+        FROM favourite_prescription_item
+        INNER JOIN nurse on (.->> 'nurse_id')::uuid = favourite_prescription_item.nurse_id
+        ORDER BY favourite_prescription_item.created DESC;
+````
 
 
 
