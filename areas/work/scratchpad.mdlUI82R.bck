@@ -3,13 +3,28 @@
     - going to start on the sort alphabetically route
 - (9:17午前) okay you want to do a loop, 
 - (9:58午前) still need to handle the end of list
+- (12:39午後) okay now to make an event table
 
+
+
+```postgresql
+    UPDATE favourite_prescription_item_event
+    SET event_type = "ADD_FAVOURITE"
+    WHERE event_type = "add_favourite";
+    UPDATE favourite_prescription_item_event
+    SET event_type = "DELETE_FAVOURITE"
+    WHERE event_type = "delete_favourite";
+    
+
+```
 ### this ticket
-- [ ] end of the list handling
-- [ ] loading handling
+- [x] end of the list handling
+- [x] loading handling
+    - you could make the loader spin
 - [x] sort by date created
 - [ ] an event table
 - [ ] phone interface
+- [ ] you should probably test in staging
 
 ```postgresql
         SELECT favourite_prescription_item.created, product.product_name, favourite_prescription_item.favourite_prescription_item_id, favourite_prescription_item.sequence
