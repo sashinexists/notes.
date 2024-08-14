@@ -6,6 +6,16 @@
 - (12:39午後) okay now to make an event table
 - (2:37午後) okay everything is done, you just need to test it on staging (and see if it works in the ipad)
 - (3:20午後) it works perfectly and you can move on to the wix integration
+- (3:20午後) need to rewrap your head around it
+    - (3:21午後) if you can finish it by the week that would be epic
+- (3:43午後) Toni did something, the staging website should work now, you should be able to test those api calls
+- (3:53午後) ask toni about my wix account tomorrow morning
+- (3:55午後) gotta make the site able to accept payments
+
+
+
+
+
 
 
 
@@ -45,9 +55,6 @@
         INNER JOIN nurse on (.->> 'nurse_id')::uuid = favourite_prescription_item.nurse_id
         ORDER BY favourite_prescription_item.created DESC;
 ````
-
-
-
 ## (2024/08/13 8:00午前)
 - (8:00午前) tell ben about this when he comes back https://github.com/hariroshan/elm-native-library
     - also about this elm online meet https://meetdown.app/group/10561/Elm-Online-Meetup
@@ -69,19 +76,6 @@
 - (2:34午後) next up look at the ticket, they wanted alphabetical and something else
 - (2:51午後) you need to make routes to set them to alphabetical
     - one for alphabetical (presumably on product), one for order created
-
- 
-
-
-
-
-
-
-
-
- 
-
-
 
 ## (2024/08/12 8:00午前)
 - (8:00午前) first time working on a monday
