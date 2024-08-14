@@ -4,6 +4,10 @@
 - (9:17午前) okay you want to do a loop, 
 - (9:58午前) still need to handle the end of list
 - (12:39午後) okay now to make an event table
+- (2:37午後) okay everything is done, you just need to test it on staging (and see if it works in the ipad)
+- (3:20午後) it works perfectly and you can move on to the wix integration
+
+
 
 
 
