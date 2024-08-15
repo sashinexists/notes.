@@ -10,6 +10,12 @@
 - (9:36午前) it's possible the existing key is fine, let's get a site list
 - (12:24午後) you got in but the link you are getting is not working somehow
 - (1:10午後) current working theory is that you have two wix accounts
+    - proven false
+- (1:13午後) new theory is that catalogue ids don't neatly match up to product ids (that was just an assumption that I had)
+    - okay it says specifically it is the product id
+- (1:31午後) no working theory as to why this link is not working
+
+
 
 
 ```json
