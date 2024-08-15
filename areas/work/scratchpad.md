@@ -1,3 +1,12 @@
+## (2024/08/16 8:17午前)
+- (8:17午前) let's try the query
+    - (8:21午前) after that build the interface
+    - (8:21午前) then go to the unit of measure 
+
+
+
+
+
 ## (2024/08/15 8:54午前)
 - (8:51午前) oh right you need to change the details to staging
 - (9:05午前) First to sort out the API, what does it all mean, what are you doing?
