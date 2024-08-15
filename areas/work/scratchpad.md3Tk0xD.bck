@@ -9,27 +9,9 @@
     - (9:27午前) realistically you have four days (would be nice to finish this week though)
 - (9:36午前) it's possible the existing key is fine, let's get a site list
 - (12:24午後) you got in but the link you are getting is not working somehow
-- (1:10午後) current working theory is that you have two wix accounts
 
 
-```json
-{
-  "checkoutId": "3dd9444c-7d23-4edb-9e2e-04a76f22271c",
-  "checkoutUrl": "https://drtoniconnor.wixsite.com/apa-staging/checkout?appSectionParams=%7B%0A%22checkoutId%22%3A%223dd9444c-7d23-4edb-9e2e-04a76f22271c%22%2C%0A%22isPickupFlow%22%3Afalse%2C%0A%22currentCurrency%22%3A%22AUD%22%0A%7D&disableContinueShopping=false",
-  "purchaseFlowId": "33f08b09-7e16-4d87-83b0-48efdeb5da6e"
-}
 
-
-https://drtoniconnor.wixsite.com/apa-staging/checkout?appSectionParams=%7B%0A%22checkoutId%22%3A%223dd9444c-7d23-4edb-9e2e-04a76f22271c%22%2C%0A%22isPickupFlow%22%3Afalse%2C%0A%22currentCurrency%22%3A%22AUD%22%0A%7D&disableContinueShopping=false
-
-
-{
-  "checkoutId": "0cb442fa-db50-4617-82f1-a69b1c1ac938",
-  "checkoutUrl": "https://drtoniconnor.wixsite.com/apa-staging/checkout?appSectionParams=%7B%0A%22checkoutId%22%3A%220cb442fa-db50-4617-82f1-a69b1c1ac938%22%2C%0A%22isPickupFlow%22%3Afalse%2C%0A%22currentCurrency%22%3A%22AUD%22%0A%7D&disableContinueShopping=false",
-  "purchaseFlowId": "31c7248d-4ffd-458a-a83d-32bfa9a5b2f9"
-}
-
-```
 curl -X GET \
 
  https://www.wixapis.com/apps/v1/instance \
