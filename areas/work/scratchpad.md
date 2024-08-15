@@ -2,6 +2,7 @@
 - (8:17午前) let's try the query
     - (8:21午前) after that build the interface
     - (8:21午前) then go to the unit of measure 
+- (8:52午前) 
 
 
 
