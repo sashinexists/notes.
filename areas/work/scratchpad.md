@@ -6,7 +6,9 @@
 - (9:15午前) look at all the headers and the things in the body and to the best of your ability try to figure out what they all mean
     - where is the JST from, what is it of again? It's a json blob that's in text
 - (9:27午前) I don't seem to have any direction at the moment
-    - (9:27午前) realistically you have four days
+    - (9:27午前) realistically you have four days (would be nice to finish this week though)
+- (9:36午前) it's possible the existing key is fine, let's get a site list
+
 
 
 
