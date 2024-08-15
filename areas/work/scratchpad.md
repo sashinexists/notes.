@@ -14,6 +14,8 @@
 - (1:13午後) new theory is that catalogue ids don't neatly match up to product ids (that was just an assumption that I had)
     - okay it says specifically it is the product id
 - (1:31午後) no working theory as to why this link is not working
+- (4:00午後) I don't think it's cors
+
 
 
 
