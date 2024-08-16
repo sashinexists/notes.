@@ -7,6 +7,10 @@
 - (9:53午前) okay you need to make some kind of route, well you need to create the template then use the id to get create a cart from the prescription and then get the link
 - (10:43午前) next up you have to make the link
 - (3:51午後) you are up to the api, the last function there is unfinished, you'll have to work out the types and stuff
+- (3:55午後) this is looking kind of confusing maybe you shoudl work on the other things instead
+- (3:59午後) jordan was saying that wix wasn't sending out emails, gotta talk to ben about this
+
+
 
 
 
