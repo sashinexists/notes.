@@ -8,6 +8,7 @@
 - (10:43午前) next up you have to make the link
 - (3:51午後) you are up to the api, the last function there is unfinished, you'll have to work out the types and stuff
 - (3:55午後) this is looking kind of confusing maybe you shoudl work on the other things instead
+    - (4:00午後) because it's embedded in prescription from and you don't know much about that
 - (3:59午後) jordan was saying that wix wasn't sending out emails, gotta talk to ben about this
 
 
