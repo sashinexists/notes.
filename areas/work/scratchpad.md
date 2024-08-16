@@ -2,7 +2,13 @@
 - (8:17午前) let's try the query
     - (8:21午前) after that build the interface
     - (8:21午前) then go to the unit of measure 
-- (8:52午前) 
+- (9:45午前) there's a bunch of things you want to do in the backend
+    - do it with just infinite b complex and dysport
+- (9:53午前) okay you need to make some kind of route, well you need to create the template then use the id to get create a cart from the prescription and then get the link
+- (10:43午前) next up you have to make the link
+
+
+
 
 
 
