@@ -3,6 +3,12 @@
 - (9:28午前) making it so that it's possible to add new units of measures and edit them from the super user interface
 - (10:03午前) now you need to do the python routes
 - (11:04午前) gotta add entry_state to unit of measure table
+- (11:18午前) I wonder why it's trying to add 6
+- (11:53午前) super interesting, is it adding the cs files automatically?
+- (11:58午前) there isn't an event table for this
+
+
+
 
 
 
