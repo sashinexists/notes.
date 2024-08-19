@@ -7,6 +7,17 @@
 - (11:53午前) super interesting, is it adding the cs files automatically?
 - (11:58午前) there isn't an event table for this
     - so you have to make an event table, and you have to add created and updated
+- (2:43午後) looks like you may not require a change
+    - it's going to be two fields in patient details
+        - does not have medicare card number
+        - medicare card number
+- (2:44午後) maybe it will be in patient details at the top
+- (2:45午後) maybe we need a rule (requires medicare number specified)
+- (4:01午後) I think it just works (the units of measure ticket)
+
+
+
+
 
 
 
