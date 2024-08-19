@@ -2,6 +2,8 @@
 - (7:57午前) second week of full-time work
 - (9:28午前) making it so that it's possible to add new units of measures and edit them from the super user interface
 - (10:03午前) now you need to do the python routes
+- (11:04午前) gotta add entry_state to unit of measure table
+
 
 
 
