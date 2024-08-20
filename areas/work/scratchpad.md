@@ -1,3 +1,19 @@
+## (2024/08/21 8:13午前)
+- (8:13午前) expecting Ben to be back today
+- (8:14午前) going to have to go through a bunch of things with him
+    - on Friday someone name Jules app wasn't working, the app would load indefinitely
+    - need to take customers medicare numbers, and a tickbox if they don't have a medicare number (to make it explicit if they have recently immigrated etc)
+        - need to add a rule that medicare number has to be specified for the customer for certain products and categories (semaglutide)
+        - need to send an email when this product is sent
+            - maybe ask Jhordan about this, I think we could have a rule where an email is sent when that prescription goes
+                - Toni mentioned sending an email to orders@allurepacificaesthetics.com
+                - Jhordan said admin@allurepacificaesthetics.com
+    - how to prevent the system (wix) from marking orders as fulfilled, possible to have them marked as paid instead?
+    - Toni wants us to start on erx integration soon, something about the laws around that changing
+
+
+
+
 ## (2024/08/20 8:02午前)
 - (8:02午前) should you test the units of measure ticket?
     - nah, you can move onto the next things
