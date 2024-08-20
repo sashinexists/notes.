@@ -27,19 +27,10 @@
 - (12:31午後) no database changes need to be made as it's in a json blob
 - (12:41午後) let's do it in versions
 - (12:47午後) the photo urls are crazy long
+- (2:51午後) we should move the code for dealing with the photos into another file
+- (3:45午後) up to fixing compiler problems in Physician.elm
+    - after this you should move the file to another module
 
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
