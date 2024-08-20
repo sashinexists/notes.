@@ -8,8 +8,16 @@
             - maybe ask Jhordan about this, I think we could have a rule where an email is sent when that prescription goes
                 - Toni mentioned sending an email to orders@allurepacificaesthetics.com
                 - Jhordan said admin@allurepacificaesthetics.com
+                - in the rule they could specify the email address, subject, cc and a message
+                    - obviously do form validation
+                - when would the email send, when the script is approved only?
     - how to prevent the system (wix) from marking orders as fulfilled, possible to have them marked as paid instead?
     - Toni wants us to start on erx integration soon, something about the laws around that changing
+- (8:30午前) you should go over what you've done with Ben
+    - sort favourites (done, Toni has given feedback)
+    - started work on Wix integration and got stuck in two places (the link that comes back doesn't seem to work)
+    - toni wanted an interface to edit and add new 
+
 
 
 
