@@ -1,5 +1,28 @@
 ## (2024/08/20 8:02午前)
-- 
+- (8:02午前) should you test the units of measure ticket?
+    - nah, you can move onto the next things
+- (8:03午前) I feel like I should ask Toni about the process and write it down
+- (8:13午前) let's see you've made some progress on the wix integration and you've got two things done
+    - sorting favourites
+    - units of measure
+- (8:28午前) you can call toni about the photos as well
+    - go through all the points
+        - ask if *all the photos* are in pairs
+        - presumably the show photos side by side means before and after
+        - what does it look like, does the nurse take the photo, apply the treatment then immediately take the second photo?
+        - what does autogenerate before and after library mean?
+- (8:32午前) [x] you can create pull requests
+- (9:12午前) now working on photos
+- (9:12午前) Helen wants a list of all her customer's emails
+    - we should have a tickbox that allows customers to consent to receiving promotional emails
+    - and a way for clinics to grab a list of all customers that have consented
+
+
+
+
+
+
+ 
 
 
 
