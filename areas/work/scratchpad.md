@@ -21,6 +21,8 @@
     - Toni wanted an interface to edit and add new units of measure (done)
     - Started working on the photos ticket yesterday
 - (10:06午前) two more boxes: antibiotics and something else
+- (11:17午前) okay, new ticket
+
 
 
 
