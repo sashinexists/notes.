@@ -24,10 +24,17 @@
 - (11:17午前) okay, new ticket
 - (11:41午前) let's do this in a few ticks
     - add medicare number field to patient
-    - add ruletype for requiring medicare
+    - add ruletype for requiring medicare card number
     - add ruletype for an email sending
     - add ruletype for sending an email to patient
     - add ruletype for sending a text to the patient
+- (2:29午後) number of things to figure out with the ui
+- (3:45午後) Patient.elm 291, need to plug everything in and see if it all still works
+    - first thing is getting the new data to work full stop
+    - you also have to add two tickboxes for the same address and for if they don't have medicare card (and grey out the field)
+    - maybe it should be in another section right underneath
+
+
 
 
 
