@@ -22,6 +22,13 @@
     - Started working on the photos ticket yesterday
 - (10:06午前) two more boxes: antibiotics and something else
 - (11:17午前) okay, new ticket
+- (11:41午前) let's do this in a few ticks
+    - add medicare number field to patient
+    - add ruletype for an email sending
+    - add ruletype for sending an email to patient
+    - add ruletype for sending a text to the patient
+    - add ruletype for 
+
 
 
 
