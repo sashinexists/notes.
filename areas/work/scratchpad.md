@@ -28,6 +28,7 @@
     - add ruletype for an email sending
     - add ruletype for sending an email to patient
     - add ruletype for sending a text to the patient
+    - add rule type for max 1 item?
 - (2:29午後) number of things to figure out with the ui
 - (3:45午後) Patient.elm 291, need to plug everything in and see if it all still works
     - first thing is getting the new data to work full stop
