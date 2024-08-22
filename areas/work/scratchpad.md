@@ -1,3 +1,15 @@
+## (2024/08/22 8:21午前)
+- (8:21午前) you should make a work dashboard, after this ticket, to keep track of everything that you are doing
+- (9:43午前) up to Patient.elm
+- (11:23午前) this is working quite well
+- (11:48午前) it's not getting decoding it right
+    - let's look closer
+    - seems to be encoding decently
+
+
+
+
+
 ## (2024/08/21 8:13午前)
 - (8:13午前) expecting Ben to be back today
 - (8:14午前) going to have to go through a bunch of things with him
