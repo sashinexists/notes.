@@ -5,6 +5,10 @@
 - (11:48午前) it's not getting decoding it right
     - let's look closer
     - seems to be encoding decently
+- (3:57午後) The exact problem that you are up to now is that you can't untick it
+- (5:20午後) let's write all the notes by the next lesson
+
+
 
 
 
