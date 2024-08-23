@@ -2,6 +2,9 @@
 - (8:26午前) okay back to working on this 
 - (8:48午前) let's separate the address and the date
 - (10:18午前) you can do this, clean up the mess and get the address working properly
+    - you could separate the date too if you like but get the address working properly first
+- (10:20午前) this feels good to do
+
 
 
 
