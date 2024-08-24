@@ -7,9 +7,9 @@ The idea behind this document, it's all the things that you are doing right now.
 
 ## Sashin Exists
 [[areas/sashin_exists/scratchpad]]
-- Reading the Dawn of Everything
-- Trying to figure out a way to save on hosting costs
-  - attempting to switch from digital ocean to vultr
+- [x] Reading the Dawn of Everything
+- [x] Trying to figure out a way to save on hosting costs
+  - [x] attempting to switch from digital ocean to vultr
 - writing and publishing a new now page
 - you want to write and publish something, you want to tell everyone about class war and mmt
 - Learn more about editing wikipedia articles, really get in the habit of it
