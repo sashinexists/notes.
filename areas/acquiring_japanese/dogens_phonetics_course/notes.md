@@ -433,7 +433,7 @@ The two major exceptions are the く and さ forms which are always said with th
     - 遊びません (あそびません): LHHHHL
     - 遊びませんでした (あそびませんでした): LHHHHLLLL
 
-- for the "intend to" conjugation よう the downstep occurs on the よ
+- for the "intend to" conjugation よう the downstep occurs on the よ or equivalent mora for irregular verbs
   - examples:
     - 止めよう (とめよう): LHHL 
     - 鳴こう (なこう): LHL
@@ -451,4 +451,10 @@ The two major exceptions are the く and さ forms which are always said with th
   - examples
     - 止めなかった (とめなかった): LHHLLL 
     - 鳴かなかった (なかなかった): LHHLLL
-    - 遊ばなかった (あそびなかった): LHHHLLL
+    - 遊ばなかった (あそばなかった): LHHHLLL
+
+- for the conditional form れば the downstep occurs on the れ or the equivalent form 
+  - examples:
+    - 止めれば (とめれば): LHHL 
+    - 鳴けば (なげば): LHL
+    - 遊べば (あそべば): LHHL
