@@ -453,8 +453,14 @@ The two major exceptions are the く and さ forms which are always said with th
     - 鳴かなかった (なかなかった): LHHLLL
     - 遊ばなかった (あそばなかった): LHHHLLL
 
-- for the conditional form れば the downstep occurs on the れ or the equivalent form 
+- for the conditional form れば the downstep occurs on the れ or the equivalent mora in irregular verbs
   - examples:
     - 止めれば (とめれば): LHHL 
-    - 鳴けば (なげば): LHL
+    - 鳴けば (なけば): LHL
     - 遊べば (あそべば): LHHL
+
+- for the command form ろ the downstep occurs on the ろ or equivalent mora on irregular verbs
+  - examples:
+    - 止めろよ (とめろよ): LHHL 
+    - 鳴けよ (なけよ): LHL
+    - 遊べよ (あそべよ): LHHL
