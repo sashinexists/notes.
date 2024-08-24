@@ -461,6 +461,19 @@ The two major exceptions are the く and さ forms which are always said with th
 
 - for the command form ろ the downstep occurs on the ろ or equivalent mora on irregular verbs
   - examples:
+    - (particle よis included to make the downstep visible)
     - 止めろよ (とめろよ): LHHL 
     - 鳴けよ (なけよ): LHL
     - 遊べよ (あそべよ): LHHL
+
+- for the "even if" form ても or でも the downstep occurs on the て or で
+  - examples:
+    - 止めても (とめても): LHHL 
+    - 鳴いても (ないても): LHHL
+    - 遊んでも (あそんでも): LHHHL
+
+- for the "such as" form たり or だり the downstep occurs on the た or だ
+  - examples:
+    - 止めたり (とめたり): LHHL 
+    - 鳴いたり (ないたり): LHHL
+    - 遊んでも (あそんでも): LHHHL
