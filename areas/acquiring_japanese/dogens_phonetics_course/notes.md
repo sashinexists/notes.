@@ -427,8 +427,14 @@ The two major exceptions are the く and さ forms which are always said with th
 - for the negative polite, ません and ませんでした the downstep occurs on the せ
   - examples:
     - 止めません (とめません): LHHHL 
-    - 止めました (とめました): LHHLL 
+    - 止めませんでした (とめませんでした): LHHHLLLL 
     - 鳴きません (なきません): LHHHL
-    - 鳴きました (なきました): LHHLL
+    - 鳴きませんでした (なきませんでした): LHHHLLLL
     - 遊びません (あそびません): LHHHHL
-    - 遊びました (あそびました): LHHHLL
+    - 遊びませんでした (あそびませんでした): LHHHHLLLL
+
+- for the "intend to" conjugation よう the downstep occurs on the よ
+  - examples:
+    - 止めよう (とめよう): LHHL 
+    - 鳴きよう (なきよう): LHHL
+    - 遊びよう (あそびよう): LHHHL
