@@ -413,4 +413,12 @@ The two major exceptions are the く and さ forms which are always said with th
 - [youtube link](https://invidious.perennialte.ch/watch?time_continue=1&v=gWK3vkHGtu4&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
 - [patreon link](https://www.patreon.com/posts/japanese-episode-11381695)
 
+- The common conjugations for heiban verbs are heiban and the remaining are odaka or nakadaka
 
+- for ます and ました the downstep occurs on the ま
+  - examples:
+    - 止めます (とめます): LHHL 
+    - 止めました (とめました): LHHLL 
+    - 鳴きます (なきます): LHHL
+    - 鳴きました (なきました): LHHLL
+    - 遊びます (あそびます): LHHHL
