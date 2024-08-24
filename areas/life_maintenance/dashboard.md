@@ -20,13 +20,10 @@ The idea behind this document, it's all the things that you are doing right now.
 ## Acquiring Japanese
 [[areas/acquiring_japanese/scratchpad]]
 - Dogen's course
+  - notes on everything in section 2, then go over everything again with more intention
 - Watching through Orange days
   - Episode 1
     - collect screenshots of everything you don't know and organise a lesson with Miho sensei
+- listening through all of the original nihongo con teppei podcast
 
 
-- Watching through the original pokemon in Japanese
-- Playing through persona 4 in Japanese
-- Doing Dogen's course
-- Watching through Orange days
-- Learning 10 japanese words a day and revising existing words on jpdb.io
