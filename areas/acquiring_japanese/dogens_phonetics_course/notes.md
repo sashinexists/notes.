@@ -445,4 +445,10 @@ The two major exceptions are the く and さ forms which are always said with th
     - 鳴きたい (なきたい): LHHL
     - 遊びたい (あそびたい): LHHHL
 
-- the four above rules also apply to non-heiban verbs 
+- the four above rules (ます/ました、ません/ませんでした、よう、たい) also apply to non-heiban verbs 
+
+- for the plain past negative form なかった the downstep occurs on the な
+  - examples
+    - 止めなかった (とめなかった): LHHLLL 
+    - 鳴かなかった (なかなかった): LHHLLL
+    - 遊ばなかった (あそびなかった): LHHHLLL
