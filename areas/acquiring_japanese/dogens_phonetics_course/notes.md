@@ -476,4 +476,4 @@ The two major exceptions are the く and さ forms which are always said with th
   - examples:
     - 止めたり (とめたり): LHHL 
     - 鳴いたり (ないたり): LHHL
-    - 遊んでも (あそんでも): LHHHL
+    - 遊んだり (あそんだり): LHHHL
