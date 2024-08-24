@@ -436,5 +436,5 @@ The two major exceptions are the く and さ forms which are always said with th
 - for the "intend to" conjugation よう the downstep occurs on the よ
   - examples:
     - 止めよう (とめよう): LHHL 
-    - 鳴きよう (なきよう): LHHL
-    - 遊びよう (あそびよう): LHHHL
+    - 鳴こう (なこう): LHL
+    - 遊ぼう (あそぼう): LHHL
