@@ -492,7 +492,11 @@ The two major exceptions are the く and さ forms which are always said with th
       -　帰るの (かえるの) HLLL
       -　帰るし (かえるし) HLLL
       -　帰るね (かえるね) HLLL
-      -　帰るから (かえるから) HLLL
-      -　帰るね (かえるね) HLLL
+      -　帰るから (かえるから) HLLLL
+      -　帰るけれど (かえるけれど) HLLLLL
+      -　帰るまで (かえるまで) HLLLL
+      -　帰るほど (かえるほど) HLLLL
+      -　帰るので (かえるので) HLLLL
+      -　帰るのに (かえるのに) HLLLL
       - 
 
