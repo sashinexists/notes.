@@ -517,6 +517,11 @@ The two major exceptions are the く and さ forms which are always said with th
 - when following the dictionary form of heiban verbs, ね attaches high while の、から and けれど attach low
 
 ## Pitch accent patterns for Atamadaka verbs
-- Source: Japanese phonetics Episode 19.1
-- [youtube link](https://invidious.perennialte.ch/watch?v=SP5IH4bRiNw&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
-- [patreon link](https://www.patreon.com/posts/japanese-episode-40255016)
+- Source: Japanese phonetics Episode 20
+- [youtube link](https://invidious.perennialte.ch/watch?v=PQ8heOy6Aek&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-11650366)
+
+- "The overwhelming majority of atamadaka verbs are two mora"
+  - eg ある、みる、よむ、のむ
+
+- there are only a handful of three mora atamadaka verbs
