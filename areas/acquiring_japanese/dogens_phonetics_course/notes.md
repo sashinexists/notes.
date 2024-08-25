@@ -533,17 +533,19 @@ The two major exceptions are the く and さ forms which are always said with th
 
 - common two mora atamadaka verbs
   - ある
-  - みる
-  - よむ
-  飲む
-  出る
-  来る
-  合う
-  書く
-  切る
-  降る
-  待つ
-  持つ
-  立つ
-  勝つ
-  打つ、撃つ
+  - 見る (みる)
+  - 読む (よむ)
+  - 飲む (飲む)
+  - 出る (でる)
+  - 来る (くる)
+  - 会う、合う (あう)
+  - 書く (かく)
+  - 切る (きる)
+  - 降る (ふる)
+  - 待つ (まつ)
+  - 持つ (もつ)
+  - 立つ (たつ)
+  - 勝つ (かつ)
+  - 打つ、撃つ (うつ)
+
+- all two mora verbs that end in つ are atamadaka
