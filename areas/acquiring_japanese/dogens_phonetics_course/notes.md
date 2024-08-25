@@ -477,3 +477,13 @@ The two major exceptions are the く and さ forms which are always said with th
     - 止めたり (とめたり): LHHL 
     - 鳴いたり (ないたり): LHHL
     - 遊んだり (あそんだり): LHHHL
+
+## Pitch accent patterns for verbs and particles
+- Source: Japanese phonetics Episode 19.1
+- [youtube link](https://invidious.perennialte.ch/watch?v=SP5IH4bRiNw&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-40255016)
+
+- Generally speaking, particles don't affect the pitch accent of accented verbs (atamadaka and nakadaka)
+  - therefore they simply attach low
+  - including normal common particles
+
