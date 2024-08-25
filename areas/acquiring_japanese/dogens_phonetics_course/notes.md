@@ -513,3 +513,10 @@ The two major exceptions are the く and さ forms which are always said with th
 - the main point of this lesson "it's wrong to assume that all particles simply attach high to heiban verbs"
   - と when meaning "if", as the conditional particle can attach low or high
   - と when the quotation paticle only attaches low
+
+- when following the dictionary form of heiban verbs, ね attaches high while の、から and けれど attach low
+
+## Pitch accent patterns for Atamadaka verbs
+- Source: Japanese phonetics Episode 19.1
+- [youtube link](https://invidious.perennialte.ch/watch?v=SP5IH4bRiNw&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
+- [patreon link](https://www.patreon.com/posts/japanese-episode-40255016)
