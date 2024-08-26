@@ -594,4 +594,18 @@ The two major exceptions are the く and さ forms which are always said with th
 - All verbs that end with つ belong to the downstep group
   - All two mora verbs that end in つ are atamadaka
   - All three mora verbs that end in つ are nakadaka
-
+    - examples:
+      - 目立つ (めだつ) : LHL
+      - 育つ (そだつ) : LHL
+      - よだつ : LHL
+      - 保つ (たもつ) : LHL
+  
+### 1. The ぶ rule
+- Assume that verbs that end in ぶ are heiban
+  - examples:
+    - 呼ぶ (よぶ) : LHH
+    - 飛ぶ (とぶ) : LHH    
+    - 遊ぶ (あそぶ) : LHH
+    - 運ぶ (はこぶ) : LHH
+    - 並ぶ (ならぶ) : LHH
+    - 学ぶ (まなぶ) : LHH
