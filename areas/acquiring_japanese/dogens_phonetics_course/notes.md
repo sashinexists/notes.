@@ -564,3 +564,6 @@ The two major exceptions are the く and さ forms which are always said with th
     - 見たり (みたり)
     
 - For negative conjugations of atamadaka verbs the downstep occurs on the mora before the な
+  - examples:
+    -　見ない　(みない)
+    -　見なかったき (みなかった)
