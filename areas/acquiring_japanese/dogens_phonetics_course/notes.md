@@ -701,5 +701,15 @@ The two major exceptions are the く and さ forms which are always said with th
       - 走れば (はしれば) : LHLL
       - 泳げば (およげば) : LHLL
 
-- Group 2: comman form (ろ)
+- Group 2: command form (ろ)
+  - the downstep occurs on the second to last mora of the word
+    - examples
+      - 食べろ (たべろ) : LHL
+      - 走ろ (はしろ) : LHL
+      - 泳げ (およげ) : LHL
+
+- Group 3: even if form (ても、でも), such as form (たり、だり)
+  - the downstep occurs on the fourth to last mora
+    - examples:
+      - 食べても (たべても) : HLLL
     
