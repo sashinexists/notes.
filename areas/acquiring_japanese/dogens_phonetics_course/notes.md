@@ -689,4 +689,17 @@ The two major exceptions are the く and さ forms which are always said with th
       - 泳がなかった (およがなかった) : LHHLLLL
 
 - common conjugations
-  - group 1: past, て, if (れば)
+  - Group 1: past (た), て, if (れば)
+    - the downstep occurs on the third to last mora of the word
+      - 食べた (たべた) : HLL
+      - 走った (はしった) : LHLL
+      - 泳いだ (およいだ) : LHLL
+      - 食べて (てべて) : HLL
+      - 走って (はしって) : LHLL
+      - 泳いで (およいで) : LHLL
+      - 食べれば (たべれば) : LHLL
+      - 走れば (はしれば) : LHLL
+      - 泳げば (およげば) : LHLL
+
+- Group 2: comman form (ろ)
+    
