@@ -588,3 +588,4 @@ The two major exceptions are the く and さ forms which are always said with th
 - [patreon link](https://www.patreon.com/posts/japanese-episode-12022386)
 
 - There are no odaka verbs in japanese
+- mistaking heiban verbs as nakadaka verbs is a very common mistake from english speakers
