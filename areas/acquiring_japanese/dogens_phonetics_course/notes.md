@@ -589,3 +589,9 @@ The two major exceptions are the く and さ forms which are always said with th
 
 - There are no odaka verbs in japanese
 - mistaking heiban verbs as nakadaka verbs is a very common mistake from english speakers
+
+### 1. The つ rule
+- All verbs that end with つ belong to the downstep group
+  - All two mora verbs that end in つ are atamadaka
+  - All three mora verbs that end in つ are nakadaka
+
