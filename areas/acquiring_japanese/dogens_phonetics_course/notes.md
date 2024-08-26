@@ -668,4 +668,11 @@ The two major exceptions are the く and さ forms which are always said with th
       - 食べられる (たべられる) : LHHHL
       - 食べさせる (たべさせる) : LHHHL
     - 走る (はしる) : LHL
-      - 走りながら (はしりながら)
+      - 走りながら (はしりながら) : LHHHLL
+      - 走れる (はしれる) : LHHL
+      - 走られる (はしられる) : LHHHL
+      - 走らせる (はしらせる) : LHHHL
+    - 泳ぐ (およぐ) : LHL
+      - 泳ぎながら (およぎながら) : LHHHLL
+      - 泳げる (およげる) : LHHL
+    
