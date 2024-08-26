@@ -652,4 +652,13 @@ The two major exceptions are the く and さ forms which are always said with th
 - [patreon link](https://www.patreon.com/posts/japanese-episode-12618652)
 
 - In Nakadaka verbs, the downstep for the non-conjugated version of the word will always occur on the second to last mora
+  - examples:
+    - 食べる (たべる) : LHL
+    - 罵る (ののしる) : LHHL
+    - 退ける (しりぞける) : LHHHL
+    - 承る (うけたまわる) : LHHHHL
+
+- the pitch accent for ます、ません、よう、たい are the same for all verbs (therefore including nakadaka verbs)
+
+- the pitch accent for ながら、れる、られる and させる are the same as Atamadaka verbs
 
