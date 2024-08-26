@@ -551,3 +551,15 @@ The two major exceptions are the く and さ forms which are always said with th
 - all two mora verbs that end in つ are atamadaka
 
 - ます、ません、よう、たい are the same for all verbs
+
+- General rule: "Besides negative conjugations, most atamadaka conjugations are atamadaka"
+  - this includes the dictionary form, the past form, the て-form the if form, the command form, the even if form and the such as form
+  - examples:
+    - 見る (みる)
+    - 見た (みた)
+    - 見て (みて)
+    - 見れば (みれば)
+    - 見ろ (みろ)
+    - 見ても (みても)
+    - 見たり (みたり)
+    
