@@ -568,12 +568,16 @@ The two major exceptions are the く and さ forms which are always said with th
     - 見ない　(みない) HLL
     - 見なかったき (みなかった) HLLLLL
     - 飲まない (のまない) LHLL
+    - 飲まなかった (のまなかった)　LHLLLL
 
 - in ながら the downstep occurs on the な
 - in the potential form, the passive form and the させる form
   - examples:
-    - 見ながら (みながら)
-    - 見れる (みれる)
-    - 見られる (みられる)
-    - 見される (みされる)
+    - 見ながら (みながら) LHLLL
+    - 見れる (みれる) LHL
+    - 見られる (みられる) LHLL
+    - 見される (みされる) LHLL
+    - 飲みながら (のみながら)　LHLLL
+    - 飲める (のめる) LHL
+    - 飲まれる (のまれる) LHLL
     
