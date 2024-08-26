@@ -661,4 +661,11 @@ The two major exceptions are the く and さ forms which are always said with th
 - the pitch accent for ます、ません、よう、たい are the same for all verbs (therefore including nakadaka verbs)
 
 - the pitch accent for ながら、れる、られる and させる are the same as Atamadaka verbs
-
+  - examples:
+    - 食べる (たべる) : LHL
+      - 食べながら (たべながら) : LHHLL
+      - 食べれる (たべれる) : LHHL
+      - 食べられる (たべられる) : LHHHL
+      - 食べさせる (たべさせる) : LHHHL
+    - 走る (はしる) : LHL
+      - 走りながら (はしりながら)
