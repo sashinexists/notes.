@@ -582,7 +582,7 @@ The two major exceptions are the く and さ forms which are always said with th
     - 飲まれる (のまれる) LHLL
     - 飲ませる (のませる) LHLL
     
-## Pitch accent patterns for Atamadaka verbs
+## Rules for determining verb pitch accent
 - Source: Japanese phonetics Episode 21
 - [youtube link](https://invidious.perennialte.ch/watch?time_continue=1&v=JZjp4q0UHNU&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY)
 - [patreon link](https://www.patreon.com/posts/japanese-episode-12022386)
