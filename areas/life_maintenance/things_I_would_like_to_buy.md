@@ -2,6 +2,8 @@
 - [] Steam Deck + dock ($1500)
 - [] More japanese lessons with natsumi (~$500)
 - [] the pixel tablet (~$800)
+- [] kogan air purifier ($200)
+- [] oil dispenser (peppermint oil)
 - [] moonlander zip kit
 - [] new pinebook pro
 - [] cerakeys
