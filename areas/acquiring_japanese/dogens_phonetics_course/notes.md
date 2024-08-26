@@ -1,4 +1,4 @@
-# Dogen's Phonetics Course notes
+# 8. Dogen's Phonetics Course notes
 
 ## Nouns with 1-4 Mora 
 - Source: Japanese phonetics Episode 8
@@ -712,4 +712,9 @@ The two major exceptions are the く and さ forms which are always said with th
   - the downstep occurs on the fourth to last mora
     - examples:
       - 食べても (たべても) : HLLL
+      - 走っても (はしっても) : LHLLL
+      - 泳いでも (およいでも) : LHLLL
+      - 食べたり (たべたり) : HLLL
+      - 走ったり (はしったり) : LHLLL
+      - 泳いだり (およいだり) : LHLLL
     
