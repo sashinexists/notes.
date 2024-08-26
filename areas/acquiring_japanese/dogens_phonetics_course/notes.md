@@ -549,3 +549,5 @@ The two major exceptions are the く and さ forms which are always said with th
   - 打つ、撃つ (うつ)
 
 - all two mora verbs that end in つ are atamadaka
+
+- ます、ません、よう、たい are the same for all verbs
