@@ -62,7 +62,7 @@
 - common exceptions, four mora, *odaka* nouns
   - 妹(いもうと)、弟(おとうと)、
 
-## Nouns with 5 mora and Compounds
+## 9. Nouns with 5 mora and Compounds
 - Source: Japanese phonetics Episode 9
 
 - [Patreon](https://www.patreon.com/posts/japanese-episode-7585439)
@@ -71,7 +71,7 @@
 - Many five mora nouns, and almost all relatively long compounds in Japanese are nakadaka with the downstep occuring in the later element of the compound
 
 
-## Pitch Accent Patterns for nouns in phrases
+## 10. Pitch Accent Patterns for nouns in phrases
 - Source: Japanese phonetics Episode 10
 
 - [Patreon](https://www.patreon.com/posts/japanese-episode-7705798)
@@ -118,7 +118,7 @@
   - when attached to a downstep form, the noun it is attached to become heiban and stays high until い
   - with heiban nouns it works identical to the above
    
-## Introduction to i-adjectives
+## 12. Introduction to i-adjectives
 - Source: Japanese phonetics Episode 12
 - [youtube link](https://invidious.perennialte.ch/watch?time_continue=1064&v=v9hYLByuy2I&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=MTM5MTE3LDEzOTExNywxMzkxMTcsMTM5MTE3LDI4NjY2&feature=emb_logo)
 - [patreon link](https://www.patreon.com/posts/51277802)
@@ -167,7 +167,7 @@ Dogen finds it difficult to recommend the newer or the traditional pronunciation
 
 He recommends that we learn both and actively listen for them, and "let the chips fall as the may".
 
-## Pitch Accent in Heiban i-adjectives
+## 13. Pitch Accent in Heiban i-adjectives
 - Source: Japanese phonetics Episode 13
 - [youtube link](https://invidious.perennialte.ch/watch?time_continue=3&v=0KHh080vDto&embeds_referring_euri=https%3A%2F%2Fwww.patreon.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo)
 - [patreon link](https://www.patreon.com/posts/japanese-episode-46276106)
@@ -566,7 +566,7 @@ The two major exceptions are the く and さ forms which are always said with th
 - For negative conjugations of atamadaka verbs the downstep occurs on the mora before the な
   - examples:
     - 見ない　(みない) HLL
-    - 見なかったき (みなかった) HLLLLL
+    - 見なかった (みなかった) HLLLLL
     - 飲まない (のまない) LHLL
     - 飲まなかった (のまなかった)　LHLLLL
 
