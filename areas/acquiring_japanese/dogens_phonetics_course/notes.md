@@ -580,4 +580,5 @@ The two major exceptions are the く and さ forms which are always said with th
     - 飲みながら (のみながら)　LHLLL
     - 飲める (のめる) LHL
     - 飲まれる (のまれる) LHLL
+    - 飲ませる (のませる) LHLL
     
