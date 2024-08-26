@@ -600,7 +600,7 @@ The two major exceptions are the く and さ forms which are always said with th
       - よだつ : LHL
       - 保つ (たもつ) : LHL
   
-### 1. The ぶ rule
+### 2. The ぶ rule
 - Assume that verbs that end in ぶ are heiban
   - examples:
     - 呼ぶ (よぶ) : LHH
@@ -609,3 +609,15 @@ The two major exceptions are the く and さ forms which are always said with th
     - 運ぶ (はこぶ) : LHH
     - 並ぶ (ならぶ) : LHH
     - 学ぶ (まなぶ) : LHH
+  - exceptions:
+    - 選ぶ (えらぶ) : LHL
+    - 叫ぶ (さけぶ) : LHL
+    - 喜ぶ (よろこぶ) : LHHL
+
+### 3. The い rule
+- Assume that any 3-mora word with an い sound (such as　し、き、ち) in its second mora is Nakadaka
+  - examples:
+    - 閉じる、綴る (とじる) : LHL
+    - 過ぎる (すぎる) : LHL
+    - 起きる (おきる) : LHL
+    - 
