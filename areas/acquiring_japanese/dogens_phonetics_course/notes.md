@@ -675,4 +675,12 @@ The two major exceptions are the く and さ forms which are always said with th
     - 泳ぐ (およぐ) : LHL
       - 泳ぎながら (およぎながら) : LHHHLL
       - 泳げる (およげる) : LHHL
-    
+      - 泳がれる (およがれる) : LHHHL
+      - 泳がせる (およがせる) : LHHHL
+
+- The negative conjugations of nakadaka verbs follow the same rules the negative conjugations of atamadaka verbs
+  - The downstep occurs on the mora directly before the な
+    - examples
+      - 食べない (たべない) : LHLL 
+      - 食べなかった (たべなかった) : LHLLLL
+      - 
