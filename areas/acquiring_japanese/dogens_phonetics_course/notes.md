@@ -628,7 +628,7 @@ The two major exceptions are the く and さ forms which are always said with th
     - 握る (にぎる) : LHH
     - 足りる (たりる) : LHH
 
-### 3. The intransitive/transitive rule
+### 4. The intransitive/transitive rule
 - Intransitive verb pairs always belong to the same pitch family
   - eg; 閉める and 閉まる are both nakadaka
     - 開く and 開ける are both heiban
@@ -639,3 +639,8 @@ The two major exceptions are the く and さ forms which are always said with th
     - 並ぶ and 並べる : LHH and LHHH
     - 返る and 返す : HLL
   - the one caveat to the rule is that two mora atamadaka intransitive verbs will become nakadaka in their transitive form
+    - 立つ (HL) -> 立てる (LHL)
+    - 待つ　(HL) -> 待たす (LHL) -> 待たせる (LHHL)
+
+### 5. The Katakana rule
+- So called "katakana verbs" (such as ググる、ディスる、バズる)
