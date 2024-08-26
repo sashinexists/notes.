@@ -544,7 +544,7 @@ The two major exceptions are the く and さ forms which are always said with th
   - 降る (ふる)
   - 待つ (まつ)
   - 持つ (もつ)
-  - 立つ (たつ)
+  - 立つ、経つ、絶つ、建つ (たつ)
   - 勝つ (かつ)
   - 打つ、撃つ (うつ)
 
