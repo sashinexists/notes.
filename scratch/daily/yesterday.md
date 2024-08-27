@@ -1,1 +1,1 @@
-/var/home/sashin/メモ/scratch/daily/2024-08-26.md
+/var/home/sashin/メモ/scratch/daily/2024-08-27.md
