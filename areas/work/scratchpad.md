@@ -1,3 +1,8 @@
+## (2024/08/28 8:03午前)
+- (8:03午前) back to normal work, contact toni about what's on Xero, if she's seen them as about being paid
+
+
+
 ## (2024/08/23 8:26午前)
 - (8:26午前) okay back to working on this 
 - (8:48午前) let's separate the address and the date
