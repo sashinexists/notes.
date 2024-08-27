@@ -1,5 +1,13 @@
 ## (2024/08/28 8:03午前)
 - (8:03午前) back to normal work, contact toni about what's on Xero, if she's seen them as about being paid
+- (8:21午前) need to get the status of everything from Ben
+    - (8:24午前) I don't have super user permissions
+        - It's because it's a dev clinic
+- (8:41午前) current problem, you can't change the position on card from the default
+
+
+
+
 
 
 
