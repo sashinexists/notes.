@@ -4,6 +4,9 @@
 - [] the pixel tablet (~$800)
 - [] kogan air purifier ($200)
 - [] oil dispenser (peppermint oil)
+  - nathan has one, maybe you don't need this
+- [] A really big ssd hard drive
+- [] A second powerpack
 - [] moonlander zip kit
 - [] new pinebook pro
 - [] cerakeys
@@ -12,7 +15,6 @@
   - actually think deeply about the braille idea
 - [] henson shaving razor ($150 https://hensonshaving.com/products/henson-al13-in-aircraft-aluminum)
 - [] A bigger floor desk
-- [] A really big ssd hard drive
 - [] more towels
 - [] exercise clothes (sweatpants from uniqlo)
 - [] dumbells maybe?
