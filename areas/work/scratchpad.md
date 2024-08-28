@@ -5,6 +5,17 @@
         - It's because it's a dev clinic
 - (8:41午前) current problem, you can't change the position on card from the default
 - (8:48午前) it looks like it's both units, for the normal address and the medicare card that are not showing up
+- (8:50午前) it looks like you might have found a bug?? you can't change the unit
+    - (8:55午前) maybe first help Ben with his stuff then work through this
+- (8:55午前) when this is in you want to then add the rule
+- (9:31午前) work on getting unit saved
+    - maybe this means encoded and decoded
+- (10:15午前) now it's in the database but its not coming out
+
+
+
+
+
 
 
 
