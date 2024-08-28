@@ -1,3 +1,8 @@
+## (2024/08/29 8:17午前)
+- (8:17午前) up to getting this working
+
+
+
 ## (2024/08/28 8:03午前)
 - (8:03午前) back to normal work, contact toni about what's on Xero, if she's seen them as about being paid
 - (8:21午前) need to get the status of everything from Ben
