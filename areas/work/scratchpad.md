@@ -13,6 +13,22 @@
 - (10:15午前) now it's in the database but its not coming out
 - (11:51午前) it seems to just work now
     - (11:51午前) let's test for a few and then start adding rules
+- (12:01午後) what to test
+    - do all states work
+        - [x] no medicare card
+        - medicare card without address
+            - [x] medicare card number
+            - [x] position on medicare card
+        - medicare card with address
+    - does all data save
+        - position on card
+        - medicare card number
+        - address
+        - address unit
+- (12:06午後) also limit it to ten digits
+
+    
+
 
 
 
