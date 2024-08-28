@@ -12,6 +12,8 @@
     - maybe this means encoded and decoded
 - (10:15午前) now it's in the database but its not coming out
 - (11:51午前) it seems to just work now
+    - (11:51午前) let's test for a few and then start adding rules
+
 
 
 
