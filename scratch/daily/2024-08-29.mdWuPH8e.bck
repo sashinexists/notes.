@@ -12,7 +12,8 @@
   - g ch
   - g b ch
   - g st
-  - g r (git restore)
+  - g rs (git restore --staged)
+
 
 
  
