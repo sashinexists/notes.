@@ -33,7 +33,19 @@
 - (12:29午後) after we implement this, keep eyes on the prize (rules)
     - first rule simple requires the medicare card details
 - (12:35午後) just use this medicare function then start working on the rules
+- (1:08午後) okay you can work on rules now
+- (2:32午後) making a new ticket to modify rules
 
+
+
+
+```postgresql
+UPDATE rule_type
+INSERT VALUES() 
+    
+```
+
+Max Volume of 4ml for "IV (Intravascular)" treatment area
 
 
     
