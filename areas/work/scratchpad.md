@@ -37,6 +37,13 @@
 - (2:32午後) making a new ticket to modify rules
 - (2:58午後) okay back to this
 - (3:09午後) it's in the database now you have to parse it
+    - the new rule type that is
+    - let's make the name automatically fill in
+- (4:00午後) there is an error when submitting the new rule, look into this
+    - this is where you are up to
+    - (4:01午後) probably a decoding thing
+
+
 
 
 
