@@ -2,7 +2,13 @@
 - (8:17午前) up to getting this working
     - there's an error when submitting a new rule
 - (8:23午前) it looks like you can make a rule and apply it
+- (9:15午前) now you have to process the rule
+    - if you have a product with that rule in the script a red message should come and it should not be possible
+    - also if you select the product in question (start with this)
+- (9:55午前) probably need help stuffing patient details in
 
+
+Product: Compounded semaglutide 1.0mg/ Carnitine 50mg in 0.25ml PFS
 
 
 
