@@ -6,6 +6,15 @@
     - if you have a product with that rule in the script a red message should come and it should not be possible
     - also if you select the product in question (start with this)
 - (9:55午前) probably need help stuffing patient details in
+- (11:23午前) max volume doesn't seem to be working
+- (11:37午前) it looks like max volume isn't working, let's test all the rules
+    - [ ] autoselect indication
+    - [ ] autoselect treatment area
+    - [x] direction instead of volume
+    - [ ] max prescription items
+    - [ ] max unique products
+
+
 
 
 Product: Compounded semaglutide 1.0mg/ Carnitine 50mg in 0.25ml PFS
