@@ -19,12 +19,47 @@
 - (1:50午後) when you remove a product everythign comes back
 - (1:58午後) testing rules
     - [ ] product
+        - [x] autoselect treatment area
+        - [ ] autoselect indication
+        - [x] max volume for treatment area
+        - [x] max prescription items
+        - [-] max unique products
+        - [x] direction instead of volume
+        - [x] require medicare card details
+    - [ ] product category
         - [ ] autoselect treatment area
         - [ ] autoselect indication
-        - [ ] max volume
+        - [ ] max volume for treatment area
+        - [ ] direction instead of volume
+        - [ ] max prescription items
+        - [ ] max unique products
+        - [ ] require medicare card details
+    - [ ] global
+        - [ ] max prescription items
+        - [ ] max unique products
+- (2:06午後) edit rule isn't working for maximum unique products
+- (2:20午後) autoselect indication wasn't selected
+- (2:21午後) you should make the error occur earlier too, when selecting the product
+- (2:23午後) volume doesn't show when treatment area is autoselected
 
 
 
+
+
+Product: Dysport
+Direction Instead of Volume: Lather all over skin
+Product: Hyalase
+Maximum of 4 prescription items
+Product: Hyalase
+Require Medicare Card Details
+Product: Hyalase
+Autoselect "Bunny Lines" Treatment Area
+Product: Hyalase
+Autoselect "Cosmetic use" indication
+Product: Hyalase
+Max Volume of 4ml for "Bunny Lines" treatment area
+Product: Hyalase
+Maximum of 2 unique products
 
 
 
