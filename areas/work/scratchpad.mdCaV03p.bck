@@ -22,7 +22,6 @@
         - [x] autoselect treatment area
         - [ ] autoselect indication
         - [x] max volume for treatment area
-        - [ ] direction instead of volume
         - [x] max prescription items
         - [-] max unique products
         - [x] direction instead of volume
@@ -34,7 +33,6 @@
         - [ ] direction instead of volume
         - [ ] max prescription items
         - [ ] max unique products
-        - [ ] direction instead of volume
         - [ ] require medicare card details
     - [ ] global
         - [ ] max prescription items
