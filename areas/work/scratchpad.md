@@ -8,11 +8,24 @@
 - (9:55午前) probably need help stuffing patient details in
 - (11:23午前) max volume doesn't seem to be working
 - (11:37午前) it looks like max volume isn't working, let's test all the rules
-    - [ ] autoselect indication
+    - [x] autoselect indication
     - [ ] autoselect treatment area
     - [x] direction instead of volume
-    - [ ] max prescription items
-    - [ ] max unique products
+    - [x] max prescription items
+    - [x] max unique products
+    - [ ] require medi
+- (12:10午後) it should run twice shouldn't it
+- (1:18午後) when adding a product/category/global rule something weird happens
+- (1:50午後) when you remove a product everythign comes back
+- (1:58午後) testing rules
+    - [ ] product
+        - [ ] autoselect treatment area
+        - [ ] autoselect indication
+        - [ ] max volume
+
+
+
+
 
 
 
