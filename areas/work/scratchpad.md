@@ -42,6 +42,8 @@
 - (2:21午後) you should make the error occur earlier too, when selecting the product
 - (2:23午後) volume doesn't show when treatment area is autoselected
 - (2:30午後) the bug is that indication isn't autoselected if there is also an autoselect treatment rule
+    - [x] you have to do the same thing for treatment area
+    - and the same for category
 
 
 
