@@ -4,13 +4,46 @@
 - (11:24午前) gotta make them not in a row and on top of that make the errors show
 - (11:45午前) okay need to make the next three things display errors
 - (12:18午後) you want to generate the description and the name
+- (1:29午後) GotPrescriptions in update is where the script is approved and therefore where we need to send the email
+- (4:08午後) up to implement_rules.py try to figure out what the problem is
+    - sending an email
 
 
 
+```postgresql
+        SELECT *
+        FROM product_rule
+        INNER JOIN rule on product_rule.rule_id = rule.rule_id
+        INNER JOIN rule_type on rule.rule_type_id = rule_type.rule_type_id
+        WHERE rule_type.rule_type_name = 'SEND_EMAIL_WHEN_SCRIPT_IS_APPROVED'
+        AND rule.entry_state = 1
+        AND product_rule.entry_state = 1
+        AND product_rule.product_id IN 
+        (SELECT provision_prescription_line_item.product_id
+        FROM provision_prescription_line_item
+        WHERE provision_prescription_line_item.prescription_id = '00901ac6-7ad8-48c4-9dc7-396ddc89a384'
+        );
+```
+
+00901ac6-7ad8-48c4-9dc7-396ddc89a384
 
 
-
-
+```postgresql
+        SELECT *
+        FROM product_category_rule
+        INNER JOIN rule on product_category_rule.rule_id = rule.rule_id
+        INNER JOIN rule_type on rule.rule_type_id = rule_type.rule_type_id
+        WHERE rule_type.rule_type_name = 'SEND_EMAIL_WHEN_SCRIPT_IS_APPROVED' 
+        AND rule.entry_state = 1
+        AND product_category_rule.entry_state = 1
+        AND product_category_rule.product_category_id IN 
+        (SELECT product.product_category_id
+        FROM provision_prescription_line_item
+        INNER JOIN product ON provision_prescription_line_item.product_id = product.product_id
+        WHERE provision_prescription_line_item.prescription_id ='594cf7c0-7aec-4e71-ad69-2cfe4dc22f76'        
+         );
+```
+594cf7c0-7aec-4e71-ad69-2cfe4dc22f76
 ## (2024/08/29 8:17午前)
 - (8:17午前) up to getting this working
     - there's an error when submitting a new rule
