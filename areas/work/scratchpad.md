@@ -1,5 +1,13 @@
 ## (2024/08/30 8:13午前)
 - (8:14午前) working on implementing the rule
+- (10:12午前) gotta work through this form
+- (11:24午前) gotta make them not in a row and on top of that make the errors show
+- (11:45午前) okay need to make the next three things display errors
+- (12:18午後) you want to generate the description and the name
+
+
+
+
 
 
 
