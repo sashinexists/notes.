@@ -6,8 +6,9 @@
 - [] oil dispenser (peppermint oil)
   - nathan has one, maybe you don't need this
 - [] A really big ssd hard drive
-- [] A second powerpack
+- [x] A second powerpack
 - [] moonlander zip kit
+- [] maybe new headphones
 - [] new pinebook pro
 - [] cerakeys
   - Not possible to get a special set yet
