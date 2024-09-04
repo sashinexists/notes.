@@ -1,5 +1,16 @@
 ## (2024/09/04 8:24午前)
 - (8:24午前) need to get Dr Egghead set up again
+- (9:57午前) to do
+    - test cases with custom address as well as no addrss
+        - [x] no address
+        - [x] custom address
+        - [x] same address    
+    - [x] add the authentication back in
+    - change it so that the code is called with the doctor's approval (as they might not be on the polling page)
+    - get rid of all the printing
+- (10:43午前)
+
+ 
 
 
 
