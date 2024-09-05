@@ -3,6 +3,8 @@
 - (9:04午前) I'm imagining that Ben made a change to shared that was supposed to go through but didn't
 - (9:35午前) okay there are two version numbers, there are new things
 - (10:01午前) ben is offline
+- (12:06午後) thinking about whether the extra fields should be on each photo or not
+
 
 
 
