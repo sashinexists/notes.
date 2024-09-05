@@ -8,6 +8,10 @@
     - after that add an interface to make it so that v2 is sent
         - on top of that do error checking
 - (2:20午後) photos is in the HCP screen
+    - think about how you want the interface to look
+        - (probably two photos at a time)
+- (2:57午後) camera not working? try restarting.
+
 
 
 
