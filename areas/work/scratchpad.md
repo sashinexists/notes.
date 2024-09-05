@@ -2,6 +2,8 @@
 - (8:39午前) Shared isn't working, it doesn't have roles
 - (9:04午前) I'm imagining that Ben made a change to shared that was supposed to go through but didn't
 - (9:35午前) okay there are two version numbers, there are new things
+- (10:01午前) ben is offline
+
 
 
 
