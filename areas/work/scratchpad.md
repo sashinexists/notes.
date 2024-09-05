@@ -5,7 +5,10 @@
 - (10:01午前) ben is offline
 - (12:06午後) thinking about whether the extra fields should be on each photo or not
 - (1:35午後) now you have to see if the photos work
-    - after that add an interface to make it so that 
+    - after that add an interface to make it so that v2 is sent
+        - on top of that do error checking
+- (2:20午後) photos is in the HCP screen
+
 
 
 
