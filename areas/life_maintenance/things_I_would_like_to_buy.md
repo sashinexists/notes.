@@ -3,11 +3,9 @@
 - [] More japanese lessons with natsumi (~$500)
 - [] the pixel tablet (~$800)
 - [] kogan air purifier ($200)
-- 
-- [x] oil dispenser (peppermint oil)
+- [] a set of blank moonlander caps ($150 - https://www.zsa.io/moonlander/accessories)
   - nathan has one, maybe you don't need this
 - [] A really big ssd hard drive
-- [x] A second powerpack
 - [] moonlander zip kit
 - [] maybe new headphones
 - [] new pinebook pro
@@ -35,3 +33,5 @@
 - [x] more life is strange games
 - [-] special homing keys for t and n
   - solved this by replacing some keys
+- [x] oil dispenser (peppermint oil)
+- [x] A second powerpack
