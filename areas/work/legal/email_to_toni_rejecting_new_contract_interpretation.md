@@ -4,7 +4,7 @@
 
 Hi Toni,
 
-I've looked at the pay and reread the contract.
+I've looked at the pay and have reread the contract.
 
 I disagree with your interpretation.
 
@@ -23,11 +23,11 @@ Contracts should be written without ambiguity and it would have been fairly easy
 - It could have said what that amount would have been after taking the full-time equivalent into account
 - It could have said what the hourly rate would have been
 
-I think it's clear cut that the contract we've got is 80K for the three days, as I meant it, as I interpreted before signing it and as you have been paying me up until this point.
+I think it is clear cut that the contract we've got is 80K for the three days, as I meant it, as I interpreted before signing it and as you have been paying me up until this point.
 
 I expect that I will continue to be paid at my current rate in accordance with the contract, including next week's paycheck as well as the extra hours that I've worked.
 
-In accordance with clause 20 of the contract, no changes cannot be made unless it is done in writing and signed by both parties.
+In accordance with clause 20 of the contract, no changes can be made unless it is done in writing and signed by both parties.
 
 I would not be willing to sign a new contract with a lower pay.
 
