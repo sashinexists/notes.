@@ -23,6 +23,12 @@ Contracts should be written without ambiguity and it would have been fairly easy
 
 I think it's clear cut that the contract we've got is 80K for the three days, as I meant it, as I interpreted before signing it and as you have been paying me up until this point.
 
-I expect that I will continue to be paid at my current rate in accordance with the contract, including next week's paycheck and the extra hours that I've worked.
+I expect that I will continue to be paid at my current rate in accordance with the contract, including next week's paycheck as well as the extra hours that I've worked.
 
-In accordance with clause 20 of the contract
+In accordance with clause 20 of the contract, no changes cannot be made unless it is done in writing and signed by both parties.
+
+I would not be willing to sign a new contract with a lower pay.
+
+Take care,
+
+Sashin
