@@ -1,3 +1,11 @@
+## (2024/09/11 8:04午前)
+- (8:04午前) let's go over Ben's pull requests and after that catch up with what you were doing last week
+    - I believe I'm done with the branch I am in and can continue working on the photo branch
+        - first step will be to remerge main onion again
+
+
+
+
 ## (2024/09/05 8:39午前)
 - (8:39午前) Shared isn't working, it doesn't have roles
 - (9:04午前) I'm imagining that Ben made a change to shared that was supposed to go through but didn't
