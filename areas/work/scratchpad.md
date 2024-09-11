@@ -4,6 +4,8 @@
         - first step will be to remerge main onion again
 - (9:46午前) for the release you want to fix the migration
     - at the moment it's not working because of the cascading keys
+- (10:53午前) okay now back to photos
+
 
 
 
