@@ -1,3 +1,25 @@
+## (2024/09/12 9:57午前)
+- (9:58午前) going to switch back to wix integration
+- (9:58午前) should probably show ben what you did with the photos though
+- (10:32午前) merged in main and got everything compiling
+- (10:38午前) need to figure out what I was upto and continue
+- (12:37午後) thinking about the wix integration, there was a new table and a way to connect two things together (the id in our database with the wix database)
+    - and a button that would add a checkout to wix
+- (12:46午後) okay the cartero thing
+- (1:36午後) moving on to other tickets, the follow on from sending an email
+- (3:15午後) going to do a write up on the status with the wix integration
+
+
+
+    
+    
+
+
+
+
+
+
+
 ## (2024/09/11 8:04午前)
 - (8:04午前) let's go over Ben's pull requests and after that catch up with what you were doing last week
     - I believe I'm done with the branch I am in and can continue working on the photo branch
