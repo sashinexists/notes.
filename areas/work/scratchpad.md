@@ -15,6 +15,15 @@ https://www.wixapis.com/ecom/v1/checkout-templates/4c2331f7-db71-44d5-96d0-e1c10
         - this should be dysport 6c7b17d4-791b-4733-9626-34984e92f89e
 https://www.wixapis.com/ecom/v1/checkout-templates/2a3208c8-9944-4f96-af6a-67aadfb4c3c0/create-and-redirect-to-checkout?siteId=9c105a11-4e29-45f2-8568-0545ce4b2949
 - (1:29午後) even with the new product it doesn't work
+- (1:42午後) it's like it's not making the checkout template, when I try to get it from id, it's not there
+    - (2:11午後) the wix site id is right, it can't be that
+- (2:12午後) let's see if I can get a product from a product_id
+- (2:49午後) querying them reveals a template
+https://www.wixapis.com/ecom/v1/checkout-templates/03f38a95-f11f-419d-8e5e-837a2ca43333/create-and-redirect-to-checkout?siteId=9c105a11-4e29-45f2-8568-0545ce4b2949
+- (3:13午後) for some reason if I query the templates, I see them, but if I try to get a template by id I don't
+
+
+
 
 
 
