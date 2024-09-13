@@ -1,3 +1,13 @@
+(2024/09/14 5:13午前)
+- right now you want to focus on being able to hear pitch accent
+  - migaku is prime
+    - keep at it and even finish it up
+  - yudai sensei would probably be good
+- you are watching through orange days
+  - need to go through episode 2
+- satori stories are still great
+
+
 (2024/08/12 4:06午前)
 - things you are doing/can do now
   - watch pokemon
