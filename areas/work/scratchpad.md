@@ -2,7 +2,19 @@
 - (9:58午前) Okay, now I need to figure out how this wix thing works
 - (10:31午前) I don't like this, I'm not motivated at all
 - (11:12午前) going to eat, maybe look at cockroach traps and then come back
-
+- (12:47午後) this is probably it
+    - https://www.wixapis.com/ecom/v1/checkout-templates/{checkoutTemplateId}/create-and-redirect-to-checkout?siteId={siteId}
+- (12:47午後) checkout template id 03f38a95-f11f-419d-8e5e-837a2ca43333
+    - wix site id 
+    9c105a11-4e29-45f2-8568-0545ce4b2949
+- (12:56午後) 
+https://www.wixapis.com/ecom/v1/checkout-templates/4c2331f7-db71-44d5-96d0-e1c1067761ad/create-and-redirect-to-checkout?siteId=9c105a11-4e29-45f2-8568-0545ce4b2949
+- (12:58午後) something happens here let's try to generate another checkout template
+- (1:08午後) okay maybe you need another id?
+    - get one from the database
+        - this should be dysport 6c7b17d4-791b-4733-9626-34984e92f89e
+https://www.wixapis.com/ecom/v1/checkout-templates/2a3208c8-9944-4f96-af6a-67aadfb4c3c0/create-and-redirect-to-checkout?siteId=9c105a11-4e29-45f2-8568-0545ce4b2949
+- (1:29午後) even with the new product it doesn't work
 
 
 
