@@ -6,8 +6,6 @@
 - (8:18午前) when you run the query you see them but not when you get the template
     - (8:20午前) let's try both of those things
     - (8:20午前) you might have to try creating a new template, it's possible that you aren't doing this correctly
-- (9:07午前) you were only getting that error because you didn't add the authorisation stuff
-    - you CAN get the details with get product
 
 ## Current status
 - when you generate a link either manually (with the checkout template id) or through the api, the link that is provided takes you to an empty checkout
