@@ -24,7 +24,10 @@ The idea behind this document, it's all the things that you are doing right now.
 - Watching through Orange days
   - Episode 1
     - collect screenshots of everything you don't know and organise a lesson with Miho sensei
+  - Episode 2
+    - you should work through the episode at some point, maybe just watch and listen to it a few times first
 - listening through all of the original nihongo con teppei podcast
+- 13 sentinels is fucking sick, maybe I can play a bit before sleeping
 
 
 ## Life Maintenance
