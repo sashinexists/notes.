@@ -1,9 +1,16 @@
 ## (2024/09/18 8:15午前)
 - (8:15午前) Good morning
-    - (8:15午前) the first thing to do
+    - (8:15午前) the first thing to do is to write this wix report
+- (8:18午前) if I remember right I'm not sure if the templates are created
+    - (8:18午前) it seems like they are created but they are empty
+- (8:18午前) when you run the query you see them but not when you get the template
+    - (8:20午前) let's try both of those things
+    - (8:20午前) you might have to try creating a new template, it's possible that you aren't doing this correctly
 
 
- 
+
+
+
 
 ## (2024/09/13 9:58午前)
 - (9:58午前) Okay, now I need to figure out how this wix thing works
