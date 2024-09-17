@@ -28,3 +28,4 @@ The idea behind this document, it's all the things that you are doing right now.
 
 
 ## Life Maintenance
+- Finish the linux course and linux exam
