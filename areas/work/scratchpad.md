@@ -16,6 +16,7 @@
 - (1:36午後) right now if a patient is selected it's only through view prescription
     - let's see what happens when you click on view prescription
 - (2:09午後) you are going to have to shove more stuff into the model
+    - I wonder if it would be better if you didn't get all the prescriptions in the table
 
 
 
