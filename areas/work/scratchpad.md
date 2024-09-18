@@ -10,9 +10,16 @@
     - you CAN get the details with get product
         - and get checkout template
 - (9:42午前) probably just go to doing other things until this is done
+- (11:57午前) improved the way that the patient section looks like
+
 
 
 ## Current status
+- When the POST request for "create_checkout_from_template" with a checkout template id, a URL is returned which leads to an empty checkout and the dialogue "You can't place your order just yet".
+- Running the POST request "query_checkout_templates" returns a list of checkout templates(ie; the checkout template exists)
+- Running the GET request "get_checkout_template" with the checkout_template_id returns details about the template (ie; the checkout template exists)
+
+
 - when you generate a link either manually (with the checkout template id) or through the api, the link that is provided takes you to an empty checkout
     - it says "you can't place your order just get"
 - when you query your checkout templates you can see them
