@@ -11,6 +11,14 @@
         - and get checkout template
 - (9:42午前) probably just go to doing other things until this is done
 - (11:57午前) improved the way that the patient section looks like
+- (12:16午後) need to make pages for medical history, assessments and consent forms
+    - make new branches
+- (1:36午後) right now if a patient is selected it's only through view prescription
+    - let's see what happens when you click on view prescription
+- (2:09午後) you are going to have to shove more stuff into the model
+
+
+
 
 
 
