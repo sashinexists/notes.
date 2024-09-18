@@ -8,13 +8,17 @@
     - (8:20午前) you might have to try creating a new template, it's possible that you aren't doing this correctly
 - (9:07午前) you were only getting that error because you didn't add the authorisation stuff
     - you CAN get the details with get product
+        - and get checkout template
+- (9:42午前) probably just go to doing other things until this is done
+
 
 ## Current status
 - when you generate a link either manually (with the checkout template id) or through the api, the link that is provided takes you to an empty checkout
     - it says "you can't place your order just get"
 - when you query your checkout templates you can see them
     - this implies that they are there
-- when you run the get checkout template query, an empty response is there
+- when you run the get checkout template query, you get a result
+    - you can get the details with get checkout template
 
 
 
