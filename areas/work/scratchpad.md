@@ -1,3 +1,10 @@
+## (2024/09/19 8:23午前)
+- (8:23午前) ask ben about if only APA will see this screen, if it needs to work for phone and tablet too
+- (10:19午前) need to make created show up in the medical details model
+
+
+
+
 ## (2024/09/18 8:15午前)
 - (8:15午前) Good morning
     - (8:15午前) the first thing to do is to write this wix report
