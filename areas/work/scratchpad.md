@@ -1,6 +1,13 @@
 ## (2024/09/19 8:23午前)
 - (8:23午前) ask ben about if only APA will see this screen, if it needs to work for phone and tablet too
 - (10:19午前) need to make created show up in the medical details model
+- (3:06午後) next task is to add the two buttons, one branch each button
+- (3:49午後) line 128, you need to replace the msg here
+- (3:54午後) next up: figure out how the treatment pad works
+
+
+
+
 
 
 
