@@ -1,3 +1,7 @@
+## (2024/09/20 8:46午前)
+- 
+
+
 ## (2024/09/19 8:23午前)
 - (8:23午前) ask ben about if only APA will see this screen, if it needs to work for phone and tablet too
 - (10:19午前) need to make created show up in the medical details model
