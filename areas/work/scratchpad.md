@@ -1,5 +1,11 @@
 ## (2024/09/20 8:46午前)
-- 
+- (9:43午前) you don't want it to say edit right?
+    - okay first do you want to grab the treatment pad model and stuff it in?
+- (10:56午前) now you want to get everything compiling again
+- (11:39午前) you created a new route to get treatment pads by patient, you gotta use it and stick it into patient management
+
+
+
 
 
 ## (2024/09/19 8:23午前)
