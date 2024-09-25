@@ -32,13 +32,8 @@
   - you should make a script that adds a new blog from a markdown file (and asks for everything else)
 
 
-## rust data for site
 
-```rust
-struct Site{
-  pages:
-}
-```
+
 
 
 
