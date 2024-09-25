@@ -11,6 +11,10 @@
   - (12:31午後) maybe I shouldn't buy more oreos
 - (4:30午後) you could redo your blog in htmx
 - (4:34午後) so htmx is a javascript library?
+- (4:39午後) you could do a blog in htmx, it should get a list of blogs 
+  - I guess you could write a rust server
+    - it needs all the blog posts
+    - could generate from the sql
 
 
 
