@@ -4,7 +4,12 @@
 - (10:08午前) something is coming through now which is great but maybe it shouldn't be the same kind of page
     - it should somehow open the treatment pad view
     - just copy the component (maybe make it reusable to editing one edits both)
--
+- (10:56午前) nurse name is already in treatmentpad info
+- (11:11午前) now you just have to get the submit button working
+- (11:55午前) figure out how all this data is related you may need to ask Ben about it
+
+
+
 
 
 
