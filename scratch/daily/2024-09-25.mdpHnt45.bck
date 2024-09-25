@@ -22,6 +22,10 @@
     - but you should
       - hmm... html is valid markdown
       - find everything that you have, basically excerpts, embedded images and embedded video
+- (5:14午後) I need to serve content to do that
+  - would also need a way to create new posts
+    - maybe have a look at what a post is in the database, maybe make a new database
+
 
 
 
