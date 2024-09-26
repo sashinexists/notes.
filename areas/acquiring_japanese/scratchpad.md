@@ -1,3 +1,10 @@
+### (2024/09/27 8:27午前)
+- Right now you want to be able to hear pitch accent perfect
+- hear most normal japanese perfectly
+- dogen recommends listening to the same thing over and over (about 100 times)
+
+
+
 (2024/09/14 5:13午前)
 - right now you want to focus on being able to hear pitch accent
   - migaku is prime

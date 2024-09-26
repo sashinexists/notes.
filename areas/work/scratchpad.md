@@ -1,3 +1,9 @@
+## (2024/09/27 8:29午前)
+- (8:36午前) do we want to add them one at a time
+- (9:10午前) you only want to get the ones that have been marked
+
+
+
 ## (2024/09/26 8:15午前)
 - (8:15午前) alright you will do a few things at once, the first will be integrating a testing framework
 - (8:29午前) you are almost certainly using elm-explorations
