@@ -5,6 +5,17 @@
     - for now it's okay
 - (1:16午後) write some queries
 - (1:58午後) okay, come back later, just do the thing you were doing originally
+- (2:05午後) you want to make it when you press dispense it adds it to a database
+    - actually you might already have it
+- (2:05午後) what does the escript need? the provision id item id, the nurse id and the provided item id
+- (2:18午後) it's not actually provided until you hit dispense, so the order might be different
+- (2:19午後) just move this to got provided item
+- (3:29午後) just check if the types of all these ids are right
+
+
+
+
+
 
 
 
