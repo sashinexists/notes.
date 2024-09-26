@@ -1,3 +1,13 @@
+## (2024/09/26 8:15午前)
+- (8:15午前) alright you will do a few things at once, the first will be integrating a testing framework
+- (8:29午前) you are almost certainly using elm-explorations
+- (10:06午前) what should be stuck in there?
+    - for now it's okay
+
+
+
+
+
 ## (2024/09/25 8:43午前)
 - (8:43午前) okay make a new branch to fix these link
 - (9:28午前) okay now you need to stick this in the patient management page, first make an api thing
