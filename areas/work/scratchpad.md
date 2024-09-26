@@ -11,7 +11,7 @@
 - (2:18午後) it's not actually provided until you hit dispense, so the order might be different
 - (2:19午後) just move this to got provided item
 - (3:29午後) just check if the types of all these ids are right
-- (3:56午後) you made a function `create_escript` in prescription_items.py line 41, tomorrow you will have to use it
+- (3:56午後) you made a function `create_escript` in prescription_items.py line 41, tomorrow you will have to use it in elm and then send an email
 
 
 
