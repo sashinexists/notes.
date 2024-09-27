@@ -57,3 +57,7 @@ The extra steps are bureacracy and complexity.
 The extra steps increase the complexity of the system so that the injustice is obscured.
 
 At best these work to get the slaves to enthusiastically accept their condition, but more realistically it gets them to begrudgingly accept them as if a law of nature, something that "just is" rather than something that needs to continually manufactured over and over.
+
+Systems are not static things. They are a web of relationships of interconnected parts, some of which are in turn systems themselves.
+
+They aren't "just there", but need to continually be reproducing the conditions necessary for their existence.
