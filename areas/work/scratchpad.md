@@ -1,6 +1,16 @@
 ## (2024/09/27 8:29午前)
 - (8:36午前) do we want to add them one at a time
 - (9:10午前) you only want to get the ones that have been marked
+- (9:48午前) next big task will be redoing that form, you probably should find the branch
+    - (10:39午前) there was a lot of work and there are a lot of conflicts
+- (10:40午前) let's make a new branch and explore the external forms stuff
+    - I think that this was just a single external form
+- (10:40午前) from memory, the nurse could click a "send to patient button" that would open another interface with the select prescription items interface and a field for the patient's email
+    - from here, this would send a link to the patient and they would open a form
+        - doesn't seem too complicated, I should just do it straight up
+
+
+
 
 
 
