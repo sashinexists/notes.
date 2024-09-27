@@ -4,7 +4,7 @@ You are a slave.
 
 The food you eat is grown, processed and distributed by slaves.
 
-The building you live in was built and is bein maintained by slaves.
+The building you live in was built and is being maintained by slaves.
 
 The clothes that you wear where made by slaves.
 
@@ -32,7 +32,7 @@ This is not good.
 
 One person's bread shouldn't be dependent on another person's pleasure, covenience or even self-actualisation.
 
-Your life, or anyone else's life for that matter, shouldn't depend on labour that doesn't anything except sustain your life.
+Your life, or anyone else's life for that matter, shouldn't depend on labour that does anything except sustain our lives.
 
 When one person's desires and whims determine another person's needs, we have slavery.
 
