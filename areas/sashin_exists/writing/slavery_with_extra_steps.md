@@ -50,4 +50,10 @@ The title of this piece "Slavery with extra steps", is something I first heard i
 
 > "That just sounds like slavery with extra steps."
 
-The extra steps are bureacracy and complexity. The extra steps increase the complexity of the system so that the injustice is obscured.
+What are the extra steps?
+
+The extra steps are bureacracy and complexity. 
+
+The extra steps increase the complexity of the system so that the injustice is obscured.
+
+At best these work to get the slaves to enthusiastically accept their condition, but more realistically it gets them to begrudgingly accept them as if a law of nature, something that "just is" rather than something that needs to continually manufactured over and over.
