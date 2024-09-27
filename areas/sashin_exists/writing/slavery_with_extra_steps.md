@@ -32,3 +32,11 @@ This is not good.
 
 One person's bread shouldn't be dependent on another person's pleasure, covenience or even self-actualisation.
 
+Your life, or anyone else's life for that matter, shouldn't depend on labour that doesn't anything except sustain your life.
+
+When one person's desires and whims determine another person's needs, we have slavery.
+
+We humans should collectively work together to meet our collective needs.
+
+"The productivity benefits of automation have not led to a 15-hour workweek, as predicted by economist John Maynard Keynes in 1930, but instead to "bullshit jobs": "a form of paid employment that is so completely pointless, unnecessary, or pernicious that even the employee cannot justify its existence even though, as part of the conditions of employment, the employee feels obliged to pretend that this is not the case".
+
