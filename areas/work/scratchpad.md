@@ -12,6 +12,9 @@
     - we can start with the form
         - we can make it open a separate thing, just the patient's email, first name and last name (which can autofill)
 - (2:43午後) sorting out errors that you caused in OfficeUse.elm
+- (3:55午後) still sorting out this mess, hopefully into something good
+
+
 
 
 
