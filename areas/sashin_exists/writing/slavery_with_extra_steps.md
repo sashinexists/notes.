@@ -41,3 +41,10 @@ We humans should collectively work together to meet our collective needs.
 This is not what we are doing.
 
 We are wasting the bulk of our lives in our nine-to-fives, and if we are being honest with ourselves, not achieving very much.
+
+---
+
+The title of this piece "Slavery with extra steps", is something I first heard in an early episode of Rick and Morty. 
+
+"It's society, they work for each other, they pay each other, they buy houses, they get married and make children that replace them when they get too old"
+"That just sounds like slavery with extra steps"
