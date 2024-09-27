@@ -11,8 +11,6 @@
 - (1:42午後) okay what would be the first thing to work on?
     - we can start with the form
         - we can make it open a separate thing, just the patient's email, first name and last name (which can autofill)
-- (2:43午後) sorting out errors that you caused in OfficeUse.elm
-
 
 
 
