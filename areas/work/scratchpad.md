@@ -3,6 +3,10 @@
     - actually it might not be necessary, so long as the patient has to enter their address
 - (9:23午前) you should probably move medicare card input form into a new module
 - (10:26午前) maybe you need to do something similar for address input
+- (3:29午後) up to OfficeUse.elm, need to see if everything still works after the compiler errors have been taken care of
+- (3:41午後) no errors but the toggle form doesn't do anything
+
+
 
 
 
