@@ -1,3 +1,13 @@
+## (2024/10/02 9:07午前)
+- (9:07午前) you might have to have the nurse enter the address
+    - actually it might not be necessary, so long as the patient has to enter their address
+- (9:23午前) you should probably move medicare card input form into a new module
+- (10:26午前) maybe you need to do something similar for address input
+
+
+
+
+
 ## (2024/09/27 8:29午前)
 - (8:36午前) do we want to add them one at a time
 - (9:10午前) you only want to get the ones that have been marked
