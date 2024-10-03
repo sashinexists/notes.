@@ -9,10 +9,13 @@
     - things to do
         - [ ] fix the problem with the msg passing
             - reorder favourites works, but it doesn't load automatically
+            - seems to be a problem with line 861
+                - you need to change the way this works
         - [x] hide the first button until a nurse is selected
         - [ ] hide the final button until everything is done
             - [ ] maybe show errors
         - [ ] play with staging and see if everything works
+        - [ ] put everything into different boxes
         - [ ] maybe separate out the email into a new module
 
 
