@@ -1,3 +1,13 @@
+## (2024/10/09 7:59午前)
+- (7:59午前) first make a ticket looking at any and all print statements in the python
+    - remember to pull new changes from ben
+    - after that then go back to what you were woring on last week
+- (8:03午前) ask ben if there's a another way to print
+
+
+
+
+
 ## (2024/10/03 8:06午前)
 - (8:06午前) ask ben about the button, also the behaviour after sending, should the nurse no longer have access to the next steps
 - (9:13午前) okay select prescription items does require the patient details
