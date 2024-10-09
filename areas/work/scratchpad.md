@@ -3,6 +3,10 @@
     - remember to pull new changes from ben
     - after that then go back to what you were woring on last week
 - (8:03午前) ask ben if there's a another way to print
+- (10:20午前) it's application email and volume that need a thing
+- (10:20午前) let's pull it out and then go back to what you were doing
+
+
 
 
 
