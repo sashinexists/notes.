@@ -1,3 +1,8 @@
+## (2024/10/10 8:22午前)
+- (8:22午前) 
+
+
+
 ## (2024/10/09 7:59午前)
 - (7:59午前) first make a ticket looking at any and all print statements in the python
     - remember to pull new changes from ben
