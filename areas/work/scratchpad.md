@@ -5,6 +5,22 @@
 - (8:03午前) ask ben if there's a another way to print
 - (10:20午前) it's application email and volume that need a thing
 - (10:20午前) let's pull it out and then go back to what you were doing
+- (12:05午後) I don't care about helix not displaying properly
+- (12:24午後) okay now you can finish doing what you were doing in reference to the request prescription form
+- (12:45午後) copying the below list from last week
+    - things to do
+        - [ ] fix the problem with the msg passing
+            - reorder favourites works, but it doesn't load automatically
+            - seems to be a problem with line 861
+                - you need to change the way this works
+        - [x] hide the first button until a nurse is selected
+        - [ ] hide the final button until everything is done
+            - [ ] maybe show errors
+        - [x] put everything into different boxes
+- (12:49午後) split into seperate cards then make the final button look better
+- (2:11午後) now you wanna validate the form
+
+
 
 
 
