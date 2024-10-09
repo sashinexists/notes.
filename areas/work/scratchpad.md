@@ -19,6 +19,10 @@
         - [x] put everything into different boxes
 - (12:49午後) split into seperate cards then make the final button look better
 - (2:11午後) now you wanna validate the form
+- (3:42午後) currently working on validateMedicareCardInput in MedicareCardInputForm.elm 
+    - (3:57午後) gotta read your code and figure out how this works
+
+
 
 
 
