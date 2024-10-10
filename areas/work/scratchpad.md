@@ -1,3 +1,12 @@
+## (2024/10/11 8:25午前)
+- (8:25午前) copying the todo list from yesterday
+    - [ ] customise the email
+    - [ ] look into the errors not showing problem
+    - [ ] look to see if you can get select prescription items loading nicely
+    - [x] delete the external forms file you made
+    - [ ] start work on the pretreatment form
+
+
 ## (2024/10/10 8:22午前)
 - (8:22午前) you should make an error with the invalid email
 - (10:31午前) maybe you should make a new type of error that's yellow?
