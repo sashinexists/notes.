@@ -1,10 +1,14 @@
 ## (2024/10/11 8:25午前)
 - (8:25午前) copying the todo list from yesterday
     - [ ] customise the email
+        - [ ] include the name of the patient
+        - [ ] also get rid of any and all reference to APA
     - [ ] look into the errors not showing problem
     - [ ] look to see if you can get select prescription items loading nicely
     - [x] delete the external forms file you made
     - [ ] start work on the pretreatment form
+- (8:31午前) going to rewrite the email
+
 
 
 ## (2024/10/10 8:22午前)
