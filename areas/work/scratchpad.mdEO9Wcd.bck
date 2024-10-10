@@ -4,7 +4,7 @@
         - [x] include the name of the patient
         - [x] also get rid of any and all reference to APA
         - [x] also added the clinic name and hcp name
-    - [x] look into the errors not showing problem
+    - [ ] look into the errors not showing problem
         - this is when select prescription items is open
     - [ ] look to see if you can get select prescription items loading nicely
     - [x] delete the external forms file you made
