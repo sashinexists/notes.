@@ -3,7 +3,19 @@
 - (10:31午前) maybe you should make a new type of error that's yellow?
 - (11:09午前) next up add a display for send form to patient validation errors
 - (1:02午後) need to create a new onboarding form and make it so that the send button emails them this form
-- (2:24午後) errors not showing when no products seleced
+- (2:24午後) errors not showing when no products selected
+- (2:25午後) disable button after email sent
+- (2:41午後) you need to customise the email
+- (2:41午後) to do
+    - [ ] customise the email
+    - [ ] look into the errors not showing problem
+    - [ ] look to see if you can get select prescription items loading nicely
+    - [ ] delete the external forms file you made
+    - [ ] start work on the pretreatment form
+    
+
+
+
 
 
 
