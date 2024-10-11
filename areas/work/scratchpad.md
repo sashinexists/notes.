@@ -19,6 +19,7 @@
     - creates a new record in the table
     - in external form details is the id to that
 - (12:56午後) okay you've created the table now you just have to use it
+    - you create the record on that send to patient button, but the id of the created record in details in external form details
 
 
 
