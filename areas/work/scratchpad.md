@@ -6,10 +6,22 @@
         - [x] also added the clinic name and hcp name
     - [x] look into the errors not showing problem
         - this is when select prescription items is open
-    - [ ] look to see if you can get select prescription items loading nicely
+    - [x] look to see if you can get select prescription items loading nicely
     - [x] delete the external forms file you made
     - [ ] start work on the pretreatment form
 - (8:31午前) going to rewrite the email
+- (10:07午前) it's probably something to do with the message passing in
+- (10:42午前) it now loads right away
+- (10:43午前) save it, next thing to do is thinking about what to put in that database
+    - probably want to make a pret
+- (10:45午前) okay you are going to make a pretreatment form
+    - you want to create it on the send to patient button
+    - creates a new record in the table
+    - in external form details is the id to that
+
+
+
+
 
 
 
