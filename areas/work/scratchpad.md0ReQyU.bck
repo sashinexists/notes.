@@ -22,6 +22,7 @@
     - you create the record on that send to patient button, but the id of the created record in details in external form details
 - (2:11午後) gotta figure out what details to get and how to put it into the database
     - need to figure out how SelectPrescriptionItems works and how it sends things to the database
+- (3:23午後) can't adapt type dict
 
 
 

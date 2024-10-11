@@ -8,7 +8,7 @@
         - this is when select prescription items is open
     - [x] look to see if you can get select prescription items loading nicely
     - [x] delete the external forms file you made
-    - [ ] start work on the pretreatment form
+    - [x] start work on the pretreatment form
 - (8:31午前) going to rewrite the email
 - (10:07午前) it's probably something to do with the message passing in
 - (10:42午前) it now loads right away
