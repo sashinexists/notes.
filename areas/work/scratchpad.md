@@ -23,6 +23,9 @@
 - (2:11午後) gotta figure out what details to get and how to put it into the database
     - need to figure out how SelectPrescriptionItems works and how it sends things to the database
 - (3:23午後) can't adapt type dict
+- (3:29午後) you successfully have it going into the database, now you have to actually use it to build the form 
+    - there's a to do for this in the ExternalForms.elm
+
 
 
 
