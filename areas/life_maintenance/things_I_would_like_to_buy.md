@@ -2,7 +2,7 @@
   - [] actually a fairphone to install lineageOS on (~$1400): https://www.amazon.com.au/Fairphone-256GB-8GB-RAM-Transparent/dp/B0CH3QTV43/ref=sr_1_5?crid=2U4O863IG5CVZ&dib=eyJ2IjoiMSJ9.RyuLXGCMmJJq58cBMxmOOWqojdeLlTxON5LG-lNDvi-wFK9ydZ7SGJ8Jec8iV4RxrIvA6cui4DYop4fnMVsaVF7P4aCLg7JNNk8hl_Nzt7FCBSxWAiG3DuN69cUtfRhXUjizhZjP1ouzRxQ80OmvFSRqdQzx3AgOTlBy3YMXAORgiWpSLw1BlxSJZVkhv74-WdEoo2J5IqHVBUSRcMuh1AQh1Kesy9soHYFkJUDUpuFyNEbMegbSsWNg_7ZemZdFNXtIHgEeJJ0f22_NCfz20BHngF-KvQ_9MjiqN3COI-E.6Lt-vDEAbB6vjknmKQf9DPkbtt2AadcTcYx1JbDL8yk&dib_tag=se&keywords=fairphone%2B5&qid=1726253589&sprefix=fairphone%2B%2Caps%2C313&sr=8-5&th=1
 - [] Steam Deck + dock ($1500)
 - [] ultrahuman ring, save on the oura subscription?
-  - [] Thinking about the Oura 4 instead (A$520.67)
+  - [] Thinking about the Oura 4 instead (A$520.67, apparently actually A$570)
 - [] More japanese lessons with natsumi (~$500)
 - [] the pixel tablet (~$800)
 - [] kogan air purifier ($200)
@@ -13,7 +13,6 @@
 - [] new pinebook pro
 - [] henson shaving razor ($150 https://hensonshaving.com/products/henson-al13-in-aircraft-aluminum)
 - [] A bigger floor desk
-- [] more towels
 - [] exercise clothes (sweatpants from uniqlo)
 - [] dumbells maybe?
 - [] An electric bike
