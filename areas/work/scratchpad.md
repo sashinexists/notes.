@@ -15,6 +15,17 @@
     - alright autofill is working!!!
     - should probably test this with another
 - (2:23午後) let's start adding more sections, then you can check if they are filled
+- (3:22午後) going to have to work out how to use the prescription state again
+- (3:24午後) it is a list of treatment types that you need to take into account
+- (3:25午後) bad vibes at work
+    - ben said that he's been through the prescription state a few times
+- (3:28午後) okay so you want to send a list of treatment types and stuff it into the prescription state 
+    - should I take treatment type as a string
+
+
+
+
+
 
 
 
