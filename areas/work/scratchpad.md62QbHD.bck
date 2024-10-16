@@ -1,9 +1,3 @@
-## (2024/10/17 8:12午前)
-- (8:12午前) I think you want to write a decoder and encoder for treatment type
-
-
-
-
 ## (2024/10/16 8:15午前)
 - (8:15午前) okay up to building the form in ExternalForms.elm
 - (8:22午前) it's looking like it might be working
