@@ -1,3 +1,24 @@
+## (2024/10/16 8:15午前)
+- (8:15午前) okay up to building the form in ExternalForms.elm
+- (8:22午前) it's looking like it might be working
+    - next up test the email link again and then build the form
+- (8:36午前) systems theory is changing my view of what software is
+    - software lives in a symbiotic relationship with it's maintainer and users
+- (8:49午前) thinking about things
+    - the HCP section obviously won't be in the pretreatment form
+- (9:47午前) okay think of a way to pass in those details
+    - need to pass in first name, last name and email
+    - also make the medicare card section compulsory
+    - you probably need to use the token to get the data you want
+    - going to make a thing get prefill details
+- (10:33午前) probably going to want to make the route next, maybe you need a new pretreatment file in python
+
+
+
+
+
+
+
 ## (2024/10/11 8:25午前)
 - (8:25午前) copying the todo list from yesterday
     - [x] customise the email
