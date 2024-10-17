@@ -3,7 +3,18 @@
 - (10:19午前) up to line 126
 - (10:38午前) actually up to 172, sorting out this mess
     - the next mess after this is getting the prescription states working and syncing
-- (12:45午後) now you've done the decoders, you need to 
+- (12:45午後) now you've done the decoders, you need to stick it in the model
+- (1:27午後) now you need to get treatment types and put it in the pretreatment form's prescription state
+- (1:59午後) it looks like the list has nothing in it at the moment
+    - need to debug this
+- (2:13午後) treatment types seems to work, now to get it working with semaglutide
+    - after this you want to shove prescription state into everything
+    - first doing it when you get the treatment types after that after every message
+    - maybe make a function for this
+
+
+
+
 
 
 
