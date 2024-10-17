@@ -1,3 +1,7 @@
+## (2024/10/18 8:23午前)
+
+
+
 ## (2024/10/17 8:12午前)
 - (8:12午前) I think you want to write a decoder and encoder for treatment type, you can just stick them in that json
 - (10:19午前) up to line 126
