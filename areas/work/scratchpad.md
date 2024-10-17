@@ -1,5 +1,6 @@
 ## (2024/10/18 8:23午前)
 - (8:23午前) first up try semaglutide
+    - semaglutide just works
 
 
 
