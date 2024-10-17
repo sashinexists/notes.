@@ -1,7 +1,9 @@
 ## (2024/10/17 8:12午前)
 - (8:12午前) I think you want to write a decoder and encoder for treatment type, you can just stick them in that json
 - (10:19午前) up to line 126
-- (10:38午前) actually up to 172
+- (10:38午前) actually up to 172, sorting out this mess
+    - the next mess after this is getting the prescription states working and syncing
+
 
 
 
