@@ -3,6 +3,8 @@
     - semaglutide just works
 - (9:09午前) it looks like it's refreshing, next up you want to figure out consents
 - (12:36午後) just fixed a bunch of big problems, media consents is working
+- (12:44午後) you don't want them to be fully refreshed after all
+
 
 
 
