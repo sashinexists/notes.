@@ -5,6 +5,8 @@
 - (12:36午後) just fixed a bunch of big problems, media consents is working
 - (12:44午後) you don't want them to be fully refreshed after all
 - (2:42午後) you have to not refresh media and consents with each other
+- (3:32午後) next up you want to make it so that
+
 
 
 
