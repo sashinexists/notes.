@@ -2,7 +2,8 @@
 - (8:23午前) first up try semaglutide
     - semaglutide just works
 - (9:09午前) it looks like it's refreshing, next up you want to figure out consents
-- (9:14午前) 
+- (12:36午後) just fixed a bunch of big problems, media consents is working
+
 
 
 
