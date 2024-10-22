@@ -1,5 +1,7 @@
 ## (2024/10/23 8:04午前)
 - (8:04午前) up next you want to make it so that the button works
+    - (8:24午前) maybe start with validating everything?
+
 
 
 
