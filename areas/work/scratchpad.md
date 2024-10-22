@@ -1,3 +1,8 @@
+## (2024/10/23 8:04午前)
+- (8:04午前) up next you want to make it so that the button works
+
+
+
 ## (2024/10/18 8:23午前)
 - (8:23午前) first up try semaglutide
     - semaglutide just works
