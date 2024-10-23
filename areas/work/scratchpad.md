@@ -1,3 +1,8 @@
+## (2024/10/24 8:18午前)
+- (8:19午前) 
+
+
+
 ## (2024/10/23 8:04午前)
 - (8:04午前) up next you want to make it so that the button works
     - (8:24午前) maybe start with validating everything?
@@ -8,12 +13,6 @@
 - (2:01午後) okay the errors for the patient are displaying, next up, medicare card details
 
 
-
-
-
-
-
-
 ## (2024/10/18 8:23午前)
 - (8:23午前) first up try semaglutide
     - semaglutide just works
@@ -22,13 +21,6 @@
 - (12:44午後) you don't want them to be fully refreshed after all
 - (2:42午後) you have to not refresh media and consents with each other
 - (3:32午後) next up you want to make it so that
-
-
-
-
-
-
-
 
 
 
