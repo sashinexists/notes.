@@ -5,6 +5,8 @@
 - (11:42午前) maybe make the errors display
     - after that work on the medicare card errors
 - (12:45午後) going to display the date and address errors properly
+- (2:01午後) okay the errors for the patient are displaying, next up, medicare card details
+
 
 
 
