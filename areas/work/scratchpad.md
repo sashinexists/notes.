@@ -2,6 +2,8 @@
 - (8:04午前) up next you want to make it so that the button works
     - (8:24午前) maybe start with validating everything?
 - (9:07午前) okay next validate address, medicare card and date of birth
+- (11:42午前) maybe make the errors display
+
 
 
 
