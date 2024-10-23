@@ -3,6 +3,9 @@
     - (8:24午前) maybe start with validating everything?
 - (9:07午前) okay next validate address, medicare card and date of birth
 - (11:42午前) maybe make the errors display
+    - after that work on the medicare card errors
+- (12:45午後) going to display the date and address errors properly
+
 
 
 
