@@ -1,6 +1,8 @@
 ## (2024/10/24 8:18午前)
 - (8:19午前) okay medicare card details errors, need to continue working on that 
 - (10:00午前) up to line 258
+- (11:36午前) add validation to every message then
+
 
 
 
