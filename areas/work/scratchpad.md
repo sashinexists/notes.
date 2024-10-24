@@ -7,6 +7,9 @@
     - also you have to make it take away the error when it is solved?
     - need to fix a problem with the address
     - after that look at the position of everything
+- (1:29午後) now you want to look at the positions of everything
+    - start with medicare card details then move on to patient details
+
 
  
 
