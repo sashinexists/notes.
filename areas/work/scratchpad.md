@@ -9,6 +9,7 @@
     - after that look at the position of everything
 - (1:29午後) now you want to look at the positions of everything
     - start with medicare card details then move on to patient details
+- (2:20午後) now you want to update the errors with every message
 
 
  
