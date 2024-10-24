@@ -1,6 +1,7 @@
 ## (2024/10/25 8:07午前)
 - (8:35午前) 98% laptop battery
 - (9:10午前) next up the consents
+    - in consents.elm do a check if signed
 
 
 
