@@ -1,3 +1,9 @@
+## (2024/10/25 8:07午前)
+- (8:35午前) 98% battery
+
+
+
+
 ## (2024/10/24 8:18午前)
 - (8:19午前) okay medicare card details errors, need to continue working on that 
 - (10:00午前) up to line 258
