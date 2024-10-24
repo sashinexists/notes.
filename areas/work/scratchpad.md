@@ -4,6 +4,9 @@
 - (11:36午前) add validation to every message then
 - (12:23午後) you need to make it refresh on every message in medicare card input form
 - (12:51午後) you have to get the address error working properly
+    - also you have to make it take away the error when it is solved?
+    - need to fix a problem with the address
+    - after that look at the position of everything
 
  
 
