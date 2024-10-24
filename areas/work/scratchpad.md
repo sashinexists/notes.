@@ -12,6 +12,8 @@
 - (2:20午後) now you want to update the errors with every message in the patient section
 - (3:02午後) having problems with AddressNotSelected
 - (3:10午後) let's try to fix the spaces now
+- (3:30午後) next up you want to work through the other sections
+
 
 
 
