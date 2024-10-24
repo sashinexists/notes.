@@ -3,6 +3,8 @@
 - (10:00午前) up to line 258
 - (11:36午前) add validation to every message then
 - (12:23午後) you need to make it refresh on every message in medicare card input form
+- (12:51午後) you have to get the address error working properly
+
  
 
 
