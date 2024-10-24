@@ -11,6 +11,8 @@
     - start with medicare card details then move on to patient details
 - (2:20午後) now you want to update the errors with every message in the patient section
 - (3:02午後) having problems with AddressNotSelected
+- (3:10午後) let's try to fix the spaces now
+
 
 
 
