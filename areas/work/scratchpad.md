@@ -3,6 +3,8 @@
 - (9:10午前) next up the consents
     - in Consents.elm do a check if signed function
 - (11:04午前) 35% laptop battery
+- (11:25午前) seems to be working as expected, now you want to get an error count
+
 
 
 
