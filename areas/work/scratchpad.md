@@ -5,6 +5,8 @@
 - (11:04午前) 35% laptop battery
 - (11:25午前) seems to be working as expected, now you want to get an error count
 - (11:30午前) 23% battery
+- (11:46午前) next up count the date
+
 
 
 
